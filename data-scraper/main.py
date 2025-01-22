@@ -1,73 +1,80 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 import json
 
-def scrape_birds():
-    url = 'https://en.wikipedia.org/wiki/List_of_birds_of_Great_Britain'
-    response = requests.get(url)
-    response.raise_for_status()
-    
-    soup = BeautifulSoup(response.content, 'html.parser')
-    tables = soup.find_all('table', {'class': 'wikitable'})
-    
-    birds = []
-    
+# Types
+type BirdConfig = dict[str, str | function]
+
+# URLs
+BRITISH_BIRDS_URL = "https://en.wikipedia.org/wiki/List_of_birds_of_Great_Britain"
+BRITISH_MAMMALS_URL = "https://en.wikipedia.org/wiki/List_of_mammals_of_Great_Britain"
+POLISH_BIRDS_URL = "https://pl.wikipedia.org/wiki/Ptaki_Polski"
+POLISH_MAMMALS_URL = "https://pl.wikipedia.org/wiki/Ssaki_Polski"
+
+
+# Utils
+def is_british_bird_status_valid(cells: list[str]) -> bool:
+    try:
+        [category, status] = cells[2].get_text().split(" – ")
+        return category == "A" and not any(
+            element in status for element in ["rare", "scarce", "vagrant"]
+        )
+    except ValueError:
+        return False
+
+
+def is_polish_bird_status_valid(cells: list[str]) -> bool:
+    category = cells[2].get_text()
+    status = cells[3].get_text()
+    return category == "A" and not any(
+        element in status for element in ["zalatuje", "skrajnie nielicznie"]
+    )
+
+
+# Configs
+british_bird_table_config: BirdConfig = {
+    "lang": "en",
+    "name_column": 0,
+    "status_function": is_british_bird_status_valid,
+}
+
+polish_bird_table_config: BirdConfig = {
+    "lang": "pl",
+    "name_column": 0,
+    "status_function": is_polish_bird_status_valid,
+}
+
+
+def read_bird_table(soup: BeautifulSoup, config: BirdConfig) -> dict[str, str]:
+    tables = soup.find_all("table", {"class": "wikitable"})
+    links = {}
     for table in tables:
-        for row in table.find_all('tr'):
-            cells = row.find_all('td')
-            if len(cells) >= 3:
-                # Process first cell
-                first_cell = cells[0]
-                
-                # Extract common name and link
-                a_tag = first_cell.find('a')
-                common_name = ''
-                link = ''
-                
-                if a_tag:
-                    common_name = a_tag.get_text(strip=True)
-                    link = a_tag.get('href', '')
-                
-                # Extract remaining text for Latin name
-                remaining_text = first_cell.get_text(strip=True)
-                latin_name = ''
-                
-                if '(' in remaining_text and ')' in remaining_text:
-                    latin_part = remaining_text.split('(', 1)[1].split(')', 1)[0]
-                    latin_name = latin_part.strip()
-                
-                # Handle cases without links
-                if not a_tag:
-                    if '(' in remaining_text:
-                        common_name = remaining_text.split('(', 1)[0].strip()
-                    else:
-                        common_name = remaining_text.strip()
-                
-                # Clean up common name from link text
-                if a_tag and common_name in remaining_text:
-                    remaining_text = remaining_text.replace(common_name, '').strip()
-                
-                # Process status
-                status_cell = cells[2]
-                for sup in status_cell.find_all('sup'):
-                    sup.decompose()
-                status = status_cell.get_text(' ', strip=True)
-                
-                # Build full Wikipedia URL
-                full_link = f'https://en.wikipedia.org{link}' if link else ''
-                
-                birds.append({
-                    'commonName': common_name,
-                    'latinName': latin_name,
-                    'link': full_link,
-                    'status': status
-                })
-    
-    return birds
+        for row in table.find_all("tr"):
+            cells = row.find_all("td")
+            if len(cells) > 1:
+                try:
+                    raw_name = cells[config["name_column"]].get_text().lower()
+                    raw_link = cells[config["name_column"]].find("a")["href"].lower()
+                except:
+                    continue
+
+                # Strip bracketed text (Latin name on British page)
+                name = re.sub(r"\(.*\)", r"", raw_name)
+                link = f"http://{config["lang"]}.wikipedia.org{raw_link}"
+
+                if config["status_function"](cells):
+                    links[name] = link
+    return links
+
 
 def main():
-    birds = scrape_birds()
-    print(json.dumps(birds, indent=2))
+    response = requests.get(POLISH_BIRDS_URL)
+    soup = BeautifulSoup(response.content, "html.parser")
+    print(read_bird_table(soup, polish_bird_table_config))
+    # print(set([bird["status"] for bird in birds]))
+    # print(json.dumps(birds, indent=2))
+
 
 if __name__ == "__main__":
     main()
