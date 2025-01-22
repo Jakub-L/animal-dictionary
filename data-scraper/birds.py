@@ -7,9 +7,7 @@ type BirdConfig = dict[str, str | function]
 
 # URLs
 BRITISH_BIRDS_URL = "https://en.wikipedia.org/wiki/List_of_birds_of_Great_Britain"
-BRITISH_MAMMALS_URL = "https://en.wikipedia.org/wiki/List_of_mammals_of_Great_Britain"
 POLISH_BIRDS_URL = "https://pl.wikipedia.org/wiki/Ptaki_Polski"
-POLISH_MAMMALS_URL = "https://pl.wikipedia.org/wiki/Ssaki_Polski"
 
 
 # Utils
@@ -48,7 +46,7 @@ def read_bird_table(soup: BeautifulSoup, config: BirdConfig) -> dict[str, str]:
                 name = re.sub(r"\(.*\)", r"", raw_name)
                 link = f"http://{config["lang"]}.wikipedia.org{raw_link}"
 
-                if config["status_function"](cells):
+                if config["status_function"](cells) and not "redlink=1" in link:
                     links[name] = link
     return links
 
