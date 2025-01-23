@@ -93,8 +93,16 @@ def read_british_animal(url, ignore_other_language=False):
             )
         if row.get_text().strip() == "Scientific classification":
             animal["classification"] = get_classification(rows, i + 1)
-        if row.find("audio") is not None:
-            animal["audio"] = get_audio(f"{domain}{row.find("audio")["resource"]}")
+
+        audio = row.find("audio")
+        if audio is not None:
+            source = audio.find("source")
+            resource = audio["resource"] if "resource" in audio else None
+            audio_url = resource if resource else source["src"]
+            if source:
+                animal["audio"] = f"https:{audio_url}"
+            else:
+                animal["audio"] = get_audio(f"{domain}{audio_url}")
 
     polish_link = soup.find("a", {"lang": "pl"})["href"]
     if not ignore_other_language and polish_link:
