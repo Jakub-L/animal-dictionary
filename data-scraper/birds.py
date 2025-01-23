@@ -83,7 +83,7 @@ def read_bird_table(soup: BeautifulSoup, config: BirdConfig) -> dict[str, str]:
             if len(cells) > 1:
                 try:
                     raw_name = cells[config["name_column"]].get_text().lower()
-                    raw_link = cells[config["name_column"]].find("a")["href"].lower()
+                    raw_link = cells[config["name_column"]].find("a")["href"]
                 except:
                     continue
 

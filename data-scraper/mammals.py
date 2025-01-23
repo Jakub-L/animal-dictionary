@@ -59,7 +59,7 @@ def get_polish_mammal_links():
                     # Check if the table has 5 columns (Full row) or not (row with rowspanning cells)
                     raw_name = cells[2 if len(cells) == 5 else 0].get_text().lower()
                     raw_link = (
-                        cells[2 if len(cells) == 5 else 0].find("a")["href"].lower()
+                        cells[2 if len(cells) == 5 else 0].find("a")["href"]
                     )
                 except:
                     continue
