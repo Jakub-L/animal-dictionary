@@ -67,7 +67,7 @@ def get_classification(rows, start_index):
     for i in range(start_index, len(rows)):
         cells = rows[i].find_all(["td", "th"])
         key = cells[0].get_text().strip().lower().replace(":", "")
-        value = cells[1].get_text().strip().lower()
+        value = list(cells[1].stripped_strings)[0].lower()
         if key == "species" or key == "gatunek":
             return classification
         classification[key] = value
@@ -83,13 +83,13 @@ def read_british_animal(url, ignore_other_language=False):
     soup = BeautifulSoup(requests.get(url).content, "html.parser")
     rows = soup.find("table", {"class": "infobox"}).find_all("tr")
     animal = {
-        "english_name": re.sub(r"\[.*\]", r"", rows[0].get_text().strip()),
+        "english_name": re.sub(r"\[.*\]|\n.*", r"", list(rows[0].stripped_strings)[0]),
         "img_file": get_image(f"{domain}{rows[1].find("a")["href"]}"),
     }
     for i, row in enumerate(rows):
         if row.get_text().strip() == "Binomial name":
             animal["latin_name"] = re.sub(
-                r"\(.*\)", r"", rows[i + 1].get_text().strip().lower()
+                r"\(.*\)|,.*", r"", list(rows[i + 1].stripped_strings)[0].lower()
             )
         if row.get_text().strip() == "Scientific classification":
             animal["classification"] = get_classification(rows, i + 1)
@@ -113,7 +113,7 @@ def read_polish_animal(url, ignore_other_language=False):
         .get_text()
         .strip()
         .lower(),
-        "latin_name": re.sub(r"\[.*\]", r"", rows[0].get_text().strip().lower()),
+        "latin_name": re.sub(r"\[.*\]", r"", list(rows[0].stripped_strings)[0].lower()),
         "img_file": get_image(f"{domain}{rows[3].find("a")["href"]}"),
     }
     for i, row in enumerate(rows):
