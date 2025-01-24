@@ -76,6 +76,7 @@ def get_classification(rows, start_index):
 
 def merge_animals(english, polish):
     english["polish_name"] = polish["polish_name"]
+    return english
 
 
 def read_british_animal(url, ignore_other_language=False):
@@ -105,13 +106,13 @@ def read_british_animal(url, ignore_other_language=False):
                 animal["audio"] = get_audio(f"{domain}{audio_url}")
 
     polish_link = soup.find("a", {"lang": "pl"})
+    polish_animal = {}
     if not ignore_other_language:
         if polish_link:
             polish_animal = read_polish_animal(polish_link["href"], True)
         else:
             return None
-
-    return animal
+    return merge_animals(animal, polish_animal) if not ignore_other_language else animal
 
 
 def read_polish_animal(url, ignore_other_language=False):
@@ -126,8 +127,10 @@ def read_polish_animal(url, ignore_other_language=False):
         "latin_name": re.sub(r"\[.*\]", r"", list(rows[0].stripped_strings)[0].lower()),
     }
     english_link = soup.find("a", {"lang": "en"})["href"]
-    if not ignore_other_language and english_link:
-        english_animal = read_british_animal(english_link, True)
-        print(english_animal)
-
-    return animal
+    english_animal = {}
+    if not ignore_other_language:
+        if english_link:
+            english_animal = read_british_animal(english_link, True)
+        else:
+            return None
+    return merge_animals(english_animal, animal) if not ignore_other_language else animal
