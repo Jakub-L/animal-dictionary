@@ -31,7 +31,7 @@ def get_british_mammal_links():
         a_tag = li.find("a")
         if a_tag and a_tag.get("href").startswith("/wiki/"):
             name = a_tag["title"].lower()
-            link = f"http://en.wikipedia.org{a_tag['href'].lower()}"
+            link = f"http://en.wikipedia.org{a_tag['href']}"
             links[name] = link
     return links
 
@@ -58,9 +58,7 @@ def get_polish_mammal_links():
                 try:
                     # Check if the table has 5 columns (Full row) or not (row with rowspanning cells)
                     raw_name = cells[2 if len(cells) == 5 else 0].get_text().lower()
-                    raw_link = (
-                        cells[2 if len(cells) == 5 else 0].find("a")["href"]
-                    )
+                    raw_link = cells[2 if len(cells) == 5 else 0].find("a")["href"]
                 except:
                     continue
 

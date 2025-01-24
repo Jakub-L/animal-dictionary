@@ -104,15 +104,17 @@ def read_british_animal(url, ignore_other_language=False):
             else:
                 animal["audio"] = get_audio(f"{domain}{audio_url}")
 
-    polish_link = soup.find("a", {"lang": "pl"})["href"]
-    if not ignore_other_language and polish_link:
-        polish_animal = read_polish_animal(polish_link, True)
+    polish_link = soup.find("a", {"lang": "pl"})
+    if not ignore_other_language:
+        if polish_link:
+            polish_animal = read_polish_animal(polish_link["href"], True)
+        else:
+            return None
 
     return animal
 
 
 def read_polish_animal(url, ignore_other_language=False):
-    domain = url.split("/wiki/")[0]
     soup = BeautifulSoup(requests.get(url).content, "html.parser")
     rows = soup.find("table", {"class": "infobox"}).find_all("tr")
     animal = {
@@ -122,12 +124,7 @@ def read_polish_animal(url, ignore_other_language=False):
         .strip()
         .lower(),
         "latin_name": re.sub(r"\[.*\]", r"", list(rows[0].stripped_strings)[0].lower()),
-        "img_file": get_image(f"{domain}{rows[3].find("a")["href"]}"),
     }
-    for i, row in enumerate(rows):
-        if row.get_text().strip() == "Systematyka":
-            animal["classification"] = get_classification(rows, i + 1)
-
     english_link = soup.find("a", {"lang": "en"})["href"]
     if not ignore_other_language and english_link:
         english_animal = read_british_animal(english_link, True)
