@@ -31,8 +31,9 @@ def get_image(url):
         str: The full URL of the image found on the webpage.
     """
     soup = BeautifulSoup(requests.get(url).content, "html.parser")
-    img = soup.find("div", {"class": "fullImageLink"}).find("img")["src"]
-    return f"https:{img}"
+    image_container = soup.find("div", {"class": "fullImageLink"})
+
+    return f"https:{image_container.find("img")["src"]}" if image_container else None
 
 
 def get_audio(url):
@@ -76,6 +77,7 @@ def get_classification(rows, start_index):
 
 def merge_animals(english, polish):
     english["polish_name"] = polish["polish_name"]
+    english["img_file"] = english["img_file"] or polish["img_file"]
     return english
 
 
@@ -116,6 +118,7 @@ def read_british_animal(url, ignore_other_language=False):
 
 
 def read_polish_animal(url, ignore_other_language=False):
+    domain = url.split("/wiki/")[0]
     soup = BeautifulSoup(requests.get(url).content, "html.parser")
     rows = soup.find("table", {"class": "infobox"}).find_all("tr")
     animal = {
@@ -125,6 +128,7 @@ def read_polish_animal(url, ignore_other_language=False):
         .strip()
         .lower(),
         "latin_name": re.sub(r"\[.*\]", r"", list(rows[0].stripped_strings)[0].lower()),
+        "img_file": get_image(f"{domain}{rows[3].find("a")["href"]}"),
     }
     english_link = soup.find("a", {"lang": "en"})["href"]
     english_animal = {}
@@ -133,4 +137,6 @@ def read_polish_animal(url, ignore_other_language=False):
             english_animal = read_british_animal(english_link, True)
         else:
             return None
-    return merge_animals(english_animal, animal) if not ignore_other_language else animal
+    return (
+        merge_animals(english_animal, animal) if not ignore_other_language else animal
+    )

@@ -56,9 +56,8 @@ def get_polish_mammal_links():
             cells = row.find_all("td")
             if len(cells) > 1:
                 try:
-                    # Check if the table has 5 columns (Full row) or not (row with rowspanning cells)
-                    raw_name = cells[2 if len(cells) == 5 else 0].get_text().lower()
-                    raw_link = cells[2 if len(cells) == 5 else 0].find("a")["href"]
+                    raw_name = cells[len(cells) - 3].get_text().lower()
+                    raw_link = cells[len(cells) - 3].find("a")["href"]
                 except:
                     continue
 
