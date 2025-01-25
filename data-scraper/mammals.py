@@ -22,7 +22,7 @@ def get_british_mammal_links():
           corresponding Wikipedia URLs.
     """
     soup = BeautifulSoup(requests.get(BRITISH_MAMMALS_URL).content, "html.parser")
-    links = {}
+    links = []
     for li in soup.find_all("li"):
 
         i_tag = li.find("i")
@@ -30,9 +30,8 @@ def get_british_mammal_links():
             continue
         a_tag = li.find("a")
         if a_tag and a_tag.get("href").startswith("/wiki/"):
-            name = a_tag["title"].lower()
             link = f"http://en.wikipedia.org{a_tag['href']}"
-            links[name] = link
+            links.append(link)
     return links
 
 
@@ -50,20 +49,18 @@ def get_polish_mammal_links():
     """
     soup = BeautifulSoup(requests.get(POLISH_MAMMALS_URL).content, "html.parser")
     tables = soup.find_all("table", {"class": "wikitable"})
-    links = {}
+    links = []
     for table in tables:
         for row in table.find_all("tr"):
             cells = row.find_all("td")
             if len(cells) > 1:
                 try:
-                    raw_name = cells[len(cells) - 3].get_text().lower()
                     raw_link = cells[len(cells) - 3].find("a")["href"]
                 except:
                     continue
 
                 # Strip bracketed text (Latin name on British page)
-                name = re.sub(r"\(.*\)|†", r"", raw_name)
                 link = f"http://pl.wikipedia.org{raw_link}"
 
-                links[name] = link
+                links.append(link)
     return links

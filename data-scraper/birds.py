@@ -76,23 +76,21 @@ def read_bird_table(soup: BeautifulSoup, config: BirdConfig) -> dict[str, str]:
                        Only includes entries that pass the status check and have valid links.
     """
     tables = soup.find_all("table", {"class": "wikitable"})
-    links = {}
+    links = []
     for table in tables:
         for row in table.find_all("tr"):
             cells = row.find_all("td")
             if len(cells) > 1:
                 try:
-                    raw_name = cells[config["name_column"]].get_text().lower()
                     raw_link = cells[config["name_column"]].find("a")["href"]
                 except:
                     continue
 
                 # Strip bracketed text (Latin name on British page)
-                name = re.sub(r"\(.*\)", r"", raw_name)
                 link = f"http://{config["lang"]}.wikipedia.org{raw_link}"
 
                 if config["status_function"](cells) and not "redlink=1" in link:
-                    links[name] = link
+                    links.append(link)
     return links
 
 
