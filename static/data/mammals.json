@@ -2194,5 +2194,39 @@
         },
         "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/800px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
         "audioSrc": null
+    },
+    {
+        "englishName": "Tatra marmot",
+        "polishName": "Świstak tatrzański",
+        "latinName": "marmota marmota latirostris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sciuridae",
+            "genus": "marmota"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/5/54/M.marmota_latirostris_in_Ve%C4%BEk%C3%A1_Studen%C3%A1_dolina_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tatra chamois",
+        "polishName": "Kozica tatrzańska",
+        "latinName": "rupicapra rupicapra tatrica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "bovidae",
+            "subfamily": "caprinae",
+            "tribe": "caprini",
+            "genus": "rupicapra"
+        },
+        "imageSrc": "",
+        "audioSrc": null
     }
 ]
