@@ -125,8 +125,7 @@ def read_polish_animal(url, ignore_other_language=False):
         "polish_name": soup.find("table", {"class": "infobox"})
         .find("caption")
         .get_text()
-        .strip()
-        .lower(),
+        .strip(),
         "latin_name": re.sub(r"\[.*\]", r"", list(rows[0].stripped_strings)[0].lower()),
         "img_file": get_image(f"{domain}{rows[3].find("a")["href"]}"),
     }
@@ -140,3 +139,8 @@ def read_polish_animal(url, ignore_other_language=False):
     return (
         merge_animals(english_animal, animal) if not ignore_other_language else animal
     )
+
+
+def read_animal(url):
+    prefix = re.split(r"//|\.", url)[1]
+    return read_british_animal(url) if prefix == "en" else read_polish_animal(url)
