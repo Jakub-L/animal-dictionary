@@ -1,5 +1,4 @@
 import json
-from pathlib import Path
 
 from birds import get_british_bird_links, get_polish_bird_links
 from mammals import get_british_mammal_links, get_polish_mammal_links
@@ -32,11 +31,28 @@ def process_group(group, output_name):
         file.write("]")
 
 
+def read_manual_imports():
+    groups = {}
+    with open("./manual.json", "r") as file:
+        data = json.load(file)
+        for animal in data:
+            if animal["output"] not in groups:
+                groups[animal["output"]] = []
+            groups[animal["output"]].append(animal["url"])
+    return groups
+
+
 def main():
-    birds = get_polish_bird_links() + get_british_bird_links()
-    mammals = get_polish_mammal_links() + get_british_mammal_links()
-    process_group(birds, "birds")
-    process_group(mammals, "mammals")
+    groups = {
+        "birds": get_polish_bird_links()[0:] + get_british_bird_links(),
+        "mammals": get_polish_mammal_links() + get_british_mammal_links(),
+    }
+
+    for group_name, group in read_manual_imports().items():
+        groups.setdefault(group_name, []).extend(group)
+
+    for group_name, group in groups.items():
+        process_group(group, group_name)
 
 
 if __name__ == "__main__":

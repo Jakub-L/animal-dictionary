@@ -1,0 +1,19 @@
+[
+    {
+        "englishName": "Boa constrictor",
+        "polishName": "Boa dusiciel",
+        "latinName": "boa constrictor",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "suborder": "serpentes",
+            "family": "boidae",
+            "genus": "boa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boa_constrictor%2C_Va%C5%88kovka%2C_Brno_%282%29.jpg/800px-Boa_constrictor%2C_Va%C5%88kovka%2C_Brno_%282%29.jpg",
+        "audioSrc": null
+    }
+]

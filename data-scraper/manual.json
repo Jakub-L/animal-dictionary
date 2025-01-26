@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Chimpanzee",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/African_bush_elephant",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Toco_toucan",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Boa_constrictor",
+    "output": "reptiles"
+  }
+]
