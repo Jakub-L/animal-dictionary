@@ -1,0 +1,4471 @@
+[
+    {
+        "englishName": "Mute swan",
+        "polishName": "\u0141ab\u0119d\u017a niemy",
+        "latinName": "cygnus olor",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "cygnus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/800px-CygneVaires.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tundra swan",
+        "polishName": "\u0141ab\u0119d\u017a czarnodzioby",
+        "latinName": "cygnus columbianus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "cygnus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cygnus_bewickii_01.jpg/800px-Cygnus_bewickii_01.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Bewick%27s_Swan_%28Cygnus_columbianus%29_%28W1CDR0001383_BD2%29.ogg/Bewick%27s_Swan_%28Cygnus_columbianus%29_%28W1CDR0001383_BD2%29.ogg.mp3"
+    },
+    {
+        "englishName": "Whooper swan",
+        "polishName": "\u0141ab\u0119d\u017a krzykliwy",
+        "latinName": "cygnus cygnus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "cygnus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cygnus_cygnus_Singschwan.jpg/600px-Cygnus_cygnus_Singschwan.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4d/Whooper_Swan_%28Cygnus_cygnus%29_%28W_CYGNUS_CYGNUS_R1_C6%29.ogg/Whooper_Swan_%28Cygnus_cygnus%29_%28W_CYGNUS_CYGNUS_R1_C6%29.ogg.mp3"
+    },
+    {
+        "englishName": "Greylag goose",
+        "polishName": "G\u0119gawa",
+        "latinName": "anser anser",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anser"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg/728px-Greylag_Goose_-_St_James%27s_Park%2C_London_-_Nov_2006.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Anser_anser_-_Greylag_Goose_XC436358.mp3/Anser_anser_-_Greylag_Goose_XC436358.mp3.ogg"
+    },
+    {
+        "englishName": "Taiga bean goose",
+        "polishName": "G\u0119\u015b zbo\u017cowa",
+        "latinName": "anser fabalis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anser"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Anser_fabalis_fabalis%2C_Kurortny_District%2C_St_Petersburg%2C_Russia_1.jpg/800px-Anser_fabalis_fabalis%2C_Kurortny_District%2C_St_Petersburg%2C_Russia_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Greater white-fronted goose",
+        "polishName": "G\u0119\u015b bia\u0142oczelna",
+        "latinName": "anser albifrons",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anser"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Greater_white-fronted_goose_in_flight-1045.jpg/776px-Greater_white-fronted_goose_in_flight-1045.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Long-tailed duck",
+        "polishName": "Lod\u00f3wka",
+        "latinName": "clangula hyemalis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "clangula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Long-tailed-duck.jpg/800px-Long-tailed-duck.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Clangula_hyemalis.ogg"
+    },
+    {
+        "englishName": "Common eider",
+        "polishName": "Edredon zwyczajny",
+        "latinName": "somateria mollissima",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "somateria"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg/800px-%D0%9F%D1%83%D1%85%D1%96%D0%B2%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%9A%D1%96%D0%BD%D0%B1%D1%83%D1%80%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9_%D0%BA%D0%BE%D1%81%D1%96.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Velvet scoter",
+        "polishName": "Uhla (zwyczajna)",
+        "latinName": "melanitta fusca",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "melanitta",
+            "subgenus": "melanitta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Velvet_Scoter%2C_Eyebrook_Reservoir%2C_Leics.jpg/800px-Velvet_Scoter%2C_Eyebrook_Reservoir%2C_Leics.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common scoter",
+        "polishName": "Markaczka (zwyczajna)",
+        "latinName": "melanitta nigra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "melanitta",
+            "subgenus": "oidemia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Eurasian_common_scoter.jpg/800px-Eurasian_common_scoter.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common goldeneye",
+        "polishName": "G\u0105go\u0142",
+        "latinName": "bucephala clangula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "bucephala"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Common_Goldeneye_%28Bucephala_clangula%29.jpg/800px-Common_Goldeneye_%28Bucephala_clangula%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Smew",
+        "polishName": "Bielaczek",
+        "latinName": "mergellus albellus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "mergellus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zwergsaeger_maenchen_weibchen.jpg/452px-Zwergsaeger_maenchen_weibchen.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common merganser",
+        "polishName": "Nurog\u0119\u015b",
+        "latinName": "mergus merganser",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "mergus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mergus_merganser_-Sandwell_-England_-male-8.jpg/800px-Mergus_merganser_-Sandwell_-England_-male-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red-breasted merganser",
+        "polishName": "Szlachar",
+        "latinName": "mergus serrator",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "mergus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mergus_serrator_-New_Jersey_-USA_-winter-8.jpg/800px-Mergus_serrator_-New_Jersey_-USA_-winter-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common pochard",
+        "polishName": "G\u0142owienka zwyczajna",
+        "latinName": "aythya ferina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "aythya"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aythya_ferina_Sandwell_2.jpg/793px-Aythya_ferina_Sandwell_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tufted duck",
+        "polishName": "Czernica",
+        "latinName": "aythya fuligula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "aythya"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tufted-Duck-male-female.jpg/433px-Tufted-Duck-male-female.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tufted_Duck.ogg"
+    },
+    {
+        "englishName": "Greater scaup",
+        "polishName": "Ogorza\u0142ka zwyczajna",
+        "latinName": "aythya marila",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "aythya"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2017-03-24_Aythya_marila%2C_male%2C_Killingworth_Lake%2C_Northumberland_15.jpg/800px-2017-03-24_Aythya_marila%2C_male%2C_Killingworth_Lake%2C_Northumberland_15.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Garganey",
+        "polishName": "Cyranka zwyczajna",
+        "latinName": "spatula querquedula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "spatula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Garganey%2C_Israel.jpg/800px-Garganey%2C_Israel.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern shoveler",
+        "polishName": "P\u0142askonos zwyczajny",
+        "latinName": "spatula clypeata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "spatula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Northern_shoveler_Steve_Sinclair_outreach_use_only_%2819838806616%29.jpg/751px-Northern_shoveler_Steve_Sinclair_outreach_use_only_%2819838806616%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Gadwall",
+        "polishName": "Krakwa",
+        "latinName": "mareca strepera",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "mareca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/800px-Gadwall-Anas-strepera.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/Mareca_strepera_-_Gadwall_XC436359.mp3/Mareca_strepera_-_Gadwall_XC436359.mp3.ogg"
+    },
+    {
+        "englishName": "Mallard",
+        "polishName": "Krzy\u017c\u00f3wka zwyczajna",
+        "latinName": "anas platyrhynchos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anas"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg/600px-Anas_platyrhynchos_male_female_quadrat.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg"
+    },
+    {
+        "englishName": "Eurasian teal",
+        "polishName": "Cyraneczka zwyczajna",
+        "latinName": "anas crecca",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anas"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Eurasian_teal_%28Anas_crecca%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/Eurasian_Teal_%28Anas_crecca%29_%28W1CDR0001378_BD3%29.ogg/Eurasian_Teal_%28Anas_crecca%29_%28W1CDR0001378_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common quail",
+        "polishName": "Przepi\u00f3rka (zwyczajna)",
+        "latinName": "coturnix coturnix",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "galliformes",
+            "family": "phasianidae",
+            "genus": "coturnix"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg/571px-Coturnix_coturnix%2C_Fraunberg%2C_Bayern%2C_Deutschland_1%2C_Ausschnitt.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Common_Quail_%28Coturnix_coturnix%29_%28W1CDR0001390_BD1%29.ogg/Common_Quail_%28Coturnix_coturnix%29_%28W1CDR0001390_BD1%29.ogg.mp3"
+    },
+    {
+        "englishName": "Grey partridge",
+        "polishName": "Kuropatwa (zwyczajna)",
+        "latinName": "perdix perdix",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "galliformes",
+            "family": "phasianidae",
+            "genus": "perdix"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Perdix_perdix_Turvey_3.jpg/444px-Perdix_perdix_Turvey_3.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Hazel grouse",
+        "polishName": "Jarz\u0105bek (zwyczajny)",
+        "latinName": "tetrastes bonasia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "galliformes",
+            "family": "phasianidae",
+            "genus": "tetrastes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg/800px-Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western capercaillie",
+        "polishName": "G\u0142uszec  (zwyczajny)",
+        "latinName": "tetrao urogallus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "galliformes",
+            "family": "phasianidae",
+            "genus": "tetrao"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Capercaillie_%288751340764%29.jpg/690px-Capercaillie_%288751340764%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black grouse",
+        "polishName": "Cietrzew (zwyczajny)",
+        "latinName": "lyrurus tetrix",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "galliformes",
+            "family": "phasianidae",
+            "genus": "lyrurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Black_Grouse_Nationalpark_Bayerischer_Wald.jpg/400px-Black_Grouse_Nationalpark_Bayerischer_Wald.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0c/Black_Grouse_%28Tetrao_tetrix%29_%28W1CDR0001396_BD3%29.ogg/Black_Grouse_%28Tetrao_tetrix%29_%28W1CDR0001396_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Little grebe",
+        "polishName": "Perkozek (zwyczajny)",
+        "latinName": "tachybaptus ruficollis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "podicipediformes",
+            "family": "podicipedidae",
+            "genus": "tachybaptus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Little_grebe_Zwergtaucher.jpg/800px-Little_grebe_Zwergtaucher.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red-necked grebe",
+        "polishName": "Perkoz rdzawoszyi",
+        "latinName": "podiceps grisegena",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "podicipediformes",
+            "family": "podicipedidae",
+            "genus": "podiceps"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg/800px-Red-necked_grebe_%28Podiceps_grisegena_grisegena%29_breeding_adult_Gronjordssoen.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great crested grebe",
+        "polishName": "Perkoz dwuczuby",
+        "latinName": "podiceps cristatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "podicipediformes",
+            "family": "podicipedidae",
+            "genus": "podiceps"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_crested_grebe_swimming_2022-02-27.jpg/800px-Great_crested_grebe_swimming_2022-02-27.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Great_Crested_Grebe_%28Podiceps_cristatus%29_%28W1CDR0001488_BD4%29.ogg/Great_Crested_Grebe_%28Podiceps_cristatus%29_%28W1CDR0001488_BD4%29.ogg.mp3"
+    },
+    {
+        "englishName": "Horned grebe",
+        "polishName": "Perkoz rogaty",
+        "latinName": "podiceps auritus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "podicipediformes",
+            "family": "podicipedidae",
+            "genus": "podiceps"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Podiceps_auritus_%2813909539717%29.jpg/800px-Podiceps_auritus_%2813909539717%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black-necked grebe",
+        "polishName": "Perkoz zausznik",
+        "latinName": "podiceps nigricollis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "podicipediformes",
+            "family": "podicipedidae",
+            "genus": "podiceps"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Black-necked_Grebe_Schwarzhalstaucher.jpg/800px-Black-necked_Grebe_Schwarzhalstaucher.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Stock dove",
+        "polishName": "Siniak",
+        "latinName": "columba oenas",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "columbiformes",
+            "family": "columbidae",
+            "genus": "columba"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2019-03-17_Columba_oenas%2C_Jesmond_Dene_1.jpg/800px-2019-03-17_Columba_oenas%2C_Jesmond_Dene_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common wood pigeon",
+        "polishName": "Grzywacz",
+        "latinName": "columba palumbus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "columbiformes",
+            "family": "columbidae",
+            "genus": "columba"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Columba_palumbus_-garden_post-8.jpg/800px-Columba_palumbus_-garden_post-8.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/1/12/Columba_palumbus_birdsong.ogg"
+    },
+    {
+        "englishName": "European turtle dove",
+        "polishName": "Turkawka (zwyczajna)",
+        "latinName": "streptopelia turtur",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "columbiformes",
+            "family": "columbidae",
+            "genus": "streptopelia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Turtle_dove_%28Streptopelia_turtur_turtur%29_Hungary.jpg/600px-Turtle_dove_%28Streptopelia_turtur_turtur%29_Hungary.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/1/10/European_Turtle_Dove_%28Streptopelia_turtur%29_%28W_STREPTOPELIA_TURTUR_R2_C3%29.ogg"
+    },
+    {
+        "englishName": "Eurasian collared dove",
+        "polishName": "Sierp\u00f3wka (zwyczajna)",
+        "latinName": "streptopelia decaocto",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "columbiformes",
+            "family": "columbidae",
+            "genus": "streptopelia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg/800px-2022-04-06_Streptopelia_decaocto%2C_Plovdiv%2C_Bulgaria_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg"
+    },
+    {
+        "englishName": "European nightjar",
+        "polishName": "Lelek zwyczajny",
+        "latinName": "caprimulgus europaeus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "clade": "strisores",
+            "order": "caprimulgiformes",
+            "family": "caprimulgidae",
+            "genus": "caprimulgus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%C5%9Eivanxap%C3%AEnok.jpg/800px-%C5%9Eivanxap%C3%AEnok.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/European_Nightjar_%28Caprimulgus_europaeus%29_%28W1CDR0001526_BD23%29.ogg/European_Nightjar_%28Caprimulgus_europaeus%29_%28W1CDR0001526_BD23%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common swift",
+        "polishName": "Jerzyk (zwyczajny)",
+        "latinName": "apus apus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "clade": "strisores",
+            "order": "apodiformes",
+            "family": "apodidae",
+            "genus": "apus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Apus_apus_-Barcelona%2C_Spain-8_%281%29.jpg/800px-Apus_apus_-Barcelona%2C_Spain-8_%281%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common cuckoo",
+        "polishName": "Kuku\u0142ka (zwyczajna)",
+        "latinName": "cuculus canorus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "cuculiformes",
+            "family": "cuculidae",
+            "genus": "cuculus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0791_cropped.jpg/800px-Cuculus_canorus_vogelartinfo_chris_romeiks_CHR0791_cropped.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Water rail",
+        "polishName": "Wodnik (zwyczajny)",
+        "latinName": "rallus aquaticus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "rallidae",
+            "genus": "rallus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Water_rail_2022_04_30_01.jpg/800px-Water_rail_2022_04_30_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Corn crake",
+        "polishName": "Derkacz",
+        "latinName": "crex crex",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "rallidae",
+            "genus": "crex"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruisr%C3%A4%C3%A4kk%C3%A4.JPG/800px-Ruisr%C3%A4%C3%A4kk%C3%A4.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Spotted crake",
+        "polishName": "Kropiatka",
+        "latinName": "porzana porzana",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "rallidae",
+            "genus": "porzana"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/42/Porzana_porzana_6_%28Marek_Szczepanek%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Spotted_Crake_%28Porzana_porzana%29_%28W1CDR0001382_BD3%29.ogg/Spotted_Crake_%28Porzana_porzana%29_%28W1CDR0001382_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Little crake",
+        "polishName": "Zielonka",
+        "latinName": "zapornia parva",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "rallidae",
+            "genus": "zapornia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Porzana_parva_%2850%29.jpg/800px-Porzana_parva_%2850%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common moorhen",
+        "polishName": "Kokoszka zwyczajna",
+        "latinName": "gallinula chloropus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "rallidae",
+            "genus": "gallinula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/800px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c8/Gallinula_chloropus_-_Common_Moorhen_XC545002.mp3/Gallinula_chloropus_-_Common_Moorhen_XC545002.mp3.ogg"
+    },
+    {
+        "englishName": "Eurasian coot",
+        "polishName": "\u0141yska (zwyczajna)",
+        "latinName": "fulica atra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "rallidae",
+            "genus": "fulica"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%9B%D1%8B%D1%81%D1%83%D1%85%D0%B0_%28Fulica_atra%29%2C_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg/777px-%D0%9B%D1%8B%D1%81%D1%83%D1%85%D0%B0_%28Fulica_atra%29%2C_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/2/26/EurasianCoot.ogg"
+    },
+    {
+        "englishName": "Common crane",
+        "polishName": "\u017buraw (zwyczajny)",
+        "latinName": "grus grus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gruiformes",
+            "family": "gruidae",
+            "genus": "grus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Common_crane_grus_grus.jpg/600px-Common_crane_grus_grus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Grey plover",
+        "polishName": "Siewnica",
+        "latinName": "pluvialis squatarola",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "charadriidae",
+            "genus": "pluvialis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Black-bellied_plover_Egg_Harbor.png/800px-Black-bellied_plover_Egg_Harbor.png",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European golden plover",
+        "polishName": "Siewka z\u0142ota",
+        "latinName": "pluvialis apricaria",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "charadriidae",
+            "genus": "pluvialis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kul%C3%ADk_zlat%C3%BD_%28Pluvialis_apricaria%29_a_%283949776435%29.jpg/800px-Kul%C3%ADk_zlat%C3%BD_%28Pluvialis_apricaria%29_a_%283949776435%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/08/Pluvialis_apricaria_-_European_Golden_Plover_XC132878.ogg/Pluvialis_apricaria_-_European_Golden_Plover_XC132878.ogg.mp3"
+    },
+    {
+        "englishName": "Common ringed plover",
+        "polishName": "Sieweczka obro\u017cna",
+        "latinName": "charadrius hiaticula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "charadriidae",
+            "genus": "charadrius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg/800px-Common_ringed_plover_%28Charadrius_hiaticula%29_Oppdal.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Ringed_Plover_%28Charadrius_hiaticula%29_%28W1CDR0001530_BD2%29.ogg/Ringed_Plover_%28Charadrius_hiaticula%29_%28W1CDR0001530_BD2%29.ogg.mp3"
+    },
+    {
+        "englishName": "Little ringed plover",
+        "polishName": "Sieweczka rzeczna",
+        "latinName": "charadrius dubius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "charadriidae",
+            "genus": "charadrius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flussregenpfeifer_im_flachen_Wasser_01.jpg/714px-Flussregenpfeifer_im_flachen_Wasser_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern lapwing",
+        "polishName": "Czajka (zwyczajna)",
+        "latinName": "vanellus vanellus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "charadriidae",
+            "genus": "vanellus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg/800px-Northern-Lapwing-Vanellus-vanellus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black-tailed godwit",
+        "polishName": "Rycyk",
+        "latinName": "limosa limosa",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "limosa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Black-tailed_godwit_-_Dhichda_Lake%2C_Jamnagar_2023-11-17.jpg/450px-Black-tailed_godwit_-_Dhichda_Lake%2C_Jamnagar_2023-11-17.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Limosa_limosa_-_Black-tailed_Godwit_XC129138.ogg/Limosa_limosa_-_Black-tailed_Godwit_XC129138.ogg.mp3"
+    },
+    {
+        "englishName": "Ruddy turnstone",
+        "polishName": "Kamusznik (zwyczajny)",
+        "latinName": "arenaria interpres",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "arenaria"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arenaria_interpres_%28habitus%29.jpg/800px-Arenaria_interpres_%28habitus%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Curlew sandpiper",
+        "polishName": "Biegus krzywodzioby",
+        "latinName": "calidris ferruginea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Calidris_ferruginea%2C_winter_adult%2C_Pak_Thale.jpg/800px-Calidris_ferruginea%2C_winter_adult%2C_Pak_Thale.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Temminck's stint",
+        "polishName": "Biegus ma\u0142y",
+        "latinName": "calidris temminckii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Temmincks_Stint.jpg/800px-Temmincks_Stint.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/5/53/Calidris_temminckii_song.ogg"
+    },
+    {
+        "englishName": "Sanderling",
+        "polishName": "Piaskowiec",
+        "latinName": "calidris alba",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sanderling_JG.jpg/800px-Sanderling_JG.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Dunlin",
+        "polishName": "Biegus zmienny",
+        "latinName": "calidris alpina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Calidris_alpina_alpina%2C_Riga%2C_Latvia_1.jpg/800px-Calidris_alpina_alpina%2C_Riga%2C_Latvia_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/7/77/Dunlin_%28Calidris_alpina%29_%28W_CALIDRIS_ALPINA_R1_C13%29.ogg"
+    },
+    {
+        "englishName": "Little stint",
+        "polishName": "Biegus malutki",
+        "latinName": "calidris minuta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Little_Stint_%28Calidris_minuta%29_2.jpg/750px-Little_Stint_%28Calidris_minuta%29_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian woodcock",
+        "polishName": "S\u0142onka (zwyczajna)",
+        "latinName": "scolopax rusticola",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "scolopax"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Woodcock_earthworm.jpg/600px-Woodcock_earthworm.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great snipe",
+        "polishName": "(Bekas) dubelt",
+        "latinName": "gallinago media",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "gallinago"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Greatsnipe_1000.jpg/800px-Greatsnipe_1000.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common snipe",
+        "polishName": "(Bekas) kszyk",
+        "latinName": "gallinago gallinago",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "gallinago"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Common_Snipe_%28Gallinago_gallinago%29_%2826144727151%29.jpg/800px-Common_Snipe_%28Gallinago_gallinago%29_%2826144727151%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Common_Snipe_%28Gallinago_gallinago%29_%28W_GALLINAGO_GALLINAGO_R3_C5%29.ogg/Common_Snipe_%28Gallinago_gallinago%29_%28W_GALLINAGO_GALLINAGO_R3_C5%29.ogg.mp3"
+    },
+    {
+        "englishName": "Jack snipe",
+        "polishName": "Bekasik",
+        "latinName": "lymnocryptes minimus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "lymnocryptes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jack_snipe.png/800px-Jack_snipe.png",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common sandpiper",
+        "polishName": "Brodziec piskliwy",
+        "latinName": "actitis hypoleucos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "actitis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Actitis_hypoleucos_-_Laem_Pak_Bia.jpg/800px-Actitis_hypoleucos_-_Laem_Pak_Bia.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/Common_Sandpiper_%28Actitis_hypoleucos%29_%28W1CDR0001405_BD3%29.ogg/Common_Sandpiper_%28Actitis_hypoleucos%29_%28W1CDR0001405_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Green sandpiper",
+        "polishName": "Samotnik",
+        "latinName": "tringa ochropus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "tringa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Green_sandpiper_%28Tringa_ochropus%29.jpg/800px-Green_sandpiper_%28Tringa_ochropus%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Spotted redshank",
+        "polishName": "Brodziec \u015bniady",
+        "latinName": "tringa erythropus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "tringa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tringa_erythropus_-_Laem_Pak_Bia.jpg/800px-Tringa_erythropus_-_Laem_Pak_Bia.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common greenshank",
+        "polishName": "Kwokacz",
+        "latinName": "tringa nebularia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "tringa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Greenshank_%28Tringa_nebularia%29.jpg/800px-Greenshank_%28Tringa_nebularia%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Common_Greenshank_%28Tringa_nebularia%29_%28W_TRINGA_NEBULARIA_R1_C4%29.ogg"
+    },
+    {
+        "englishName": "Common redshank",
+        "polishName": "Krwawodzi\u00f3b",
+        "latinName": "tringa totanus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "tringa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Common_Redshank_Tringa_totanus.jpg/800px-Common_Redshank_Tringa_totanus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red-necked phalarope",
+        "polishName": "P\u0142atkon\u00f3g szyd\u0142odzioby",
+        "latinName": "phalaropus lobatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "phalaropus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-necked_Phalarope.jpg/800px-Red-necked_Phalarope.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black guillemot",
+        "polishName": "Nurnik (zwyczajny)",
+        "latinName": "cepphus grylle",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "alcidae",
+            "genus": "cepphus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Black_Guillemot_Cepphus_grylle.jpg/800px-Black_Guillemot_Cepphus_grylle.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Razorbill",
+        "polishName": "Alka (zwyczajna)",
+        "latinName": "alca torda",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "alcidae",
+            "genus": "alca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Razorbill_with_a_nice_catch.jpg/800px-Razorbill_with_a_nice_catch.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/Razorbill_%28Alca_torda%29_%28W1CDR0001424_BD7%29.ogg/Razorbill_%28Alca_torda%29_%28W1CDR0001424_BD7%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common murre",
+        "polishName": "Nurzyk (zwyczajny)",
+        "latinName": "uria aalge",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "alcidae",
+            "genus": "uria"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Common_Murre_Uria_aalge.jpg/445px-Common_Murre_Uria_aalge.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e2/Common_Guillemot_%28Uria_aalge%29_%28W1CDR0001424_BD6%29.ogg/Common_Guillemot_%28Uria_aalge%29_%28W1CDR0001424_BD6%29.ogg.mp3"
+    },
+    {
+        "englishName": "Black-headed gull",
+        "polishName": "Mewa \u015bmieszka",
+        "latinName": "chroicocephalus ridibundus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "chroicocephalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chroicocephalus_ridibundus_%28summer%29.jpg/799px-Chroicocephalus_ridibundus_%28summer%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Black-headed_Gulls_%28Larus_ridibundus%29_%28W1CDR0001402_BD19%29.ogg/Black-headed_Gulls_%28Larus_ridibundus%29_%28W1CDR0001402_BD19%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common gull",
+        "polishName": "Mewa siwa",
+        "latinName": "larus canus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "larus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Common_gull_%28Larus_canus%29_adult_breeding_Oppdal.jpg/800px-Common_gull_%28Larus_canus%29_adult_breeding_Oppdal.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser black-backed gull",
+        "polishName": "Mewa \u017c\u00f3\u0142tonoga",
+        "latinName": "larus fuscus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "larus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Larus-fuscus-taxbox.jpg/800px-Larus-fuscus-taxbox.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European herring gull",
+        "polishName": "Mewa srebrzysta",
+        "latinName": "larus argentatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "larus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Larus_argentatus%2C_Vaxholm%2C_Stockholm%2C_Sweden_%2814923468303%29.jpg/800px-Larus_argentatus%2C_Vaxholm%2C_Stockholm%2C_Sweden_%2814923468303%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5c/XC707075_-_European_Herring_Gull_-_Larus_argentatus.mp3/XC707075_-_European_Herring_Gull_-_Larus_argentatus.mp3.ogg"
+    },
+    {
+        "englishName": "Caspian gull",
+        "polishName": "Mewa bia\u0142og\u0142owa",
+        "latinName": "larus cachinnans",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "larus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Caspian_gull_%28Larus_cachinnans%29_summer_Danube_delta.jpg/600px-Caspian_gull_%28Larus_cachinnans%29_summer_Danube_delta.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great black-backed gull",
+        "polishName": "Mewa siod\u0142ata",
+        "latinName": "larus marinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "larus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Great_Black-backed_Gull_Larus_marinus.jpg/752px-Great_Black-backed_Gull_Larus_marinus.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/6/62/Larus_marinus.ogg"
+    },
+    {
+        "englishName": "Caspian tern",
+        "polishName": "Rybitwa wielkodzioba",
+        "latinName": "hydroprogne caspia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "hydroprogne"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sterna-caspia-010.jpg/800px-Sterna-caspia-010.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sandwich tern",
+        "polishName": "Rybitwa czubata",
+        "latinName": "thalasseus sandvicensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "thalasseus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg/800px-2021-07-10_Thalasseus_sandvicensis%2C_St_Marys_Island%2C_Northumberland_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common tern",
+        "polishName": "Rybitwa rzeczna",
+        "latinName": "sterna hirundo",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "sterna"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg/800px-2014-05-18_Sterna_hirundo%2C_Killingworth_Lake%2C_Northumberland_02.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/0/02/Sterna-hirundo-002.ogg"
+    },
+    {
+        "englishName": "Little tern",
+        "polishName": "Rybitwa bia\u0142oczelna",
+        "latinName": "sternula albifrons",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "sternula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%9A%D1%80%D1%8F%D1%87%D0%BE%D0%BA_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9.jpg/800px-%D0%9A%D1%80%D1%8F%D1%87%D0%BE%D0%BA_%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Whiskered tern",
+        "polishName": "Rybitwa bia\u0142ow\u0105sa",
+        "latinName": "chlidonias hybrida",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "chlidonias"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Whiskered_tern_%28Chlidonias_hybrida_delalandii%29.jpg/800px-Whiskered_tern_%28Chlidonias_hybrida_delalandii%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black tern",
+        "polishName": "Rybitwa czarna",
+        "latinName": "chlidonias niger",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "chlidonias"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg/800px-%C4%8Cor%C3%ADk_%C4%8Dierny_%28Chlidonias_niger%29_a_%284644831482%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "White-winged tern",
+        "polishName": "Rybitwa bia\u0142oskrzyd\u0142a",
+        "latinName": "chlidonias leucopterus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "chlidonias"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chlidonias_leucopterus_2023-04-08.jpg/800px-Chlidonias_leucopterus_2023-04-08.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red-throated loon",
+        "polishName": "Nur rdzawoszyi",
+        "latinName": "gavia stellata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gaviiformes",
+            "family": "gaviidae",
+            "genus": "gavia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gavia_Stellata_%C3%96lfus%C3%A1_20090606.jpg/800px-Gavia_Stellata_%C3%96lfus%C3%A1_20090606.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/Red-throated_Diver_%28Gavia_stellata%29_%28W_GAVIA_STELLATA_R3_C8%29.ogg/Red-throated_Diver_%28Gavia_stellata%29_%28W_GAVIA_STELLATA_R3_C8%29.ogg.mp3"
+    },
+    {
+        "englishName": "Black-throated loon",
+        "polishName": "Nur czarnoszyi",
+        "latinName": "gavia arctica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gaviiformes",
+            "family": "gaviidae",
+            "genus": "gavia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Black-throated_Diver%2C_Oulu%2C_Finland_02_%2815195370798%29.jpg/800px-Black-throated_Diver%2C_Oulu%2C_Finland_02_%2815195370798%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black stork",
+        "polishName": "Bocian czarny",
+        "latinName": "ciconia nigra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "ciconiiformes",
+            "family": "ciconiidae",
+            "genus": "ciconia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ciconia_nigra_-Kruger_National_Park-8.jpg/398px-Ciconia_nigra_-Kruger_National_Park-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "White stork",
+        "polishName": "Bocian bia\u0142y",
+        "latinName": "ciconia ciconia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "ciconiiformes",
+            "family": "ciconiidae",
+            "genus": "ciconia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/600px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian bittern",
+        "polishName": "B\u0105k (zwyczajny)",
+        "latinName": "botaurus stellaris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "pelecaniformes",
+            "family": "ardeidae",
+            "genus": "botaurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg/400px-Eurasian_Bittern_-_Torrile_-_Italy_4528_%2815409347121%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Little bittern",
+        "polishName": "B\u0105czek (zwyczajny)",
+        "latinName": "botaurus minutus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "pelecaniformes",
+            "family": "ardeidae",
+            "genus": "botaurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Zwergdommel.jpg/400px-Zwergdommel.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black-crowned night heron",
+        "polishName": "\u015alepowron (zwyczajny)",
+        "latinName": "nycticorax nycticorax",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "pelecaniformes",
+            "family": "ardeidae",
+            "genus": "nycticorax"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nycticorax_nycticorax_457953189.jpg/728px-Nycticorax_nycticorax_457953189.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nycticorax_nycticorax_-_Black-crowned_Night_Heron_-_XC99573.ogg"
+    },
+    {
+        "englishName": "Grey heron",
+        "polishName": "Czapla siwa",
+        "latinName": "ardea cinerea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "pelecaniformes",
+            "family": "ardeidae",
+            "genus": "ardea"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Graureiher_Grey_Heron.jpg/400px-Graureiher_Grey_Heron.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3a/Grey_Heron_%28Ardea_cinerea%29_%28W_ARDEA_CINEREA_R1_C19%29.ogg/Grey_Heron_%28Ardea_cinerea%29_%28W_ARDEA_CINEREA_R1_C19%29.ogg.mp3"
+    },
+    {
+        "englishName": "Great cormorant",
+        "polishName": "Kormoran (zwyczajny)",
+        "latinName": "phalacrocorax carbo",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "suliformes",
+            "family": "phalacrocoracidae",
+            "genus": "phalacrocorax"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/2021-05-05_Phalacrocorax_carbo_carbo%2C_Killingworth_Lake%2C_Northumberland_1-1.jpg/800px-2021-05-05_Phalacrocorax_carbo_carbo%2C_Killingworth_Lake%2C_Northumberland_1-1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European honey buzzard",
+        "polishName": "Trzmielojad (zwyczajny)",
+        "latinName": "pernis apivorus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "pernis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wespenbussard_European_honey_buzzard_Pernis_apivorus%2C_crop.jpg/607px-Wespenbussard_European_honey_buzzard_Pernis_apivorus%2C_crop.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser spotted eagle",
+        "polishName": "Orlik krzykliwy",
+        "latinName": "clanga pomarina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "clanga"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D7%A2%D7%99%D7%98_%D7%97%D7%95%D7%A8%D7%A9.jpg/800px-%D7%A2%D7%99%D7%98_%D7%97%D7%95%D7%A8%D7%A9.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western marsh harrier",
+        "polishName": "B\u0142otniak stawowy",
+        "latinName": "circus aeruginosus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "circus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Western_Marsh_Harrier-_Bangalore%2C_India.jpg/428px-Western_Marsh_Harrier-_Bangalore%2C_India.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Hen harrier",
+        "polishName": "B\u0142otniak zbo\u017cowy",
+        "latinName": "circus cyaneus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "circus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Circus_cyaneus%2C_Ballaugh_Curragh%2C_Isle_of_Man_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Montagu's harrier",
+        "polishName": "B\u0142otniak \u0142\u0105kowy",
+        "latinName": "circus pygargus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "circus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Montagu%27s_harrier.jpg/800px-Montagu%27s_harrier.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian sparrowhawk",
+        "polishName": "Krogulec zwyczajny",
+        "latinName": "accipiter nisus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "accipiter"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg/403px-%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%B5%D0%BB%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%28Accipiter_nisus%2C_m%29%2C_%D0%98%D0%B7%D0%BC%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian goshawk",
+        "polishName": "Jastrz\u0105b zwyczajny",
+        "latinName": "astur gentilis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "astur"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Northern_Goshawk_ad_M2.jpg/367px-Northern_Goshawk_ad_M2.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/Accipiter_gentilis_-_Northern_Goshawk_XC124806.ogg/Accipiter_gentilis_-_Northern_Goshawk_XC124806.ogg.mp3"
+    },
+    {
+        "englishName": "White-tailed eagle",
+        "polishName": "Bielik",
+        "latinName": "haliaeetus albicilla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "haliaeetus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/White_tailed_eagle_raftsund_square_crop.jpg/600px-White_tailed_eagle_raftsund_square_crop.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red kite",
+        "polishName": "Kania ruda",
+        "latinName": "milvus milvus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "milvus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Milvus_milvus_R%28ThKraft%29.jpg/450px-Milvus_milvus_R%28ThKraft%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black kite",
+        "polishName": "Kania czarna",
+        "latinName": "milvus migrans",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "milvus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Schwarzmilan.jpg/400px-Schwarzmilan.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tonbi-voice-enoshima-jan11-2016.ogg"
+    },
+    {
+        "englishName": "Rough-legged buzzard",
+        "polishName": "Myszo\u0142\u00f3w w\u0142ochaty",
+        "latinName": "buteo lagopus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "buteo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fjellv%C3%A5k_%28Buteo_lagopus%29_%28Rough-legged_Buzzard%29_%28Fj%C3%A4llvr%C3%A5k%29.jpg/800px-Fjellv%C3%A5k_%28Buteo_lagopus%29_%28Rough-legged_Buzzard%29_%28Fj%C3%A4llvr%C3%A5k%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common buzzard",
+        "polishName": "Myszo\u0142\u00f3w (zwyczajny)",
+        "latinName": "buteo buteo",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "buteo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg/399px-Steppe_buzzard_%28Buteo_buteo_vulpinus%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western barn owl",
+        "polishName": "P\u0142omyk\u00f3wka (zwyczajna)",
+        "latinName": "tyto alba",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "tytonidae",
+            "genus": "tyto"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Barn_Owl%2C_Lancashire.jpg/800px-Barn_Owl%2C_Lancashire.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Barn_Owl_%28Tyto_alba%29_%28W_TYTO_ALBA_R1_C16%29.ogg"
+    },
+    {
+        "englishName": "Eurasian pygmy owl",
+        "polishName": "S\u00f3weczka (zwyczajna)",
+        "latinName": "glaucidium passerinum",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "glaucidium"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eurasian_pygmy_owl_%28Glaucidium_passerinum%29_Bia%C5%82owieza.jpg/400px-Eurasian_pygmy_owl_%28Glaucidium_passerinum%29_Bia%C5%82owieza.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Little owl",
+        "polishName": "P\u00f3jd\u017aka (zwyczajna)",
+        "latinName": "athene noctua",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "athene"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mochuelo_Com%C3%BAn_%28_Athene_noctua_%29%281%29.jpg/400px-Mochuelo_Com%C3%BAn_%28_Athene_noctua_%29%281%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Athene_noctua_-_Little_Owl_XC309481.mp3/Athene_noctua_-_Little_Owl_XC309481.mp3.ogg"
+    },
+    {
+        "englishName": "Boreal owl",
+        "polishName": "W\u0142ochatka (zwyczajna)",
+        "latinName": "aegolius funereus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "aegolius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Aegolius-funereus-001.jpg/400px-Aegolius-funereus-001.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/Aegolius_funereus_-_Boreal_Owl_XC103673.mp3/Aegolius_funereus_-_Boreal_Owl_XC103673.mp3.ogg"
+    },
+    {
+        "englishName": "Long-eared owl",
+        "polishName": "Uszatka (zwyczajna)",
+        "latinName": "asio otus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "asio"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg/400px-Long-eared_Owl_-_Kisjuszallas_-_Hungary_S4E0920_%2815671750198%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tawny owl",
+        "polishName": "Puszczyk",
+        "latinName": "strix aluco",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "strix"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Strix_aluco_3_%28Martin_Mecnarowski%29.jpg/419px-Strix_aluco_3_%28Martin_Mecnarowski%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Tawny_Owl_%28Strix_aluco%29_%28W1CDR0001519_BD8%29.ogg/Tawny_Owl_%28Strix_aluco%29_%28W1CDR0001519_BD8%29.ogg.mp3"
+    },
+    {
+        "englishName": "Ural owl",
+        "polishName": "Puszczyk uralski",
+        "latinName": "strix uralensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "strix"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Strix_uralensis%2C_Kotka%2C_Finland_1.jpg/800px-Strix_uralensis%2C_Kotka%2C_Finland_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian hoopoe",
+        "polishName": "Dudek",
+        "latinName": "upupa epops",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "bucerotiformes",
+            "family": "upupidae",
+            "genus": "upupa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Eurasian_hoopoe_by_Gunjan_Pandey.jpg/800px-Eurasian_hoopoe_by_Gunjan_Pandey.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Upupa_epops.ogg"
+    },
+    {
+        "englishName": "Eurasian wryneck",
+        "polishName": "Kr\u0119tog\u0142\u00f3w (zwyczajny)",
+        "latinName": "jynx torquilla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "jynx"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Northern_wryneck_by_David_Raju_%28cropped%29.jpg/800px-Northern_wryneck_by_David_Raju_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Grey-headed woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 zielonosiwy",
+        "latinName": "picus canus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "picus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%A1%D0%B5%D0%B4%D0%BE%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%D1%83_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%B0_%D1%80%D0%B5%D1%87%D0%BA%D0%B8_%D0%97%D0%B8%D0%BC%D1%91%D0%BD%D0%BA%D0%B8.jpg/450px-%D0%A1%D0%B5%D0%B4%D0%BE%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%D1%83_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%B0_%D1%80%D0%B5%D1%87%D0%BA%D0%B8_%D0%97%D0%B8%D0%BC%D1%91%D0%BD%D0%BA%D0%B8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European green woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 zielony",
+        "latinName": "picus viridis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "picus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/European_green_woodpecker_%28Picus_viridis%29_female_Barnes.jpg/422px-European_green_woodpecker_%28Picus_viridis%29_female_Barnes.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/Green_Woodpecker_%28Picus_viridis%29_%28W1CDR0001497_BD6%29.ogg/Green_Woodpecker_%28Picus_viridis%29_%28W1CDR0001497_BD6%29.ogg.mp3"
+    },
+    {
+        "englishName": "Black woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 czarny",
+        "latinName": "dryocopus martius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "dryocopus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%96%D0%B5%D0%BB%D0%BD%D0%B0_%28Dryocopus_martius%2C_fem%29%2C_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D1%83%D0%BC%D0%B0%D1%88%D0%B5%D1%88%D0%B0%D1%8F%C2%BB.jpg/381px-%D0%96%D0%B5%D0%BB%D0%BD%D0%B0_%28Dryocopus_martius%2C_fem%29%2C_%C2%AB%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D1%83%D0%BC%D0%B0%D1%88%D0%B5%D1%88%D0%B0%D1%8F%C2%BB.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Middle spotted woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 \u015bredni",
+        "latinName": "dendrocoptes medius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "dendrocoptes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%28Dendrocoptes_medius%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg/526px-%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%28Dendrocoptes_medius%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Alarmroep_Middelste_bonte_specht.mp3/Alarmroep_Middelste_bonte_specht.mp3.ogg"
+    },
+    {
+        "englishName": "Lesser spotted woodpecker",
+        "polishName": "Dzi\u0119cio\u0142ek",
+        "latinName": "dryobates minor",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "dryobates"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BF%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%B5_%28Dendrocopos_minor%2C_fem%29%2C_%D0%9A%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B.jpg/529px-%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D1%91%D1%81%D1%82%D1%80%D1%8B%D0%B9_%D0%B4%D1%8F%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BF%D0%B5%D0%B9%D0%BD%D0%B8%D0%BA%D0%B5_%28Dendrocopos_minor%2C_fem%29%2C_%D0%9A%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great spotted woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 du\u017cy",
+        "latinName": "dendrocopos major",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "dendrocopos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Greater_Spotted_Woodpecker_%2841554059345%29.jpg/417px-Greater_Spotted_Woodpecker_%2841554059345%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/Great_Spotted_Woodpecker_%28Picoides_major%29_%28W1CDR0001405_BD15%29.ogg/Great_Spotted_Woodpecker_%28Picoides_major%29_%28W1CDR0001405_BD15%29.ogg.mp3"
+    },
+    {
+        "englishName": "Syrian woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 bia\u0142oszyi",
+        "latinName": "dendrocopos syriacus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "dendrocopos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dendrocopos_syriacus.jpg/400px-Dendrocopos_syriacus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "White-backed woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 bia\u0142ogrzbiety",
+        "latinName": "dendrocopos leucotos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "dendrocopos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dendrocopos_leucotos_2.jpg/800px-Dendrocopos_leucotos_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian three-toed woodpecker",
+        "polishName": "Dzi\u0119cio\u0142 tr\u00f3jpalczasty",
+        "latinName": "picoides tridactylus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "picidae",
+            "genus": "picoides"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Three-toed_Woodpecker_-_Finlandia_0005_%283%29.jpg/409px-Three-toed_Woodpecker_-_Finlandia_0005_%283%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European bee-eater",
+        "polishName": "\u017bo\u0142na (zwyczajna)",
+        "latinName": "merops apiaster",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "coraciiformes",
+            "family": "meropidae",
+            "genus": "merops"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Guepier_d%27europe_au_parc_national_Ichkeul.jpg/800px-Guepier_d%27europe_au_parc_national_Ichkeul.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/Bijeneter_-_SoundCloud_-_Beeld_en_Geluid.ogg/Bijeneter_-_SoundCloud_-_Beeld_en_Geluid.ogg.mp3"
+    },
+    {
+        "englishName": "Common kingfisher",
+        "polishName": "Zimorodek zwyczajny",
+        "latinName": "alcedo atthis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "coraciiformes",
+            "family": "alcedinidae",
+            "subfamily": "alcedininae",
+            "genus": "alcedo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Alcedo_atthis_-England-8_%28cropped%29.jpg/600px-Alcedo_atthis_-England-8_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common kestrel",
+        "polishName": "Pustu\u0142ka (zwyczajna)",
+        "latinName": "falco tinnunculus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "falconiformes",
+            "family": "falconidae",
+            "genus": "falco"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Common_kestrel_falco_tinnunculus.jpg/425px-Common_kestrel_falco_tinnunculus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian hobby",
+        "polishName": "Kobuz",
+        "latinName": "falco subbuteo",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "falconiformes",
+            "family": "falconidae",
+            "genus": "falco"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eurasian_hobby_%28Falco_subbuteo%29_by_Shantanu_Kuveskar.jpg/450px-Eurasian_hobby_%28Falco_subbuteo%29_by_Shantanu_Kuveskar.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lanner falcon",
+        "polishName": "Rar\u00f3g g\u00f3rski",
+        "latinName": "falco biarmicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "falconiformes",
+            "family": "falconidae",
+            "genus": "falco",
+            "subgenus": "hierofalco"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lanner_Falcon_800.jpg/533px-Lanner_Falcon_800.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian golden oriole",
+        "polishName": "Wilga (zwyczajna)",
+        "latinName": "oriolus oriolus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "oriolidae",
+            "genus": "oriolus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Loriot_d%27Europe_-_Flickr_-_Philippe_Garcelon%2C_crop.jpg/670px-Loriot_d%27Europe_-_Flickr_-_Philippe_Garcelon%2C_crop.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Oriolus_oriolus_voice.ogg"
+    },
+    {
+        "englishName": "Red-backed shrike",
+        "polishName": "G\u0105siorek",
+        "latinName": "lanius collurio",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "laniidae",
+            "genus": "lanius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Red-backed_shrike.jpg/800px-Red-backed_shrike.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/Shrike_nightingale_sunrise.ogg/Shrike_nightingale_sunrise.ogg.mp3"
+    },
+    {
+        "englishName": "Great grey shrike",
+        "polishName": "Srokosz",
+        "latinName": "lanius excubitor",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "laniidae",
+            "genus": "lanius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lanius_excubitor_1_%28Marek_Szczepanek%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian jay",
+        "polishName": "S\u00f3jka (zwyczajna)",
+        "latinName": "garrulus glandarius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "garrulus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/800px-Garrulus_glandarius_1_Luc_Viatour.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian magpie",
+        "polishName": "Sroka (zwyczajna)",
+        "latinName": "pica pica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "pica"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B0_%28Pica_pica%29%2C_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg/800px-%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B0_%28Pica_pica%29%2C_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern nutcracker",
+        "polishName": "Orzech\u00f3wka (zwyczajna)",
+        "latinName": "nucifraga caryocatactes",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "nucifraga"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Orzech%C3%B3wka_zwyczajna_nad_Morskim_Okiem.jpg/600px-Orzech%C3%B3wka_zwyczajna_nad_Morskim_Okiem.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western jackdaw",
+        "polishName": "Kawka (zwyczajna)",
+        "latinName": "coloeus monedula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "coloeus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_%28Corvus_monedula%29%2C_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg/800px-%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_%28Corvus_monedula%29%2C_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Corvus_monedula_calls.ogg"
+    },
+    {
+        "englishName": "Rook",
+        "polishName": "Gawron",
+        "latinName": "corvus frugilegus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "corvus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rook_at_Slimbridge_Wetland_Centre%2C_Gloucestershire%2C_England_22May2019_arp.jpg/772px-Rook_at_Slimbridge_Wetland_Centre%2C_Gloucestershire%2C_England_22May2019_arp.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common raven",
+        "polishName": "Kruk zwyczajny",
+        "latinName": "corvus corax",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "corvus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Corvus_corax_ad_berlin_090516.jpg/800px-Corvus_corax_ad_berlin_090516.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ad/Common_Raven_Grand_Teton_National_Park.ogg/Common_Raven_Grand_Teton_National_Park.ogg.mp3"
+    },
+    {
+        "englishName": "Hooded crow",
+        "polishName": "Wrona siwa",
+        "latinName": "corvus cornix",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "corvus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Corvus_cornix_-Egypt-8.jpg/800px-Corvus_cornix_-Egypt-8.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f1/%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%BD%D1%8F.ogg"
+    },
+    {
+        "englishName": "Coal tit",
+        "polishName": "Sosn\u00f3wka",
+        "latinName": "periparus ater",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "paridae",
+            "genus": "periparus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Coal_tit_UK09.JPG/713px-Coal_tit_UK09.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Crested tit",
+        "polishName": "Czubatka europejska",
+        "latinName": "lophophanes cristatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "paridae",
+            "genus": "lophophanes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Lophophanes_cristatus_-_01.jpg/600px-Lophophanes_cristatus_-_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Marsh tit",
+        "polishName": "Sikora uboga",
+        "latinName": "poecile palustris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "paridae",
+            "genus": "poecile"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Parus_palustris02.jpg/685px-Parus_palustris02.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Poecile_palustris.ogg/Poecile_palustris.ogg.mp3"
+    },
+    {
+        "englishName": "Willow tit",
+        "polishName": "Czarnog\u0142\u00f3wka",
+        "latinName": "poecile montanus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "paridae",
+            "genus": "poecile"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Poecile_montanus_kleinschmidti.jpg/800px-Poecile_montanus_kleinschmidti.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/2/25/Poecile_montanus.ogg"
+    },
+    {
+        "englishName": "Eurasian blue tit",
+        "polishName": "Modraszka (zwyczajna)",
+        "latinName": "cyanistes caeruleus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "paridae",
+            "genus": "cyanistes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Eurasian_blue_tit_Lancashire.jpg/800px-Eurasian_blue_tit_Lancashire.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/Blue_Tit_%28Cyanistes_caeruleus%29_%28W1CDR0001535_BD30%29.ogg/Blue_Tit_%28Cyanistes_caeruleus%29_%28W1CDR0001535_BD30%29.ogg.mp3"
+    },
+    {
+        "englishName": "Great tit",
+        "polishName": "Bogatka (zwyczajna)",
+        "latinName": "parus major",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "paridae",
+            "genus": "parus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Great_tit_side-on.jpg/800px-Great_tit_side-on.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian penduline tit",
+        "polishName": "Remiz (zwyczajny)",
+        "latinName": "remiz pendulinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "remizidae",
+            "genus": "remiz"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Remiz_pendulinus_3_%28Martin_Mecnarowski%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Woodlark",
+        "polishName": "Lerka",
+        "latinName": "lullula arborea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "alaudidae",
+            "genus": "lullula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lullula_arborea_%28J%C3%A1n_Svetl%C3%ADk%29.jpg/800px-Lullula_arborea_%28J%C3%A1n_Svetl%C3%ADk%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Woodlark_%28Lullula_arborea%29_%28W1CDR0001500_BD8%29.ogg/Woodlark_%28Lullula_arborea%29_%28W1CDR0001500_BD8%29.ogg.mp3"
+    },
+    {
+        "englishName": "Eurasian skylark",
+        "polishName": "Skowronek (zwyczajny)",
+        "latinName": "alauda arvensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "alaudidae",
+            "genus": "alauda"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg/800px-Skylark_2%2C_Lake_District%2C_England_-_June_2009.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/96/Eurasian_Skylark_%28Alauda_arvensis%29_%28W1CDR0001421_BD2%29.ogg/Eurasian_Skylark_%28Alauda_arvensis%29_%28W1CDR0001421_BD2%29.ogg.mp3"
+    },
+    {
+        "englishName": "Crested lark",
+        "polishName": "Dzierlatka (zwyczajna)",
+        "latinName": "galerida cristata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "alaudidae",
+            "genus": "galerida"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cochevis_hupp%C3%A9_Gbollat.jpg/800px-Cochevis_hupp%C3%A9_Gbollat.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Horned lark",
+        "polishName": "G\u00f3rniczek (zwyczajny)",
+        "latinName": "eremophila alpestris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "alaudidae",
+            "genus": "eremophila"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shore_Lark.jpg/800px-Shore_Lark.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bearded reedling",
+        "polishName": "W\u0105satka",
+        "latinName": "panurus biarmicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "panuridae",
+            "genus": "panurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Baardman_-_Panurus_biarmicus_%2815147085070%29.jpg/800px-Baardman_-_Panurus_biarmicus_%2815147085070%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Bearded_Tit_%28Panurus_biarmicus%29_%28W1CDR0001379_BD5%29.ogg/Bearded_Tit_%28Panurus_biarmicus%29_%28W1CDR0001379_BD5%29.ogg.mp3"
+    },
+    {
+        "englishName": "Savi's warbler",
+        "polishName": "Brz\u0119czka",
+        "latinName": "locustella luscinioides",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "locustellidae",
+            "genus": "locustella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Locustellaluscinioides.jpg/545px-Locustellaluscinioides.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "River warbler",
+        "polishName": "Strumieni\u00f3wka",
+        "latinName": "locustella fluviatilis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "locustellidae",
+            "genus": "locustella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/de/Flodsangare.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common grasshopper warbler",
+        "polishName": "\u015awierszczak (zwyczajny)",
+        "latinName": "locustella naevia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "locustellidae",
+            "genus": "locustella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Grashoppsangare-070512.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6c/Grasshopper_Warbler_%28Locustella_naevia%29_%28W1CDR0001411_BD9%29.ogg/Grasshopper_Warbler_%28Locustella_naevia%29_%28W1CDR0001411_BD9%29.ogg.mp3"
+    },
+    {
+        "englishName": "Icterine warbler",
+        "polishName": "Zaganiacz (zwyczajny)",
+        "latinName": "hippolais icterina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "acrocephalidae",
+            "genus": "hippolais"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Icterine_warbler_18_06_2022_004_crop.png/800px-Icterine_warbler_18_06_2022_004_crop.png",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Aquatic warbler",
+        "polishName": "Wodniczka",
+        "latinName": "acrocephalus paludicola",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "acrocephalidae",
+            "genus": "acrocephalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Seggenrohrsaenger_hand.jpg/450px-Seggenrohrsaenger_hand.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sedge warbler",
+        "polishName": "Rokitniczka",
+        "latinName": "acrocephalus schoenobaenus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "acrocephalidae",
+            "genus": "acrocephalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg/600px-Sedge_warbler_%28Acrocephalus_schoenobaenus%29_3.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ef/Sedge_Warbler_%28Acrocephalus_schoenobaenus%29_%28W1CDR0001431_BD22%29.ogg/Sedge_Warbler_%28Acrocephalus_schoenobaenus%29_%28W1CDR0001431_BD22%29.ogg.mp3"
+    },
+    {
+        "englishName": "Marsh warbler",
+        "polishName": "\u0141oz\u00f3wka",
+        "latinName": "acrocephalus palustris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "acrocephalidae",
+            "genus": "acrocephalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Acrocephalus_palustris_%28Marek_Szczepanek%29b.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/df/Marsh_Warbler_%28Acrocephalus_palustris%29_%28W_ACROCEPHALUS_PALUSTRIS_R10_C2%29.ogg/Marsh_Warbler_%28Acrocephalus_palustris%29_%28W_ACROCEPHALUS_PALUSTRIS_R10_C2%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common reed warbler",
+        "polishName": "Trzcinniczek (zwyczajny)",
+        "latinName": "acrocephalus scirpaceus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "acrocephalidae",
+            "genus": "acrocephalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Acrocephalus_scirpaceus_Vlaskop_cropped.jpg/800px-Acrocephalus_scirpaceus_Vlaskop_cropped.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/89/Reed_Warbler_%28Acrocephalus_scirpaceus%29_%28W1CDR0001533_BD12%29.ogg/Reed_Warbler_%28Acrocephalus_scirpaceus%29_%28W1CDR0001533_BD12%29.ogg.mp3"
+    },
+    {
+        "englishName": "Great reed warbler",
+        "polishName": "Trzciniak (zwyczajny)",
+        "latinName": "acrocephalus arundinaceus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "acrocephalidae",
+            "genus": "acrocephalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg/400px-Drosselrohrs%C3%A4nger_Great_reed_warbler.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western house martin",
+        "polishName": "Okn\u00f3wka zwyczajna",
+        "latinName": "delichon urbicum",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "hirundinidae",
+            "genus": "delichon"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mehlschwalbe_Delichon_urbicum.jpg/800px-Mehlschwalbe_Delichon_urbicum.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/7/74/Common_House_Martin_%28Delichon_urbica%29_%28W_DELICHON_URBICA_R3_C3%29.ogg"
+    },
+    {
+        "englishName": "Barn swallow",
+        "polishName": "Dym\u00f3wka",
+        "latinName": "hirundo rustica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "hirundinidae",
+            "genus": "hirundo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/800px-Rauchschwalbe_Hirundo_rustica.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sand martin / Bank swallow",
+        "polishName": "Brzeg\u00f3wka (zwyczajna)",
+        "latinName": "riparia riparia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "hirundinidae",
+            "genus": "riparia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg/800px-Sand_martin_%28Riparia_riparia%29%2C_Guidel-Plage%2C_Brittany%2C_France_%2819765483180%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Wood warbler",
+        "polishName": "\u015awistunka le\u015bna",
+        "latinName": "phylloscopus sibilatrix",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "phylloscopidae",
+            "genus": "phylloscopus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg/800px-Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/Phylloscopus_sibilatrix_-_Wood_Warbler_XC554154.mp3/Phylloscopus_sibilatrix_-_Wood_Warbler_XC554154.mp3.ogg"
+    },
+    {
+        "englishName": "Willow warbler",
+        "polishName": "Piecuszek",
+        "latinName": "phylloscopus trochilus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "phylloscopidae",
+            "genus": "phylloscopus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Willow_Warbler_Phylloscopus_trochilus.jpg/600px-Willow_Warbler_Phylloscopus_trochilus.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Phylloscopus_rochilus.ogg"
+    },
+    {
+        "englishName": "Common chiffchaff",
+        "polishName": "Pierwiosnek",
+        "latinName": "phylloscopus collybita",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "phylloscopidae",
+            "genus": "phylloscopus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chiffchaff_-_Phylloscopus_collybita.jpg/800px-Chiffchaff_-_Phylloscopus_collybita.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/Chiffchaff_%28Phylloscopus_collybita%29_%28W1CDR0001497_BD9%29.ogg/Chiffchaff_%28Phylloscopus_collybita%29_%28W1CDR0001497_BD9%29.ogg.mp3"
+    },
+    {
+        "englishName": "Long-tailed tit",
+        "polishName": "Raniuszek (zwyczajny)",
+        "latinName": "aegithalos caudatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "aegithalidae",
+            "genus": "aegithalos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aegithalos_caudatus_side-on.jpg/799px-Aegithalos_caudatus_side-on.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aegithalos_caudatus_-_Long-tailed_Tit_-_XC114614.ogg"
+    },
+    {
+        "englishName": "Eurasian blackcap",
+        "polishName": "Kapturka",
+        "latinName": "sylvia atricapilla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sylviidae",
+            "genus": "sylvia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Blackcap_%28Sylvia_atricapilla%29_male.jpg/509px-Blackcap_%28Sylvia_atricapilla%29_male.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Garden warbler",
+        "polishName": "Gaj\u00f3wka",
+        "latinName": "sylvia borin",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sylviidae",
+            "genus": "sylvia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sylvia_borin_%28%C3%96rebro_County%29.jpg/800px-Sylvia_borin_%28%C3%96rebro_County%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Barred warbler",
+        "polishName": "Jarz\u0119batka",
+        "latinName": "curruca nisoria",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sylviidae",
+            "genus": "curruca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Curruca_nisoria_378155893_%28cropped%29.jpg/515px-Curruca_nisoria_378155893_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser whitethroat",
+        "polishName": "Pieg\u017ca",
+        "latinName": "curruca curruca",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sylviidae",
+            "genus": "curruca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lesser_whitethroat_%2840735963543%29.jpg/800px-Lesser_whitethroat_%2840735963543%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common whitethroat",
+        "polishName": "Cierni\u00f3wka",
+        "latinName": "curruca communis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sylviidae",
+            "genus": "curruca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Common_Whitethroat.jpg/800px-Common_Whitethroat.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Common_Whitethroat_%28Sylvia_communis%29_%28W1CDR0001503_BD6%29.ogg/Common_Whitethroat_%28Sylvia_communis%29_%28W1CDR0001503_BD6%29.ogg.mp3"
+    },
+    {
+        "englishName": "Goldcrest",
+        "polishName": "Mysikr\u00f3lik (zwyczajny)",
+        "latinName": "regulus regulus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "regulidae",
+            "genus": "regulus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldcrest_1.jpg/800px-Goldcrest_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/16/Goldcrest_%28Regulus_regulus%29_%28W1CDR0001500_BD19%29.ogg/Goldcrest_%28Regulus_regulus%29_%28W1CDR0001500_BD19%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common firecrest",
+        "polishName": "Zniczek (zwyczajny)",
+        "latinName": "regulus ignicapilla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "regulidae",
+            "genus": "regulus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Common_firecrest_Franconville_03.jpg/800px-Common_firecrest_Franconville_03.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bohemian waxwing",
+        "polishName": "Jemio\u0142uszka (zwyczajna)",
+        "latinName": "bombycilla garrulus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "bombycillidae",
+            "genus": "bombycilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bombycilla_garrulusII.jpg/600px-Bombycilla_garrulusII.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/Bombycilla_garrulus_-_Bohemian_Waxwing_XC132884.ogg/Bombycilla_garrulus_-_Bohemian_Waxwing_XC132884.ogg.mp3"
+    },
+    {
+        "englishName": "Eurasian nuthatch",
+        "polishName": "Kowalik (zwyczajny)",
+        "latinName": "sitta europaea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sittidae",
+            "genus": "sitta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kleiber_Sitta_europaea-0447.jpg/800px-Kleiber_Sitta_europaea-0447.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg.mp3"
+    },
+    {
+        "englishName": "Eurasian treecreeper",
+        "polishName": "Pe\u0142zacz le\u015bny",
+        "latinName": "certhia familiaris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "certhiidae",
+            "genus": "certhia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eurasian_Treecreeper_in_the_snow%2C_cropped_version.jpg/482px-Eurasian_Treecreeper_in_the_snow%2C_cropped_version.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Eurasian_Treecreeper_%28Certhia_familiaris%29_%28W1CDR0001463_BD5%29.ogg/Eurasian_Treecreeper_%28Certhia_familiaris%29_%28W1CDR0001463_BD5%29.ogg.mp3"
+    },
+    {
+        "englishName": "Short-toed treecreeper",
+        "polishName": "Pe\u0142zacz ogrodowy",
+        "latinName": "certhia brachydactyla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "certhiidae",
+            "genus": "certhia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Short-toed_treecreeper_%28Certhia_brachydactyla_megarhynchos%29.jpg/399px-Short-toed_treecreeper_%28Certhia_brachydactyla_megarhynchos%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian wren",
+        "polishName": "Strzy\u017cyk zwyczajny",
+        "latinName": "troglodytes troglodytes",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "troglodytidae",
+            "genus": "troglodytes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ein_neugieriger_Zaunk%C3%B6nig.jpg/600px-Ein_neugieriger_Zaunk%C3%B6nig.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/Eurasian_Wren_%28Troglodytes_troglodytes%29_%28W1CDR0001461_BD5%29.ogg/Eurasian_Wren_%28Troglodytes_troglodytes%29_%28W1CDR0001461_BD5%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common starling",
+        "polishName": "Szpak zwyczajny",
+        "latinName": "sturnus vulgaris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sturnidae",
+            "genus": "sturnus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Toulouse_-_Sturnus_vulgaris_-_2012-02-26_-_3.jpg/449px-Toulouse_-_Sturnus_vulgaris_-_2012-02-26_-_3.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sturnus_vulgaris.ogg"
+    },
+    {
+        "englishName": "White-throated dipper",
+        "polishName": "Pluszcz (zwyczajny)",
+        "latinName": "cinclus cinclus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "cinclidae",
+            "genus": "cinclus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg/800px-Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/European_Dipper_%28Cinclus_cinclus%29_%28W1CDR0001383_BD8%29.ogg/European_Dipper_%28Cinclus_cinclus%29_%28W1CDR0001383_BD8%29.ogg.mp3"
+    },
+    {
+        "englishName": "Spotted flycatcher",
+        "polishName": "Mucho\u0142\u00f3wka szara",
+        "latinName": "muscicapa striata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "muscicapa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/25/Muscicapa_striata_1_%28Martin_Mecnarowski%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European robin",
+        "polishName": "Rudzik",
+        "latinName": "erithacus rubecula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "erithacus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/750px-Erithacus_rubecula_with_cocked_head.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pechuguero_de_Gran_Canaria_%28Erithacus_Rubecula_Marionae%29.ogg"
+    },
+    {
+        "englishName": "Common nightingale",
+        "polishName": "S\u0142owik rdzawy",
+        "latinName": "luscinia megarhynchos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "luscinia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Luscinia_megarhynchos_-_01.jpg/399px-Luscinia_megarhynchos_-_01.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a9/XN_Luscinia_megarhynchos_012.ogg"
+    },
+    {
+        "englishName": "Thrush nightingale",
+        "polishName": "S\u0142owik szary",
+        "latinName": "luscinia luscinia",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "luscinia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nightingale_of_ancient_Uglich.JPG/800px-Nightingale_of_ancient_Uglich.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bluethroat",
+        "polishName": "Podr\u00f3\u017cniczek",
+        "latinName": "luscinia svecica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "luscinia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg/800px-Bluethroat_%28Luscinia_svecica_svecica%29_male_Oppdal.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/5/54/Luscinia_svecica.ogg"
+    },
+    {
+        "englishName": "Red-breasted flycatcher",
+        "polishName": "Mucho\u0142\u00f3wka ma\u0142a",
+        "latinName": "ficedula parva",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "ficedula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Red_brested_flycatcher_by_David_Raju_%28cropped%29.jpg/800px-Red_brested_flycatcher_by_David_Raju_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European pied flycatcher",
+        "polishName": "Mucho\u0142\u00f3wka \u017ca\u0142obna",
+        "latinName": "ficedula hypoleuca",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "ficedula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg/479px-Ficedula_hypoleuca_-Wood_of_Cree_Nature_Reserve%2C_Scotland_-male-8a.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/Pied_Flycatcher_%28Ficedula_hypoleuca%29_%28W1CDR0001423_BD1%29.ogg/Pied_Flycatcher_%28Ficedula_hypoleuca%29_%28W1CDR0001423_BD1%29.ogg.mp3"
+    },
+    {
+        "englishName": "Collared flycatcher",
+        "polishName": "Mucho\u0142\u00f3wka bia\u0142oszyja",
+        "latinName": "ficedula albicollis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "ficedula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Collared_flycatcher_%28Ficedula_albicollis%29.jpg/800px-Collared_flycatcher_%28Ficedula_albicollis%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/DM650_Ficedula_Albicollis_Song_Slovakia.ogg/DM650_Ficedula_Albicollis_Song_Slovakia.ogg.mp3"
+    },
+    {
+        "englishName": "Common redstart",
+        "polishName": "Pleszka (zwyczajna)",
+        "latinName": "phoenicurus phoenicurus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "phoenicurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Gartenrotschwanz_1.jpg/600px-Gartenrotschwanz_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/Common_Redstart_%28Phoenicurus_phoenicurus%29_%28W1CDR0001505_BD3%29.ogg/Common_Redstart_%28Phoenicurus_phoenicurus%29_%28W1CDR0001505_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Black redstart",
+        "polishName": "Kopciuszek (zwyczajny)",
+        "latinName": "phoenicurus ochruros",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "phoenicurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hausrotschwanz_Brutpflege_2006-05-21-05.jpg/800px-Hausrotschwanz_Brutpflege_2006-05-21-05.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Black_Redstart_%28Phoenicurus_ochruros%29_%28W1CDR0000253_BD17%29.ogg/Black_Redstart_%28Phoenicurus_ochruros%29_%28W1CDR0000253_BD17%29.ogg.mp3"
+    },
+    {
+        "englishName": "Whinchat",
+        "polishName": "Pokl\u0105skwa",
+        "latinName": "saxicola rubetra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "saxicola"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Whinchat_-_Saxicola_rubetra_%28Male%29_%2852943525534%29.jpg/428px-Whinchat_-_Saxicola_rubetra_%28Male%29_%2852943525534%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Saxicola_rubetra_-_Whinchat_XC486281.mp3/Saxicola_rubetra_-_Whinchat_XC486281.mp3.ogg"
+    },
+    {
+        "englishName": "European stonechat",
+        "polishName": "Kl\u0105skawka (zwyczajna)",
+        "latinName": "saxicola rubicola",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "saxicola"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Stonechat_%28Saxicola_rubicola%29_male%2C_Beaulieu%2C_Hampshire.jpg/551px-Stonechat_%28Saxicola_rubicola%29_male%2C_Beaulieu%2C_Hampshire.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d2/European_Stonechat_%28Saxicola_rubicola%29_%28W1CDR0001536_BD16%29.oga/European_Stonechat_%28Saxicola_rubicola%29_%28W1CDR0001536_BD16%29.oga.mp3"
+    },
+    {
+        "englishName": "Northern wheatear",
+        "polishName": "Bia\u0142orzytka zwyczajna",
+        "latinName": "oenanthe oenanthe",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "muscicapidae",
+            "genus": "oenanthe"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Steinschmaetzer_Northern_wheatear_male.jpg/600px-Steinschmaetzer_Northern_wheatear_male.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Northern_Wheatear_%28Oenanthe_oenanthe%29_%28W1CDR0001421_BD16%29.ogg/Northern_Wheatear_%28Oenanthe_oenanthe%29_%28W1CDR0001421_BD16%29.ogg.mp3"
+    },
+    {
+        "englishName": "Mistle thrush",
+        "polishName": "Paszkot",
+        "latinName": "turdus viscivorus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "turdidae",
+            "genus": "turdus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turdus_viscivorus_in_Baikonur-town_001.jpg/800px-Turdus_viscivorus_in_Baikonur-town_001.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/Mistle_Thrush_%28Turdus_viscivorus%29_%28W1CDR0000636_BD11%29.ogg/Mistle_Thrush_%28Turdus_viscivorus%29_%28W1CDR0000636_BD11%29.ogg.mp3"
+    },
+    {
+        "englishName": "Song thrush",
+        "polishName": "Drozd \u015bpiewak",
+        "latinName": "turdus philomelos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "turdidae",
+            "genus": "turdus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_%28Turdus_philomelos%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg/791px-%D0%9F%D0%B5%D0%B2%D1%87%D0%B8%D0%B9_%D0%B4%D1%80%D0%BE%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%BF%D0%B5%D0%BD%D1%8C%D0%BA%D0%B5_%28Turdus_philomelos%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/4/46/Turdus_philomelos.ogg"
+    },
+    {
+        "englishName": "Redwing",
+        "polishName": "Dro\u017adzik",
+        "latinName": "turdus iliacus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "turdidae",
+            "genus": "turdus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Redwing_Turdus_iliacus.jpg/800px-Redwing_Turdus_iliacus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common blackbird",
+        "polishName": "Kos",
+        "latinName": "turdus merula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "turdidae",
+            "genus": "turdus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/800px-Common_Blackbird.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Fieldfare",
+        "polishName": "Kwiczo\u0142",
+        "latinName": "turdus pilaris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "turdidae",
+            "genus": "turdus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Fieldfare_on_branch.jpg/800px-Fieldfare_on_branch.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Ring ouzel",
+        "polishName": "Drozd obro\u017cny",
+        "latinName": "turdus torquatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "turdidae",
+            "genus": "turdus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Turdus_torquatus%2C_Spain_1.jpg/800px-Turdus_torquatus%2C_Spain_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Turdus_torquatus_-_Ring_Ouzel_XC436941.mp3/Turdus_torquatus_-_Ring_Ouzel_XC436941.mp3.ogg"
+    },
+    {
+        "englishName": "Alpine accentor",
+        "polishName": "P\u0142ochacz halny",
+        "latinName": "prunella collaris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "prunellidae",
+            "genus": "prunella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Alpine_accentor_saganta.jpg/800px-Alpine_accentor_saganta.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Dunnock",
+        "polishName": "P\u0142ochacz pokrzywnica",
+        "latinName": "prunella modularis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "prunellidae",
+            "genus": "prunella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dunnock_%28Prunella_modularis%29_3.jpg/800px-Dunnock_%28Prunella_modularis%29_3.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/Dunnock_%28Prunella_modularis%29_%28W1CDR0001422_BD6%29.ogg/Dunnock_%28Prunella_modularis%29_%28W1CDR0001422_BD6%29.ogg.mp3"
+    },
+    {
+        "englishName": "House sparrow",
+        "polishName": "Wr\u00f3bel (zwyczajny)",
+        "latinName": "passer domesticus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "passeridae",
+            "genus": "passer"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg/771px-House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian tree sparrow",
+        "polishName": "Mazurek",
+        "latinName": "passer montanus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "passeridae",
+            "genus": "passer"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Tree_Sparrow_August_2007_Osaka_Japan.jpg/800px-Tree_Sparrow_August_2007_Osaka_Japan.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/8/83/Passer_montanus.ogg"
+    },
+    {
+        "englishName": "Tree pipit",
+        "polishName": "\u015awiergotek drzewny",
+        "latinName": "anthus trivialis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "anthus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tree_pipit_-_Jamnagar_2021-10-16.jpg/800px-Tree_pipit_-_Jamnagar_2021-10-16.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/Tree_Pipit_%28Anthus_trivialis%29_%28W1CDR0001425_BD8%29.ogg/Tree_Pipit_%28Anthus_trivialis%29_%28W1CDR0001425_BD8%29.ogg.mp3"
+    },
+    {
+        "englishName": "Meadow pipit",
+        "polishName": "\u015awiergotek \u0142\u0105kowy",
+        "latinName": "anthus pratensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "anthus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wiesenpieper_Meadow_pipit.jpg/800px-Wiesenpieper_Meadow_pipit.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Meadow_Pipit_%28Anthus_pratensis%29_%28W1CDR0001526_BD4%29.ogg/Meadow_Pipit_%28Anthus_pratensis%29_%28W1CDR0001526_BD4%29.ogg.mp3"
+    },
+    {
+        "englishName": "Water pipit",
+        "polishName": "Siwerniak",
+        "latinName": "anthus spinoletta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "anthus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Anthus_spinoletta_-_Water_Pipit%2C_Kahramanmara%C5%9F_2016-11-18_01-10.jpg/800px-Anthus_spinoletta_-_Water_Pipit%2C_Kahramanmara%C5%9F_2016-11-18_01-10.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European rock pipit",
+        "polishName": "\u015awiergotek nadmorski",
+        "latinName": "anthus petrosus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "anthus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/2015-04-22_Anthus_petrosus%2C_Portsoy.jpg/800px-2015-04-22_Anthus_petrosus%2C_Portsoy.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/Rock_Pipit_%28Anthus_petrosus%29_%28W1CDR0001427_BD6%29.ogg/Rock_Pipit_%28Anthus_petrosus%29_%28W1CDR0001427_BD6%29.ogg.mp3"
+    },
+    {
+        "englishName": "Tawny pipit",
+        "polishName": "\u015awiergotek polny",
+        "latinName": "anthus campestris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "anthus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tawny_pipit_47.jpg/711px-Tawny_pipit_47.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western yellow wagtail",
+        "polishName": "Pliszka \u017c\u00f3\u0142ta",
+        "latinName": "motacilla flava",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "motacilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wiesenschafstelze.JPG/800px-Wiesenschafstelze.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Grey wagtail",
+        "polishName": "Pliszka g\u00f3rska",
+        "latinName": "motacilla cinerea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "motacilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Grey_wagtail_-_Fulzar_Dam%2C_Jamnagar_2023-11-13.jpg/450px-Grey_wagtail_-_Fulzar_Dam%2C_Jamnagar_2023-11-13.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Motacilla_cinerea_-_Grey_Wagtail_XC128136.ogg/Motacilla_cinerea_-_Grey_Wagtail_XC128136.ogg.mp3"
+    },
+    {
+        "englishName": "White wagtail",
+        "polishName": "Pliszka siwa",
+        "latinName": "motacilla alba",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "motacillidae",
+            "genus": "motacilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/800px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common chaffinch",
+        "polishName": "Zi\u0119ba (zwyczajna)",
+        "latinName": "fringilla coelebs",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "fringillinae",
+            "genus": "fringilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Male_Chaffinch_-_Fringilla_coelebs.jpg/590px-Male_Chaffinch_-_Fringilla_coelebs.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/Chaffinch_%28Fringilla_coelebs%29_%28W1CDR0001527_BD14%29.ogg/Chaffinch_%28Fringilla_coelebs%29_%28W1CDR0001527_BD14%29.ogg.mp3"
+    },
+    {
+        "englishName": "Brambling",
+        "polishName": "Jer",
+        "latinName": "fringilla montifringilla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "fringillinae",
+            "genus": "fringilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fringilla_montifringilla_-Poland_-male-8.jpg/800px-Fringilla_montifringilla_-Poland_-male-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Hawfinch",
+        "polishName": "Grubodzi\u00f3b (zwyczajny)",
+        "latinName": "coccothraustes coccothraustes",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "coccothraustes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Coccothraustes_coccothraustes_Parco_Della_Piana_around_Firenze%2C_Italy.jpg/428px-Coccothraustes_coccothraustes_Parco_Della_Piana_around_Firenze%2C_Italy.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common rosefinch",
+        "polishName": "Dziwonia (zwyczajna)",
+        "latinName": "carpodacus erythrinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "carpodacus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Carpodacus_erythrinus_284921386.jpg/800px-Carpodacus_erythrinus_284921386.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian bullfinch",
+        "polishName": "Gil zwyczajny",
+        "latinName": "pyrrhula pyrrhula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "pyrrhula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bullfinch_male.jpg/800px-Bullfinch_male.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Bullfinch_%28Pyrrhula_pyrrhula%29_%28W1CDR0001509_BD14%29.ogg/Bullfinch_%28Pyrrhula_pyrrhula%29_%28W1CDR0001509_BD14%29.ogg.mp3"
+    },
+    {
+        "englishName": "European greenfinch",
+        "polishName": "Dzwoniec (zwyczajny)",
+        "latinName": "chloris chloris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "chloris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/32/Carduelis_chloris_3_%28Marek_Szczepanek%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Carduelis_chloris.ogg"
+    },
+    {
+        "englishName": "Common linnet",
+        "polishName": "Makol\u0105gwa (zwyczajna)",
+        "latinName": "linaria cannabina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "linaria"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Carduelis_cannabina_-England_-male-8.jpg/722px-Carduelis_cannabina_-England_-male-8.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Carduelis_cannabina_singing.flac/Carduelis_cannabina_singing.flac.ogg"
+    },
+    {
+        "englishName": "Twite",
+        "polishName": "Rzepo\u0142uch",
+        "latinName": "linaria flavirostris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "linaria"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Twite_%28Carduelis_flavirostris%29_-_geograph.org.uk_-_676590.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Redpoll",
+        "polishName": "Czeczotka (zwyczajna)",
+        "latinName": "acanthis flammea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "acanthis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carduelis_flammea_CT6.jpg/800px-Carduelis_flammea_CT6.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red crossbill",
+        "polishName": "Krzy\u017codzi\u00f3b \u015bwierkowy",
+        "latinName": "loxia curvirostra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "loxia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Red_Crossbills_%28Male%29.jpg/800px-Red_Crossbills_%28Male%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European goldfinch",
+        "polishName": "Szczygie\u0142",
+        "latinName": "carduelis carduelis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "carduelis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Carduelis_carduelis_close_up.jpg/757px-Carduelis_carduelis_close_up.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ab/European_Goldfinch_%28Carduelis_carduelis%29_%28W1CDR0001491_BD15%29.ogg/European_Goldfinch_%28Carduelis_carduelis%29_%28W1CDR0001491_BD15%29.ogg.mp3"
+    },
+    {
+        "englishName": "European serin",
+        "polishName": "Kulczyk (zwyczajny)",
+        "latinName": "serinus serinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "serinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/European_serin_%28Serinus_serinus%29_male.jpg/800px-European_serin_%28Serinus_serinus%29_male.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian siskin",
+        "polishName": "Czy\u017c (zwyczajny)",
+        "latinName": "spinus spinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "spinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Carduelis_spinus_male.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9d/Eurasian_Siskin_%28Carduelis_spinus%29_%28W1CDR0001494_BD4%29.ogg/Eurasian_Siskin_%28Carduelis_spinus%29_%28W1CDR0001494_BD4%29.ogg.mp3"
+    },
+    {
+        "englishName": "Lapland longspur",
+        "polishName": "Po\u015bwierka (zwyczajna)",
+        "latinName": "calcarius lapponicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "calcariidae",
+            "genus": "calcarius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lapland_Longspur_-_Calcarius_lapponicus_-_Sportittlingur_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Snow bunting",
+        "polishName": "\u015aniegu\u0142a (zwyczajna)",
+        "latinName": "plectrophenax nivalis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "calcariidae",
+            "genus": "plectrophenax"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Snow_Bunting_%28Plectrophenax_nivalis%29%2C_Thule%2C_Greenland_1.jpg/673px-Snow_Bunting_%28Plectrophenax_nivalis%29%2C_Thule%2C_Greenland_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/Plectrophenax_nivalis_song.ogg/Plectrophenax_nivalis_song.ogg.mp3"
+    },
+    {
+        "englishName": "Corn bunting",
+        "polishName": "Potrzeszcz",
+        "latinName": "emberiza calandra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "emberizidae",
+            "genus": "emberiza"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bruant_proyer_Ichkeul018.jpg/800px-Bruant_proyer_Ichkeul018.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/53/Corn_Bunting_%28Emberiza_calandra%29_%28W1CDR0001392_BD1%29.ogg/Corn_Bunting_%28Emberiza_calandra%29_%28W1CDR0001392_BD1%29.ogg.mp3"
+    },
+    {
+        "englishName": "Yellowhammer",
+        "polishName": "Trznadel zwyczajny",
+        "latinName": "emberiza citrinella",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "emberizidae",
+            "genus": "emberiza"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Goldammer_Emberiza_citrinella.jpg/800px-Goldammer_Emberiza_citrinella.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Yellowhammer_%28Emberiza_citrinella%29_%28W1CDR0001422_BD1%29.ogg/Yellowhammer_%28Emberiza_citrinella%29_%28W1CDR0001422_BD1%29.ogg.mp3"
+    },
+    {
+        "englishName": "Ortolan bunting",
+        "polishName": "Ortolan",
+        "latinName": "emberiza hortulana",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "emberizidae",
+            "genus": "emberiza"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg/800px-Ortolan_bunting_in_Sierra_de_Guara%2C_Aragon%2C_Spain.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common reed bunting",
+        "polishName": "Potrzos (zwyczajny)",
+        "latinName": "emberiza schoeniclus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "emberizidae",
+            "genus": "emberiza"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Common_reed_bunting_%28emberiza_schoeniclus%29_m.jpg/800px-Common_reed_bunting_%28emberiza_schoeniclus%29_m.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5d/Reed_Bunting_%28Emberiza_schoeniclus%29_%28W1CDR0001379_BD4%29.ogg/Reed_Bunting_%28Emberiza_schoeniclus%29_%28W1CDR0001379_BD4%29.ogg.mp3"
+    },
+    {
+        "englishName": "Brant",
+        "polishName": "Bernikla obro\u017cna",
+        "latinName": "branta bernicla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "branta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Atlantic_Brant_Fly-By_Wiki.png/800px-Atlantic_Brant_Fly-By_Wiki.png",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/Brent_Goose_%28Branta_bernicla%29_%28W_BRANTA_BERNICLA_R1_C11%29.ogg/Brent_Goose_%28Branta_bernicla%29_%28W_BRANTA_BERNICLA_R1_C11%29.ogg.mp3"
+    },
+    {
+        "englishName": "Pink-footed goose",
+        "polishName": "G\u0119\u015b kr\u00f3tkodzioba",
+        "latinName": "anser brachyrhynchus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anser"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg/800px-2019-03-25_Anser_brachyrhynchus%2C_Killingworth_Lake%2C_Northumberland_1.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/Pink-footed_Geese_%28Anser_brachyrhynchus%29_%28W1CDR0001376_BD33%29.ogg/Pink-footed_Geese_%28Anser_brachyrhynchus%29_%28W1CDR0001376_BD33%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common shelduck",
+        "polishName": "Ohar",
+        "latinName": "tadorna tadorna",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "tadorna"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Common_Shelduck_%28Tadorna_tadorna%29_at_Sylvan_Heights.jpg/800px-Common_Shelduck_%28Tadorna_tadorna%29_at_Sylvan_Heights.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/Common_Shelduck_%28Tadorna_tadorna%29_%28W1CDR0001430_BD7%29.ogg/Common_Shelduck_%28Tadorna_tadorna%29_%28W1CDR0001430_BD7%29.ogg.mp3"
+    },
+    {
+        "englishName": "Eurasian wigeon",
+        "polishName": "\u015awistun zwyczajny",
+        "latinName": "mareca penelope",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "mareca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mareca_penelope_kuribo_cropped.jpg/800px-Mareca_penelope_kuribo_cropped.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ed/Eurasian_Wigeon_%28Anas_penelope%29_%28W1CDR0001386_BD2%29.ogg/Eurasian_Wigeon_%28Anas_penelope%29_%28W1CDR0001386_BD2%29.ogg.mp3"
+    },
+    {
+        "englishName": "Northern pintail",
+        "polishName": "Ro\u017ceniec zwyczajny",
+        "latinName": "anas acuta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "anseriformes",
+            "family": "anatidae",
+            "genus": "anas"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Rock ptarmigan",
+        "polishName": "Pardwa g\u00f3rska",
+        "latinName": "lagopus muta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "galliformes",
+            "family": "phasianidae",
+            "genus": "lagopus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rock_Ptarmigan_%28Lagopus_Muta%29.jpg/800px-Rock_Ptarmigan_%28Lagopus_Muta%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/70/Ptarmigan_%28Lagopus_mutus%29_%28W1CDR0001418_BD38%29.ogg/Ptarmigan_%28Lagopus_mutus%29_%28W1CDR0001418_BD38%29.ogg.mp3"
+    },
+    {
+        "englishName": "Eurasian oystercatcher",
+        "polishName": "Ostrygojad (zwyczajny)",
+        "latinName": "haematopus ostralegus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "haematopodidae",
+            "genus": "haematopus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Haematopus_ostralegus_Norway.jpg/699px-Haematopus_ostralegus_Norway.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/8/86/Eurasian_Oystercatcher_%28Haematopus_ostralegus%29_%28W_HAEMATOPUS_OSTRALEGUS_R4_C7%29.ogg"
+    },
+    {
+        "englishName": "Pied avocet",
+        "polishName": "Szablodzi\u00f3b (zwyczajny)",
+        "latinName": "recurvirostra avosetta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "recurvirostridae",
+            "genus": "recurvirostra"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pied_Avocet_Recurvirostra_avosetta.jpg/800px-Pied_Avocet_Recurvirostra_avosetta.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Avocet_%28Recurvirostra_avosetta%29_%28W1CDR0001419_BD20%29.ogg/Avocet_%28Recurvirostra_avosetta%29_%28W1CDR0001419_BD20%29.ogg.mp3"
+    },
+    {
+        "englishName": "Eurasian dotterel",
+        "polishName": "Mornel",
+        "latinName": "eudromias morinellus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "charadriidae",
+            "genus": "eudromias"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Charadrius_morinellus_male.jpg/470px-Charadrius_morinellus_male.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian curlew",
+        "polishName": "Kulik wielki",
+        "latinName": "numenius arquata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "numenius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Eurasian_Curlew.jpg/600px-Eurasian_Curlew.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/0/00/XN_Numenius_arquata.ogg"
+    },
+    {
+        "englishName": "Bar-tailed godwit",
+        "polishName": "Szlamnik (zwyczajny)",
+        "latinName": "limosa lapponica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "limosa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bar-tailed_Godwit.jpg/800px-Bar-tailed_Godwit.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red knot",
+        "polishName": "Biegus rdzawy",
+        "latinName": "calidris canutus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg/800px-Rufa_red_knot_%28Calidris_canutus_rufa%29_in_Delaware_Bay%2C_New_Jersey.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Purple sandpiper",
+        "polishName": "Biegus morski",
+        "latinName": "calidris maritima",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "scolopacidae",
+            "genus": "calidris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Calidris_maritima.jpg/800px-Calidris_maritima.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black-legged kittiwake",
+        "polishName": "Mewa tr\u00f3jpalczasta",
+        "latinName": "rissa tridactyla",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "rissa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rissa_tridactyla_%28Vard%C3%B8%2C_2012%29.jpg/800px-Rissa_tridactyla_%28Vard%C3%B8%2C_2012%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Kittiwake_%28Rissa_tridactyla%29_%28W1CDR0001389_BD30%29.ogg/Kittiwake_%28Rissa_tridactyla%29_%28W1CDR0001389_BD30%29.ogg.mp3"
+    },
+    {
+        "englishName": "Little gull",
+        "polishName": "Mewa ma\u0142a",
+        "latinName": "hydrocoloeus minutus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "hydrocoloeus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%C4%8Cajka_mal%C3%A1_%28Larus_minutus%29_a_%284834254958%29.jpg/800px-%C4%8Cajka_mal%C3%A1_%28Larus_minutus%29_a_%284834254958%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Mediterranean gull",
+        "polishName": "Mewa czarnog\u0142owa",
+        "latinName": "ichthyaetus melanocephalus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "ichthyaetus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Larus_melanocephalus_aka_Mediterranean_Gull_rare_guest_in_Sweden2.jpg/781px-Larus_melanocephalus_aka_Mediterranean_Gull_rare_guest_in_Sweden2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Glaucous gull",
+        "polishName": "Mewa blada",
+        "latinName": "larus hyperboreus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "larus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Glacous_Gull_on_ice.jpg/800px-Glacous_Gull_on_ice.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Arctic tern",
+        "polishName": "Rybitwa popielata",
+        "latinName": "sterna paradisaea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "laridae",
+            "genus": "sterna"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2009_07_02_-_Arctic_tern_on_Farne_Islands_-_The_blue_rope_demarcates_the_visitors%27_path.JPG/800px-2009_07_02_-_Arctic_tern_on_Farne_Islands_-_The_blue_rope_demarcates_the_visitors%27_path.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great skua",
+        "polishName": "Wydrzyk wielki",
+        "latinName": "stercorarius skua",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "stercorariidae",
+            "genus": "stercorarius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/65/Stercorarius_skua_-Iceland-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Pomarine jaeger",
+        "polishName": "Wydrzyk t\u0119posterny",
+        "latinName": "stercorarius pomarinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "stercorariidae",
+            "genus": "stercorarius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stercorarius_pomarinusPCCA20070623-3985B.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Parasitic jaeger",
+        "polishName": "Wydrzyk ostrosterny",
+        "latinName": "stercorarius parasiticus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "stercorariidae",
+            "genus": "stercorarius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Arctic_Skua_1.jpg/800px-Arctic_Skua_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Long-tailed jaeger",
+        "polishName": "Wydrzyk d\u0142ugosterny",
+        "latinName": "stercorarius longicaudus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "stercorariidae",
+            "genus": "stercorarius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Long-tailed_Skua_%28js%29_26.jpg/800px-Long-tailed_Skua_%28js%29_26.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Atlantic puffin",
+        "polishName": "Maskonur (zwyczajny)",
+        "latinName": "fratercula arctica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "charadriiformes",
+            "family": "alcidae",
+            "genus": "fratercula"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puffin_%28Fratercula_arctica%29.jpg/600px-Puffin_%28Fratercula_arctica%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/Atlantic_Puffin_%28Fratercula_arctica%29_%28W1CDR0001416_BD3%29.ogg/Atlantic_Puffin_%28Fratercula_arctica%29_%28W1CDR0001416_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Common loon",
+        "polishName": "Nur lodowiec",
+        "latinName": "gavia immer",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "gaviiformes",
+            "family": "gaviidae",
+            "genus": "gavia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/800px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European storm petrel",
+        "polishName": "Nawa\u0142nik burzowy",
+        "latinName": "hydrobates pelagicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "hydrobatidae",
+            "genus": "hydrobates"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/European_storm_petrel_%28Hydrobates_pelagicus%29_Sagres.jpg/800px-European_storm_petrel_%28Hydrobates_pelagicus%29_Sagres.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/Storm_Petrel_%28Hydrobates_pelagicus%29_%28W1CDR0001395_BD7%29.ogg/Storm_Petrel_%28Hydrobates_pelagicus%29_%28W1CDR0001395_BD7%29.ogg.mp3"
+    },
+    {
+        "englishName": "Leach's storm petrel",
+        "polishName": "Nawa\u0142nik du\u017cy",
+        "latinName": "hydrobates leucorhous",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "hydrobatidae",
+            "genus": "hydrobates"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Leach%27s_Storm-petrel_Saint-Jean-de-Monts_01.jpg/800px-Leach%27s_Storm-petrel_Saint-Jean-de-Monts_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern fulmar",
+        "polishName": "Fulmar (zwyczajny)",
+        "latinName": "fulmarus glacialis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "procellariidae",
+            "genus": "fulmarus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fulmarus_Glacialis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sooty shearwater",
+        "polishName": "Burzyk szary",
+        "latinName": "ardenna grisea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "procellariidae",
+            "genus": "ardenna"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Puffinus_griseus_in_flight_-_SE_Tasmania.jpg/800px-Puffinus_griseus_in_flight_-_SE_Tasmania.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great shearwater",
+        "polishName": "Burzyk wielki",
+        "latinName": "ardenna gravis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "procellariidae",
+            "genus": "ardenna"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Greater_shearwater_%28Ardenna_gravis%29_Sagres.jpg/800px-Greater_shearwater_%28Ardenna_gravis%29_Sagres.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Manx shearwater",
+        "polishName": "Burzyk p\u00f3\u0142nocny",
+        "latinName": "puffinus puffinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "procellariidae",
+            "genus": "puffinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Manx_Shearwater.JPG/800px-Manx_Shearwater.JPG",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/Manx_Shearwater_%28Puffinus_puffinus%29_%28W1CDR0001420_BD4%29.ogg/Manx_Shearwater_%28Puffinus_puffinus%29_%28W1CDR0001420_BD4%29.ogg.mp3"
+    },
+    {
+        "englishName": "Balearic shearwater",
+        "polishName": "Burzyk balearski",
+        "latinName": "puffinus mauretanicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "procellariiformes",
+            "family": "procellariidae",
+            "genus": "puffinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/62/Puffinus_mauretanicus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern gannet",
+        "polishName": "G\u0142uptak (zwyczajny)",
+        "latinName": "morus bassanus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "suliformes",
+            "family": "sulidae",
+            "genus": "morus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Morus_bassanus_adu.jpg/800px-Morus_bassanus_adu.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European shag",
+        "polishName": "Kormoran czubaty",
+        "latinName": "gulosus aristotelis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "suliformes",
+            "family": "phalacrocoracidae",
+            "genus": "gulosus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Shag_Phalacrocorax_aristotelis.jpg/399px-Shag_Phalacrocorax_aristotelis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Great egret",
+        "polishName": "Czapla bia\u0142a",
+        "latinName": "ardea alba",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "pelecaniformes",
+            "family": "ardeidae",
+            "genus": "ardea"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Great_Egret_Breeding_Plumage.png/800px-Great_Egret_Breeding_Plumage.png",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Little egret",
+        "polishName": "Czapla nadobna",
+        "latinName": "egretta garzetta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "pelecaniformes",
+            "family": "ardeidae",
+            "genus": "egretta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Little_egret_%28Egretta_garzetta%29_Photograph_by_Shantanu_Kuveskar.jpg/450px-Little_egret_%28Egretta_garzetta%29_Photograph_by_Shantanu_Kuveskar.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Osprey",
+        "polishName": "Rybo\u0142\u00f3w",
+        "latinName": "pandion haliaetus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "pandionidae",
+            "genus": "pandion"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Osprey_on_nest.jpg/800px-Osprey_on_nest.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Pandion_haliaetus.ogg"
+    },
+    {
+        "englishName": "Golden eagle",
+        "polishName": "Orze\u0142",
+        "latinName": "aquila chrysaetos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "accipitridae",
+            "genus": "aquila"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/480px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Golden_Eagle_%28Aquila_chrysaetos%29_%28W1CDR0001387_BD6%29.ogg/Golden_Eagle_%28Aquila_chrysaetos%29_%28W1CDR0001387_BD6%29.ogg.mp3"
+    },
+    {
+        "englishName": "Short-eared owl",
+        "polishName": "Uszatka b\u0142otna",
+        "latinName": "asio flammeus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "asio"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Short_Eared_Owl_on_the_Ground.jpg/600px-Short_Eared_Owl_on_the_Ground.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Merlin",
+        "polishName": "Drzemlik",
+        "latinName": "falco columbarius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "falconiformes",
+            "family": "falconidae",
+            "genus": "falco"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Merlin_in_Prospect_Park_%2863386%29.jpg/800px-Merlin_in_Prospect_Park_%2863386%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Falco_columbarius_-_Merlin_-_XC101582.ogg"
+    },
+    {
+        "englishName": "Peregrine falcon",
+        "polishName": "Sok\u00f3\u0142 w\u0119drowny",
+        "latinName": "falco peregrinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "falconiformes",
+            "family": "falconidae",
+            "genus": "falco"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg/493px-Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red-billed chough",
+        "polishName": "Wro\u0144czyk",
+        "latinName": "pyrrhocorax pyrrhocorax",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "pyrrhocorax"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg/800px-Bran_goesgoch_Pyrrhocorax_pyrrhocorax.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chough_%28Pyrrhocorax_pyrrhocorax%29_%28W_PYRRHOCORAX_PYRRHOCORAX_R1_C17%29.ogg"
+    },
+    {
+        "englishName": "Carrion crow",
+        "polishName": "Czarnowron",
+        "latinName": "corvus corone",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "corvidae",
+            "genus": "corvus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Corvus_corone_-near_Canford_Cliffs%2C_Poole%2C_England-8.jpg/562px-Corvus_corone_-near_Canford_Cliffs%2C_Poole%2C_England-8.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg.mp3"
+    },
+    {
+        "englishName": "Cetti's warbler",
+        "polishName": "Wierzb\u00f3wka (zwyczajna)",
+        "latinName": "cettia cetti",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "cettiidae",
+            "genus": "cettia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/37-090505-cettis-warbler-at-Kalloni-east-river.jpg/800px-37-090505-cettis-warbler-at-Kalloni-east-river.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/da/Cetti%27s_warbler_song_%28cettia_cetti%29.wav/Cetti%27s_warbler_song_%28cettia_cetti%29.wav.ogg"
+    },
+    {
+        "englishName": "Dartford warbler",
+        "polishName": "Pokrzewka kasztanowata",
+        "latinName": "curruca undata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "sylviidae",
+            "genus": "curruca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dartford_Warbler_-_Ligura_-_Italy_S4E3711_%2818675159154%29.jpg/466px-Dartford_Warbler_-_Ligura_-_Italy_S4E3711_%2818675159154%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Parrot crossbill",
+        "polishName": "Krzy\u017codzi\u00f3b sosnowy",
+        "latinName": "loxia pytyopsittacus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "loxia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Loxia_pytyopsittacus%2C_Budby_Common_3.jpg/800px-Loxia_pytyopsittacus%2C_Budby_Common_3.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Scottish crossbill",
+        "polishName": "Krzy\u017codzi\u00f3b szkocki",
+        "latinName": "loxia scotica",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "fringillidae",
+            "subfamily": "carduelinae",
+            "genus": "loxia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scottish_Crossbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg/773px-Scottish_Crossbill_from_the_Crossley_ID_Guide_Britain_and_Ireland.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Cirl bunting",
+        "polishName": "Cierlik",
+        "latinName": "emberiza cirlus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "passeriformes",
+            "family": "emberizidae",
+            "genus": "emberiza"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cirl_bunting_cropped.jpg/800px-Cirl_bunting_cropped.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7d/Cirl_Bunting_%28Emberiza_cirlus%29_%28W1CDR0001391_BD17%29.ogg/Cirl_Bunting_%28Emberiza_cirlus%29_%28W1CDR0001391_BD17%29.ogg.mp3"
+    },
+    {
+        "englishName": "Toco toucan",
+        "polishName": "Tukan wielki",
+        "latinName": "ramphastos toco",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "piciformes",
+            "family": "ramphastidae",
+            "genus": "ramphastos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg/800px-Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg",
+        "audioSrc": null
+    }
+]
