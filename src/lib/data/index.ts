@@ -2,7 +2,19 @@ import birds from './birds.json';
 import mammals from './mammals.json';
 import reptiles from './reptiles.json';
 
-export const plTaxonomicRanks: Record<string, string> = {
+import taxonTranslations from './taxons.json';
+
+type Animal = {
+	englishName: string;
+	polishName: string;
+	latinName: string;
+	classification: Record<string, string | undefined>;
+	imageSrc: string | null;
+	audioSrc: string | null;
+};
+
+export const taxons: Record<string, string> = taxonTranslations;
+export const taxonomicRanks: Record<string, string> = {
 	domain: 'domena',
 	kingdom: 'królestwo',
 	phylum: 'typ',
@@ -20,4 +32,4 @@ export const plTaxonomicRanks: Record<string, string> = {
 	'species complex': 'kompleks gatunków'
 };
 
-export const animals = [...birds, ...mammals, ...reptiles];
+export const animals: Animal[] = [...birds, ...mammals, ...reptiles];
