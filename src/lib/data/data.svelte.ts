@@ -32,4 +32,4 @@ export const taxonomicRanks: Record<string, string> = {
 	'species complex': 'kompleks gatunków'
 };
 
-export const animals: Animal[] = [...birds, ...mammals, ...reptiles];
+export const animals: Animal[] = $state([...birds, ...mammals, ...reptiles]);

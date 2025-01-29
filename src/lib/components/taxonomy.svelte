@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { taxonomicRanks, taxons } from '$lib/data';
+	import { taxonomicRanks, taxons } from '$lib/data/data.svelte';
 
 	// Props
 	interface Props {

@@ -10,14 +10,14 @@
 	import { Collapsible } from 'bits-ui';
 	import { slide } from 'svelte/transition';
 
-	import { animals } from '$lib/data';
+	import { animals } from '$lib/data/data.svelte';
 </script>
 
 <div class="flex flex-col gap-4 p-4">
 	{#each animals as animal}
 		<div class="flex flex-col gap-2 rounded-3xl bg-gray-50 p-4">
 			<img src={animal.imageSrc} alt={animal.latinName} class="rounded-2xl" />
-			<h2 class="grid grid-cols-2 items-center">
+			<h2 class="grid grid-cols-2 items-center text-sm">
 				<div class="relative flex h-full items-center pr-2 pl-7">
 					<IconGb class="absolute left-0 h-5 w-5" />
 					<span>{animal.englishName}</span>
@@ -30,8 +30,8 @@
 				</div>
 			</h2>
 			<Collapsible.Root>
-				<div class="relative flex h-12 items-center justify-center">
-					<span class="text-xs uppercase italic">{animal.latinName}</span>
+				<div class="relative flex h-12 items-start justify-center">
+					<span class="mx-14 w-full text-center text-xs uppercase italic">{animal.latinName}</span>
 					<Collapsible.Trigger
 						class="group absolute right-0 flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-700/40 p-0.5 text-gray-700 hover:bg-gray-700/30 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-700/60 md:min-h-8 md:min-w-8 print:hidden"
 					>
