@@ -1,2234 +1,2233 @@
 [
-{
-    "englishName": "Northern white-breasted hedgehog",
-    "polishName": "Je\u017c wschodni",
-    "latinName": "erinaceus roumanicus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "erinaceidae",
-        "genus": "erinaceus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erinaceus_roumanicus_2013_G5.jpg/800px-Erinaceus_roumanicus_2013_G5.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European hedgehog",
-    "polishName": "Je\u017c zachodni",
-    "latinName": "erinaceus europaeus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "erinaceidae",
-        "genus": "erinaceus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Erinaceus_europaeus_LC0119.jpg/800px-Erinaceus_europaeus_LC0119.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European mole",
-    "polishName": "Kret europejski",
-    "latinName": "talpa europaea",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "talpidae",
-        "genus": "talpa"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Talpa_europaea_MHNT.jpg/800px-Talpa_europaea_MHNT.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Bicolored shrew",
-    "polishName": "Z\u0119bie\u0142ek bia\u0142awy",
-    "latinName": "crocidura leucodon",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "crocidura"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crocidura_leucodon.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Lesser white-toothed shrew",
-    "polishName": "Z\u0119bie\u0142ek karliczek",
-    "latinName": "crocidura suaveolens",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "crocidura"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crocidura_suaveolens_12456867.jpg/800px-Crocidura_suaveolens_12456867.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Iberian water shrew",
-    "polishName": "Rz\u0119sorek mniejszy",
-    "latinName": "neomys anomalus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "neomys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neomys_anomalus.jpg/800px-Neomys_anomalus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Eurasian water shrew",
-    "polishName": "Rz\u0119sorek rzeczek",
-    "latinName": "neomys fodiens",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "neomys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Neomys_fodiens_%28Varsinais-Suomi%2C_Finland%29_1_%28cropped%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common shrew",
-    "polishName": "Ryj\u00f3wka aksamitna",
-    "latinName": "sorex araneus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "sorex"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sorex-araneus.jpg/800px-Sorex-araneus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Alpine shrew",
-    "polishName": "Ryj\u00f3wka g\u00f3rska",
-    "latinName": "sorex alpinus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "sorex"
-    },
-    "imageSrc": null,
-    "audioSrc": null
-},
-{
-    "englishName": "Eurasian pygmy shrew",
-    "polishName": "Ryj\u00f3wka malutka",
-    "latinName": "sorex minutus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "sorex"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sorex_minutus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Laxmann's shrew",
-    "polishName": "Ryj\u00f3wka \u015brednia",
-    "latinName": "sorex caecutiens",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "eulipotyphla",
-        "family": "soricidae",
-        "genus": "sorex"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lappn%C3%A4bbmus_140621.jpg/600px-Lappn%C3%A4bbmus_140621.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Lesser horseshoe bat",
-    "polishName": "Podkowiec ma\u0142y",
-    "latinName": "rhinolophus hipposideros",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "rhinolophidae",
-        "genus": "rhinolophus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bat%2820070605%29.jpg/450px-Bat%2820070605%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Greater horseshoe bat",
-    "polishName": "Podkowiec du\u017cy",
-    "latinName": "rhinolophus ferrumequinum",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "rhinolophidae",
-        "genus": "rhinolophus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Greater_horseshoe_bat_%28Rhinolophus_ferrumequinum%29_Hrdovicka.jpg/600px-Greater_horseshoe_bat_%28Rhinolophus_ferrumequinum%29_Hrdovicka.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Western barbastelle",
-    "polishName": "Mopek zachodni",
-    "latinName": "barbastella barbastellus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "barbastella"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barbastella_barbastellus_01.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Northern bat",
-    "polishName": "Mroczek poz\u0142ocisty",
-    "latinName": "eptesicus nilssonii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "eptesicus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eptesicus_nilssoni.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Serotine bat",
-    "polishName": "Mroczek p\u00f3\u017any",
-    "latinName": "eptesicus serotinus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "eptesicus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/81/Eptesicus_serotinus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Savi's pipistrelle",
-    "polishName": "Przymroczek Saviego",
-    "latinName": "hypsugo savii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "hypsugo"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hypsugo-savi-VE-Trtar.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Alcathoe bat",
-    "polishName": "Nocek Alkatoe",
-    "latinName": "myotis alcathoe",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Myotis_alcathoe_-_Manuel_Ruedi_-_1_-_cropped.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Bechstein's bat",
-    "polishName": "Nocek Bechsteina",
-    "latinName": "myotis bechsteinii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vespertilion_bechstein.jpg/499px-Vespertilion_bechstein.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Brandt's bat",
-    "polishName": "Nocek Brandta",
-    "latinName": "myotis brandtii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Myotis_brandti.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Greater mouse-eared bat",
-    "polishName": "Nocek du\u017cy",
-    "latinName": "myotis myotis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Myotis.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Lesser mouse-eared bat",
-    "polishName": "Nocek wschodni",
-    "latinName": "myotis blythii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Myotis_blythii_02.jpg/800px-Myotis_blythii_02.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Pond bat",
-    "polishName": "Nocek \u0142ydkow\u0142osy",
-    "latinName": "myotis dasycneme",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Myotis_dasycneme.jpg/800px-Myotis_dasycneme.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Natterer's bat",
-    "polishName": "Nocek Natterera",
-    "latinName": "myotis nattereri",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Myotis_nattereri_%282862347369%29.jpg/800px-Myotis_nattereri_%282862347369%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Geoffroy's bat",
-    "polishName": "Nocek orz\u0119siony",
-    "latinName": "myotis emarginatus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Myotis_emarginatus_-_Ph._Karol_Tabarelli_de_Fatis.jpg/800px-Myotis_emarginatus_-_Ph._Karol_Tabarelli_de_Fatis.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Daubenton's bat",
-    "polishName": "Nocek rudy",
-    "latinName": "myotis daubentonii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Myotis_daubentoni01.jpg/800px-Myotis_daubentoni01.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Whiskered bat",
-    "polishName": "Nocek w\u0105satek",
-    "latinName": "myotis mystacinus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "myotis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Myotis_mystacinus.jpg/558px-Myotis_mystacinus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Lesser noctule",
-    "polishName": "Borowiec le\u015bny",
-    "latinName": "nyctalus leisleri",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "nyctalus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nyctalus_leisleri.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Greater noctule bat",
-    "polishName": "Borowiec olbrzymi",
-    "latinName": "nyctalus lasiopterus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "nyctalus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GreaterNoctule.JPG/537px-GreaterNoctule.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Common noctule",
-    "polishName": "Borowiec wielki",
-    "latinName": "nyctalus noctula",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "nyctalus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nyctalus_noctula.jpg/450px-Nyctalus_noctula.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Soprano pipistrelle",
-    "polishName": "Karlik drobny",
-    "latinName": "pipistrellus pygmaeus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "pipistrellus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pipistrellus_pygmaeus01.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common pipistrelle",
-    "polishName": "Karlik malutki",
-    "latinName": "pipistrellus pipistrellus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "pipistrellus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pipistrellus_female-1.jpg/800px-Pipistrellus_female-1.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Nathusius' pipistrelle",
-    "polishName": "Karlik wi\u0119kszy",
-    "latinName": "pipistrellus nathusii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "pipistrellus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pipistrellus_nathusii.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Kuhl's pipistrelle",
-    "polishName": "Karlik \u015bredni",
-    "latinName": "pipistrellus kuhlii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "pipistrellus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pipistrellus_kuhlii_adult.jpg/800px-Pipistrellus_kuhlii_adult.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Brown long-eared bat",
-    "polishName": "Gacek brunatny",
-    "latinName": "plecotus auritus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "plecotus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Plecotus_auritus_2013-2_%28cropped%29.jpg/529px-Plecotus_auritus_2013-2_%28cropped%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Grey long-eared Bat",
-    "polishName": "Gacek szary",
-    "latinName": "plecotus austriacus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "plecotus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Plecotus_austriacus2.jpg/662px-Plecotus_austriacus2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Parti-coloured bat",
-    "polishName": "Mroczak posrebrzany",
-    "latinName": "vespertilio murinus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "vespertilionidae",
-        "genus": "vespertilio"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Parti-coloured_bat_%28Vespertilio_murinus%29_Slovakia.jpg/449px-Parti-coloured_bat_%28Vespertilio_murinus%29_Slovakia.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common bent-wing bat",
-    "polishName": "Podkasaniec zwyczajny",
-    "latinName": "miniopterus schreibersii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "chiroptera",
-        "family": "miniopteridae",
-        "genus": "miniopterus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Miniopterus_schreibersii_dasythrix.jpg/800px-Miniopterus_schreibersii_dasythrix.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Red squirrel",
-    "polishName": "Wiewi\u00f3rka pospolita",
-    "latinName": "sciurus vulgaris",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "sciuridae",
-        "genus": "sciurus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Squirrel_posing.jpg/717px-Squirrel_posing.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European ground squirrel",
-    "polishName": "Suse\u0142 mor\u0119gowany",
-    "latinName": "spermophilus citellus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "sciuridae",
-        "genus": "spermophilus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/European_souslik_%28Spermophilus_citellus%29_Obrovisko.jpg/800px-European_souslik_%28Spermophilus_citellus%29_Obrovisko.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Speckled ground squirrel",
-    "polishName": "Suse\u0142 pere\u0142kowany",
-    "latinName": "spermophilus suslicus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "sciuridae",
-        "genus": "spermophilus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/49/Spermophilus_suslicus_%28G_Lesniewski%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Northern birch mouse",
-    "polishName": "Smu\u017cka le\u015bna",
-    "latinName": "sicista betulina",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "sminthidae",
-        "genus": "sicista"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sicista_betulina_03.JPG/800px-Sicista_betulina_03.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Southern birch mouse",
-    "polishName": "Smu\u017cka stepowa",
-    "latinName": "sicista subtilis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "sminthidae",
-        "genus": "sicista"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sicista_subtilis%2C_southern_birch_mouse.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Eurasian beaver",
-    "polishName": "B\u00f3br europejski",
-    "latinName": "castor fiber",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "castoridae",
-        "genus": "castor"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Beaver_pho34.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "North American beaver",
-    "polishName": "B\u00f3br kanadyjski",
-    "latinName": "castor canadensis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "castoridae",
-        "genus": "castor"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/599px-American_Beaver.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European hamster",
-    "polishName": "Chomik europejski",
-    "latinName": "cricetus cricetus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "cricetinae",
-        "genus": "cricetus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg/600px-European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Nutria",
-    "polishName": "Nutria ameryka\u0144ska",
-    "latinName": "myocastor coypus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "echimyidae",
-        "subfamily": "echimyinae",
-        "tribe": "myocastorini",
-        "genus": "myocastor"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Myocastor_coypus_02.jpg/782px-Myocastor_coypus_02.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European water vole",
-    "polishName": "Karczownik ziemnowodny",
-    "latinName": "arvicola amphibius",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "arvicola"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg/800px-Water_Vole_on_Boot_Hill_%285592665124%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Montane water vole",
-    "polishName": "Karczownik g\u00f3rski",
-    "latinName": "arvicola scherman",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "arvicola"
-    },
-    "imageSrc": null,
-    "audioSrc": null
-},
-{
-    "englishName": "Bank vole",
-    "polishName": "Nornica ruda",
-    "latinName": "clethrionomys glareolus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "clethrionomys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9c/R%C3%B6telmaus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European snow vole",
-    "polishName": "\u015anie\u017cnik europejski",
-    "latinName": "chionomys nivalis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "chionomys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/31/Microtus_nivalis.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Short-tailed field vole",
-    "polishName": "Nornik bury",
-    "latinName": "microtus agrestis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "microtus",
-        "subgenus": "euarvicola"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Field_Vole_by_Bruce_McAdam.jpg/600px-Field_Vole_by_Bruce_McAdam.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Tundra vole",
-    "polishName": "Nornik p\u00f3\u0142nocny",
-    "latinName": "alexandromys oeconomus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "alexandromys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/VOLE%2C_TUNDRA_%28microtus_oeconomus%29_%289-4-08%29_gambell%2C_ak_-2_%282834490753%29.jpg/766px-VOLE%2C_TUNDRA_%28microtus_oeconomus%29_%289-4-08%29_gambell%2C_ak_-2_%282834490753%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common vole",
-    "polishName": "Nornik zwyczajny",
-    "latinName": "microtus arvalis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "microtus",
-        "subgenus": "microtus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Feldmaus_Microtus_arvalis.jpg/726px-Feldmaus_Microtus_arvalis.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European pine vole",
-    "polishName": "Nornik darniowy",
-    "latinName": "microtus subterraneus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "microtus",
-        "subgenus": "terricola"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/5928-Microtus_subterraneus-%C4%8Certova_zahr%C3%A1dka-24.7.20.jpg/726px-5928-Microtus_subterraneus-%C4%8Certova_zahr%C3%A1dka-24.7.20.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Tatra pine vole",
-    "polishName": "Nornik tatrza\u0144ski",
-    "latinName": "microtus tatricus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "genus": "microtus",
-        "subgenus": "terricola"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Microtus_tatricus.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Muskrat",
-    "polishName": "Pi\u017cmak ameryka\u0144ski",
-    "latinName": "ondatra zibethicus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "cricetidae",
-        "subfamily": "arvicolinae",
-        "tribe": "ondatrini",
-        "genus": "ondatra"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Muskrat_swimming_Ottawa.jpg/800px-Muskrat_swimming_Ottawa.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Forest dormouse",
-    "polishName": "Koszatka le\u015bna",
-    "latinName": "dryomys nitedula",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "gliridae",
-        "genus": "dryomys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/45/Dryomys_nitedula.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Garden dormouse",
-    "polishName": "\u017bo\u0142\u0119dnica europejska",
-    "latinName": "eliomys quercinus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "gliridae",
-        "genus": "eliomys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eliomys_quercinus01.jpg/800px-Eliomys_quercinus01.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Edible dormouse",
-    "polishName": "Popielica szara",
-    "latinName": "glis glis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "gliridae",
-        "subfamily": "glirinae",
-        "genus": "glis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Edible_dormouse_-_Relmuis_-_Glis_glis.jpg/400px-Edible_dormouse_-_Relmuis_-_Glis_glis.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Hazel dormouse",
-    "polishName": "Orzesznica leszczynowa",
-    "latinName": "muscardinus avellanarius",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "gliridae",
-        "subfamily": "leithiinae",
-        "genus": "muscardinus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Haselmaus.jpg/800px-Haselmaus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Striped field mouse",
-    "polishName": "Myszarka polna",
-    "latinName": "apodemus agrarius",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "apodemus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mysz_polna2.jpg/800px-Mysz_polna2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Yellow-necked mouse",
-    "polishName": "Myszarka le\u015bna",
-    "latinName": "apodemus flavicollis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "apodemus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/06/Apodemus.flavicollis.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Ural field mouse",
-    "polishName": "Myszarka zielna",
-    "latinName": "apodemus uralensis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "apodemus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/62/Apodemus_uralensis_3.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Wood mouse",
-    "polishName": "Myszarka zaro\u015blowa",
-    "latinName": "apodemus sylvaticus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "apodemus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ApodemusSylvaticus.jpg/800px-ApodemusSylvaticus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Eurasian harvest mouse",
-    "polishName": "Badylarka pospolita",
-    "latinName": "micromys minutus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "micromys"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Micromysminutus1.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "House mouse",
-    "polishName": "Mysz domowa",
-    "latinName": "mus musculus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "mus",
-        "subgenus": "mus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mouse_white_background.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Black rat",
-    "polishName": "Szczur \u015bniady",
-    "latinName": "rattus rattus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "rattus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Roofrat_Hagenbeck_02.jpg/800px-Roofrat_Hagenbeck_02.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Brown rat",
-    "polishName": "Szczur w\u0119drowny",
-    "latinName": "rattus norvegicus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "muridae",
-        "genus": "rattus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rattus_norvegicus_-_Brown_rat_02.jpg/800px-Rattus_norvegicus_-_Brown_rat_02.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European rabbit",
-    "polishName": "Kr\u00f3lik europejski",
-    "latinName": "oryctolagus cuniculus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "lagomorpha",
-        "family": "leporidae",
-        "genus": "oryctolagus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oryctolagus_cuniculus_Tasmania_2_%28cropped%29.jpg/470px-Oryctolagus_cuniculus_Tasmania_2_%28cropped%29.jpg",
-    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Laut%C3%A4u%C3%9Ferung_Kaninchen.flac/Laut%C3%A4u%C3%9Ferung_Kaninchen.flac.ogg"
-},
-{
-    "englishName": "Mountain hare",
-    "polishName": "Zaj\u0105c bielak",
-    "latinName": "lepus timidus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "lagomorpha",
-        "family": "leporidae",
-        "genus": "lepus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mountain_hare_%28Lepus_timidus%29_Oppdal.jpg/800px-Mountain_hare_%28Lepus_timidus%29_Oppdal.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European hare",
-    "polishName": "Zaj\u0105c szarak",
-    "latinName": "lepus europaeus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "lagomorpha",
-        "family": "leporidae",
-        "genus": "lepus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lepus_europaeus_%28Causse_M%C3%A9jean%2C_Loz%C3%A8re%29-cropped.jpg/450px-Lepus_europaeus_%28Causse_M%C3%A9jean%2C_Loz%C3%A8re%29-cropped.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Wolf",
-    "polishName": "Wilk szary",
-    "latinName": "canis lupus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "canidae",
-        "genus": "canis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/774px-Eurasian_wolf_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Golden jackal",
-    "polishName": "Szakal z\u0142ocisty",
-    "latinName": "canis aureus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "canidae",
-        "genus": "canis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canis_aureus_syriacus_114837596.jpg/619px-Canis_aureus_syriacus_114837596.jpg",
-    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/Jackal.ogg/Jackal.ogg.mp3"
-},
-{
-    "englishName": "Common raccoon dog",
-    "polishName": "Jenot azjatycki",
-    "latinName": "nyctereutes procyonoides",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "canidae",
-        "genus": "nyctereutes"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%28Nyctereutes_procyonoides%29.jpg/800px-%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%28Nyctereutes_procyonoides%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Red fox",
-    "polishName": "Lis rudy",
-    "latinName": "vulpes vulpes",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "canidae",
-        "genus": "vulpes"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/799px-Vulpes_vulpes_ssp_fulvus.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Brown bear",
-    "polishName": "Nied\u017awied\u017a brunatny",
-    "latinName": "ursus arctos",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "ursidae",
-        "genus": "ursus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/800px-2010-kodiak-bear-1.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Eurasian otter",
-    "polishName": "Wydra europejska",
-    "latinName": "lutra lutra",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "subfamily": "lutrinae",
-        "genus": "lutra"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fischotter%2C_Lutra_Lutra.JPG/800px-Fischotter%2C_Lutra_Lutra.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Beech marten",
-    "polishName": "Kuna domowa",
-    "latinName": "martes foina",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "martes"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Steinmarder_%28cropped%29.jpg/379px-Steinmarder_%28cropped%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European pine marten",
-    "polishName": "Kuna le\u015bna",
-    "latinName": "martes martes",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "martes"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/800px-Pine_Marten_%2848173751702%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Sable",
-    "polishName": "Sob\u00f3l tajgowy",
-    "latinName": "martes zibellina",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "martes"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sobol_bur.jpg/738px-Sobol_bur.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European badger",
-    "polishName": "Borsuk europejski",
-    "latinName": "meles meles",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "meles"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg/800px-M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Least weasel",
-    "polishName": "\u0141asica pospolita",
-    "latinName": "mustela nivalis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "mustela"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/702px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Stoat",
-    "polishName": "Gronostaj europejski",
-    "latinName": "mustela erminea",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "mustela"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/R%C3%B8yskatt_%28Mustela_erminea_erminea%29%2C_Lista%2C_Norway.jpg/800px-R%C3%B8yskatt_%28Mustela_erminea_erminea%29%2C_Lista%2C_Norway.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European mink",
-    "polishName": "Norka europejska",
-    "latinName": "mustela lutreola",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "mustela"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Europ%C3%A4ischer_Nerz.jpg/618px-Europ%C3%A4ischer_Nerz.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European polecat",
-    "polishName": "Tch\u00f3rz zwyczajny",
-    "latinName": "mustela putorius",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "mustela",
-        "subgenus": "putorius"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Storm_the_polecat.jpg/384px-Storm_the_polecat.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Steppe polecat",
-    "polishName": "Tch\u00f3rz stepowy",
-    "latinName": "mustela eversmanii",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "mustela",
-        "subgenus": "putorius"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wild_steppe_polecat_%28cropped%29.jpg/800px-Wild_steppe_polecat_%28cropped%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "American mink",
-    "polishName": "Wizon ameryka\u0144ski",
-    "latinName": "neogale vison",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "neogale"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MinkforWiki.jpg/799px-MinkforWiki.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Raccoon",
-    "polishName": "Szop pracz",
-    "latinName": "procyon lotor",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "procyonidae",
-        "genus": "procyon"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg/766px-Raccoon_in_Central_Park_%2835264%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Eurasian lynx",
-    "polishName": "Ry\u015b euroazjatycki",
-    "latinName": "lynx lynx",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "suborder": "feliformia",
-        "family": "felidae",
-        "subfamily": "felinae",
-        "genus": "lynx"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/800px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European wildcat",
-    "polishName": "\u017bbik europejski",
-    "latinName": "felis silvestris",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "suborder": "feliformia",
-        "family": "felidae",
-        "subfamily": "felinae",
-        "genus": "felis"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Felis_silvestris_silvestris_Luc_Viatour.jpg/399px-Felis_silvestris_silvestris_Luc_Viatour.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Grey seal",
-    "polishName": "Szarytka morska",
-    "latinName": "halichoerus grypus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "clade": "pinnipedia",
-        "family": "phocidae",
-        "genus": "halichoerus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Donna_Nook_NNR_-_Grey_Seal_pupping_and_breeding_season_-_38804871202.jpg/800px-Donna_Nook_NNR_-_Grey_Seal_pupping_and_breeding_season_-_38804871202.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Ringed seal",
-    "polishName": "Nerpa obr\u0105czkowana",
-    "latinName": "pusa hispida",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "clade": "pinnipedia",
-        "family": "phocidae",
-        "genus": "pusa"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pusa_hispida_hispida_NOAA_1.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Harbor seal",
-    "polishName": "Foka pospolita",
-    "latinName": "phoca vitulina",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "clade": "pinnipedia",
-        "family": "phocidae",
-        "genus": "phoca"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_seal_%28Phoca_vitulina%29_2.jpg/800px-Common_seal_%28Phoca_vitulina%29_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Walrus",
-    "polishName": "Mors arktyczny",
-    "latinName": "odobenus rosmarus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "clade": "pinnipedia",
-        "family": "odobenidae",
-        "genus": "odobenus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pacific_Walrus_-_Bull_%288247646168%29.jpg/800px-Pacific_Walrus_-_Bull_%288247646168%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European bison",
-    "polishName": "\u017bubr europejski",
-    "latinName": "bison bonasus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "bovidae",
-        "subfamily": "bovinae",
-        "genus": "bison"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/800px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Aurochs",
-    "polishName": "Tur le\u015bny",
-    "latinName": "\u2020",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "bovidae",
-        "subfamily": "bovinae",
-        "genus": "bos"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Copenhagen_Aurochse.jpg/463px-Copenhagen_Aurochse.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Wild boar",
-    "polishName": "Dzik euroazjatycki",
-    "latinName": "sus scrofa",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "suidae",
-        "genus": "sus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/800px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Moose",
-    "polishName": "\u0141o\u015b euroazjatycki",
-    "latinName": "alces alces",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "subfamily": "capreolinae",
-        "tribe": "alceini",
-        "genus": "alces"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/800px-Alaska_moose.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Roe deer",
-    "polishName": "Sarna europejska",
-    "latinName": "capreolus capreolus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "subfamily": "capreolinae",
-        "genus": "capreolus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor.jpg/800px-Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Siberian roe deer",
-    "polishName": "Sarna syberyjska",
-    "latinName": "capreolus pygargus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "subfamily": "capreolinae",
-        "genus": "capreolus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Siberian_roe_deer.jpg/539px-Siberian_roe_deer.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Red deer",
-    "polishName": "Jele\u0144 szlachetny",
-    "latinName": "cervus elaphus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "genus": "cervus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cervus_elaphus_Luc_Viatour_6.jpg/800px-Cervus_elaphus_Luc_Viatour_6.jpg",
-    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg.mp3"
-},
-{
-    "englishName": "Sika deer",
-    "polishName": "Jele\u0144 wschodni",
-    "latinName": "cervus nippon",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "genus": "cervus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cervus_nippon_002.jpg/800px-Cervus_nippon_002.jpg",
-    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/Sika_Deer_%28Cervus_nippon%29_%28W1CDR0001426_BD2%29.ogg/Sika_Deer_%28Cervus_nippon%29_%28W1CDR0001426_BD2%29.ogg.mp3"
-},
-{
-    "englishName": "Elk",
-    "polishName": "Jele\u0144 kanadyjski",
-    "latinName": "cervus canadensis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "genus": "cervus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg/641px-Jasper.Wapiti-Hirsch.P1033401.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "European fallow deer",
-    "polishName": "Daniel zwyczajny",
-    "latinName": "dama dama",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "tribe": "cervini",
-        "genus": "dama"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/800px-Fallow_deer_in_field.jpg",
-    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Fallow_Deer_%28Dama_dama%29_%28W1CDR0001444_BD17%29.ogg/Fallow_Deer_%28Dama_dama%29_%28W1CDR0001444_BD17%29.ogg.mp3"
-},
-{
-    "englishName": "Sowerby's beaked whale",
-    "polishName": "Dziobowal dwuz\u0119bny",
-    "latinName": "mesoplodon bidens",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "ziphiidae",
-        "genus": "mesoplodon"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mesoplodon_bidens_2.jpg/800px-Mesoplodon_bidens_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Northern bottlenose whale",
-    "polishName": "Butlog\u0142\u00f3w p\u00f3\u0142nocny",
-    "latinName": "hyperoodon ampullatus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "ziphiidae",
-        "genus": "hyperoodon"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyperoodon_ampullatus_2.jpg/800px-Hyperoodon_ampullatus_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common dolphin",
-    "polishName": "Delfin zwyczajny",
-    "latinName": "delphinus delphis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "delphinus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Common_dolphin_noaa.jpg/800px-Common_dolphin_noaa.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "White-beaked dolphin",
-    "polishName": "Delfinowiec bia\u0142onosy",
-    "latinName": "lagenorhynchus albirostris",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "lagenorhynchus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witsnuitdolfijn_-_Lagenorhynchus_albirostris.jpg/800px-Witsnuitdolfijn_-_Lagenorhynchus_albirostris.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common bottlenose dolphin",
-    "polishName": "Butlonos zwyczajny",
-    "latinName": "tursiops truncatus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "tursiops"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tursiops_truncatus_01-cropped.jpg/800px-Tursiops_truncatus_01-cropped.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Harbour porpoise",
-    "polishName": "Mor\u015bwin zwyczajny",
-    "latinName": "phocoena phocoena",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "phocoenidae",
-        "genus": "phocoena"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg/800px-Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Beluga whale",
-    "polishName": "Bia\u0142ucha arktyczna",
-    "latinName": "delphinapterus leucas",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "monodontidae",
-        "genus": "delphinapterus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oceanogr%C3%A0fic_29102004.jpg/800px-Oceanogr%C3%A0fic_29102004.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Humpback whale",
-    "polishName": "D\u0142ugop\u0142etwiec oceaniczny",
-    "latinName": "megaptera novaeangliae",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "balaenopteridae",
-        "genus": "megaptera"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Humpback_Whale_underwater_shot.jpg/800px-Humpback_Whale_underwater_shot.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Fin whale",
-    "polishName": "P\u0142etwal zwyczajny",
-    "latinName": "balaenoptera physalus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "balaenopteridae",
-        "genus": "balaenoptera"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Finhval_%281%29.jpg/799px-Finhval_%281%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Sei whale",
-    "polishName": "P\u0142etwal czerniakowy",
-    "latinName": "balaenoptera borealis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "balaenopteridae",
-        "genus": "balaenoptera"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg/800px-Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "North Atlantic right whale",
-    "polishName": "Wale\u0144 biskajski",
-    "latinName": "eubalaena glacialis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "balaenidae",
-        "genus": "eubalaena"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GRNMS_-_Right_Whales_%2831361234602%29.jpg/564px-GRNMS_-_Right_Whales_%2831361234602%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Red-necked wallaby",
-    "polishName": "Kangur rdzawoszyi",
-    "latinName": "notamacropus rufogriseus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "infraclass": "marsupialia",
-        "order": "diprotodontia",
-        "family": "macropodidae",
-        "genus": "notamacropus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Macropus_rufogriseus_rufogriseus_Bruny.jpg/400px-Macropus_rufogriseus_rufogriseus_Bruny.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Eastern gray squirrel",
-    "polishName": "Wiewi\u00f3rka szara",
-    "latinName": "sciurus carolinensis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "rodentia",
-        "family": "sciuridae",
-        "genus": "sciurus",
-        "subgenus": "sciurus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EasternGraySquirrel_GAm.jpg/600px-EasternGraySquirrel_GAm.jpg",
-    "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Grey_Squirrel_%28Sciurus_carolinensis%29_%28W1CDR0001470_BD12%29.ogg/Grey_Squirrel_%28Sciurus_carolinensis%29_%28W1CDR0001470_BD12%29.ogg.mp3"
-},
-{
-    "englishName": "Water deer",
-    "polishName": "Jelonkowiec b\u0142otny",
-    "latinName": "hydropotes inermis",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "subfamily": "capreolinae",
-        "tribe": "capreolini",
-        "genus": "hydropotes"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hydropotes_inermis_male.JPG/775px-Hydropotes_inermis_male.JPG",
-    "audioSrc": null
-},
-{
-    "englishName": "Reeves's muntjac",
-    "polishName": "Mund\u017cak chi\u0144ski",
-    "latinName": "muntiacus reevesi",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "genus": "muntiacus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chinesischer_Muntjak_Muntiacus_reevesi_Zoo_Augsburg-04.jpg/800px-Chinesischer_Muntjak_Muntiacus_reevesi_Zoo_Augsburg-04.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Common minke whale",
-    "polishName": "P\u0142etwal kar\u0142owaty",
-    "latinName": "balaenoptera acutorostrata",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "balaenopteridae",
-        "genus": "balaenoptera",
-        "species complex": "minke whale species complex"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dwarf_minke_whale_%2830694501214%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Blue whale",
-    "polishName": "P\u0142etwal b\u0142\u0119kitny",
-    "latinName": "balaenoptera musculus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "balaenopteridae",
-        "genus": "balaenoptera"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/800px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Sperm whale",
-    "polishName": "Kaszalot spermacetowy",
-    "latinName": "physeter macrocephalus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "physeteridae",
-        "genus": "physeter"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mother_and_baby_sperm_whale.jpg/800px-Mother_and_baby_sperm_whale.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Pygmy sperm whale",
-    "polishName": "Kogia kr\u00f3tkog\u0142owa",
-    "latinName": "kogia breviceps",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "kogiidae",
-        "genus": "kogia"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pygmy_sperm_whale.jpg/800px-Pygmy_sperm_whale.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Cuvier's beaked whale",
-    "polishName": "Zyfia g\u0119siog\u0142owa",
-    "latinName": "ziphius cavirostris",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "ziphiidae",
-        "genus": "ziphius"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ziphius_carvirostris.jpg/800px-Ziphius_carvirostris.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Gervais's beaked whale",
-    "polishName": "Dziobowal europejski",
-    "latinName": "mesoplodon europaeus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "ziphiidae",
-        "genus": "mesoplodon"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mesoplodon_europaeus_2.jpg/799px-Mesoplodon_europaeus_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Atlantic white-sided dolphin",
-    "polishName": "Delfinowiec bia\u0142oboki",
-    "latinName": "lagenorhynchus acutus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "lagenorhynchus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Atlantic_white-sided_dolphin.jpg/800px-Atlantic_white-sided_dolphin.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "False killer whale",
-    "polishName": "Szablogrzbiet walenio\u017cerny",
-    "latinName": "pseudorca crassidens",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "pseudorca"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adult_false_killer_whale_off_Guam_photographed_prior_to_deployment_of_satellite_tag_ID-_128887_%28anim252541873%29.jpg/800px-Adult_false_killer_whale_off_Guam_photographed_prior_to_deployment_of_satellite_tag_ID-_128887_%28anim252541873%29.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Striped dolphin",
-    "polishName": "Delfinek pr\u0119goboki",
-    "latinName": "stenella coeruleoalba",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "stenella"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stenella_coeruleoalba_Ligurian_Sea_02_-_brighter.jpg/800px-Stenella_coeruleoalba_Ligurian_Sea_02_-_brighter.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Risso's dolphin",
-    "polishName": "Risso szary",
-    "latinName": "grampus griseus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "grampus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/93/Grampo.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Orca",
-    "polishName": "Orka oceaniczna",
-    "latinName": "orcinus orca",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "infraorder": "cetacea",
-        "family": "delphinidae",
-        "genus": "orcinus"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/800px-Killerwhales_jumping.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Wolverine",
-    "polishName": "Rosomak tundrowy",
-    "latinName": "gulo gulo",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "carnivora",
-        "family": "mustelidae",
-        "genus": "gulo"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/800px-Gulo_gulo_2.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Reindeer",
-    "polishName": "Renifer tundrowy",
-    "latinName": "rangifer tarandus",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "artiodactyla",
-        "family": "cervidae",
-        "subfamily": "capreolinae",
-        "tribe": "odocoileini",
-        "genus": "rangifer"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/800px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "Chimpanzee",
-    "polishName": "Szympans zwyczajny",
-    "latinName": "pan troglodytes",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "primates",
-        "suborder": "haplorhini",
-        "infraorder": "simiiformes",
-        "family": "hominidae",
-        "subfamily": "homininae",
-        "tribe": "hominini",
-        "genus": "pan"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/400px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
-    "audioSrc": null
-},
-{
-    "englishName": "African bush elephant",
-    "polishName": "S\u0142o\u0144 afryka\u0144ski",
-    "latinName": "loxodonta africana",
-    "classification": {
-        "domain": "eukaryota",
-        "kingdom": "animalia",
-        "phylum": "chordata",
-        "class": "mammalia",
-        "order": "proboscidea",
-        "family": "elephantidae",
-        "genus": "loxodonta"
-    },
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/An_elephant_in_Kruger_National_Park.jpg/800px-An_elephant_in_Kruger_National_Park.jpg",
-    "audioSrc": null
-}
+    {
+        "englishName": "Northern white-breasted hedgehog",
+        "polishName": "Je\u017c wschodni",
+        "latinName": "erinaceus roumanicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "erinaceidae",
+            "genus": "erinaceus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erinaceus_roumanicus_2013_G5.jpg/800px-Erinaceus_roumanicus_2013_G5.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European hedgehog",
+        "polishName": "Je\u017c zachodni",
+        "latinName": "erinaceus europaeus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "erinaceidae",
+            "genus": "erinaceus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Erinaceus_europaeus_LC0119.jpg/800px-Erinaceus_europaeus_LC0119.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European mole",
+        "polishName": "Kret europejski",
+        "latinName": "talpa europaea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "talpidae",
+            "genus": "talpa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Talpa_europaea_MHNT.jpg/800px-Talpa_europaea_MHNT.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bicolored shrew",
+        "polishName": "Z\u0119bie\u0142ek bia\u0142awy",
+        "latinName": "crocidura leucodon",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "crocidura"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crocidura_leucodon.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser white-toothed shrew",
+        "polishName": "Z\u0119bie\u0142ek karliczek",
+        "latinName": "crocidura suaveolens",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "crocidura"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Crocidura_suaveolens_12456867.jpg/800px-Crocidura_suaveolens_12456867.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Iberian water shrew",
+        "polishName": "Rz\u0119sorek mniejszy",
+        "latinName": "neomys anomalus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "neomys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neomys_anomalus.jpg/800px-Neomys_anomalus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian water shrew",
+        "polishName": "Rz\u0119sorek rzeczek",
+        "latinName": "neomys fodiens",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "neomys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Neomys_fodiens_%28Varsinais-Suomi%2C_Finland%29_1_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common shrew",
+        "polishName": "Ryj\u00f3wka aksamitna",
+        "latinName": "sorex araneus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "sorex"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Sorex-araneus.jpg/800px-Sorex-araneus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Alpine shrew",
+        "polishName": "Ryj\u00f3wka g\u00f3rska",
+        "latinName": "sorex alpinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "sorex"
+        },
+        "imageSrc": null,
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian pygmy shrew",
+        "polishName": "Ryj\u00f3wka malutka",
+        "latinName": "sorex minutus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "sorex"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sorex_minutus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Laxmann's shrew",
+        "polishName": "Ryj\u00f3wka \u015brednia",
+        "latinName": "sorex caecutiens",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "eulipotyphla",
+            "family": "soricidae",
+            "genus": "sorex"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lappn%C3%A4bbmus_140621.jpg/600px-Lappn%C3%A4bbmus_140621.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser horseshoe bat",
+        "polishName": "Podkowiec ma\u0142y",
+        "latinName": "rhinolophus hipposideros",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "rhinolophidae",
+            "genus": "rhinolophus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bat%2820070605%29.jpg/450px-Bat%2820070605%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Greater horseshoe bat",
+        "polishName": "Podkowiec du\u017cy",
+        "latinName": "rhinolophus ferrumequinum",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "rhinolophidae",
+            "genus": "rhinolophus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Greater_horseshoe_bat_%28Rhinolophus_ferrumequinum%29_Hrdovicka.jpg/600px-Greater_horseshoe_bat_%28Rhinolophus_ferrumequinum%29_Hrdovicka.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western barbastelle",
+        "polishName": "Mopek zachodni",
+        "latinName": "barbastella barbastellus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "barbastella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Barbastella_barbastellus_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern bat",
+        "polishName": "Mroczek poz\u0142ocisty",
+        "latinName": "eptesicus nilssonii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "eptesicus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Eptesicus_nilssoni.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Serotine bat",
+        "polishName": "Mroczek p\u00f3\u017any",
+        "latinName": "eptesicus serotinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "eptesicus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/81/Eptesicus_serotinus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Savi's pipistrelle",
+        "polishName": "Przymroczek Saviego",
+        "latinName": "hypsugo savii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "hypsugo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Hypsugo-savi-VE-Trtar.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Alcathoe bat",
+        "polishName": "Nocek Alkatoe",
+        "latinName": "myotis alcathoe",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Myotis_alcathoe_-_Manuel_Ruedi_-_1_-_cropped.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bechstein's bat",
+        "polishName": "Nocek Bechsteina",
+        "latinName": "myotis bechsteinii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vespertilion_bechstein.jpg/499px-Vespertilion_bechstein.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Brandt's bat",
+        "polishName": "Nocek Brandta",
+        "latinName": "myotis brandtii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Myotis_brandti.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Greater mouse-eared bat",
+        "polishName": "Nocek du\u017cy",
+        "latinName": "myotis myotis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Myotis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser mouse-eared bat",
+        "polishName": "Nocek wschodni",
+        "latinName": "myotis blythii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Myotis_blythii_02.jpg/800px-Myotis_blythii_02.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Pond bat",
+        "polishName": "Nocek \u0142ydkow\u0142osy",
+        "latinName": "myotis dasycneme",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Myotis_dasycneme.jpg/800px-Myotis_dasycneme.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Natterer's bat",
+        "polishName": "Nocek Natterera",
+        "latinName": "myotis nattereri",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Myotis_nattereri_%282862347369%29.jpg/800px-Myotis_nattereri_%282862347369%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Geoffroy's bat",
+        "polishName": "Nocek orz\u0119siony",
+        "latinName": "myotis emarginatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Myotis_emarginatus_-_Ph._Karol_Tabarelli_de_Fatis.jpg/800px-Myotis_emarginatus_-_Ph._Karol_Tabarelli_de_Fatis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Daubenton's bat",
+        "polishName": "Nocek rudy",
+        "latinName": "myotis daubentonii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Myotis_daubentoni01.jpg/800px-Myotis_daubentoni01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Whiskered bat",
+        "polishName": "Nocek w\u0105satek",
+        "latinName": "myotis mystacinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "myotis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Myotis_mystacinus.jpg/558px-Myotis_mystacinus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Lesser noctule",
+        "polishName": "Borowiec le\u015bny",
+        "latinName": "nyctalus leisleri",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "nyctalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/08/Nyctalus_leisleri.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Greater noctule bat",
+        "polishName": "Borowiec olbrzymi",
+        "latinName": "nyctalus lasiopterus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "nyctalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GreaterNoctule.JPG/537px-GreaterNoctule.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common noctule",
+        "polishName": "Borowiec wielki",
+        "latinName": "nyctalus noctula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "nyctalus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nyctalus_noctula.jpg/450px-Nyctalus_noctula.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Soprano pipistrelle",
+        "polishName": "Karlik drobny",
+        "latinName": "pipistrellus pygmaeus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "pipistrellus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pipistrellus_pygmaeus01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common pipistrelle",
+        "polishName": "Karlik malutki",
+        "latinName": "pipistrellus pipistrellus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "pipistrellus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pipistrellus_female-1.jpg/800px-Pipistrellus_female-1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Nathusius' pipistrelle",
+        "polishName": "Karlik wi\u0119kszy",
+        "latinName": "pipistrellus nathusii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "pipistrellus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pipistrellus_nathusii.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Kuhl's pipistrelle",
+        "polishName": "Karlik \u015bredni",
+        "latinName": "pipistrellus kuhlii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "pipistrellus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pipistrellus_kuhlii_adult.jpg/800px-Pipistrellus_kuhlii_adult.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Brown long-eared bat",
+        "polishName": "Gacek brunatny",
+        "latinName": "plecotus auritus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "plecotus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Plecotus_auritus_2013-2_%28cropped%29.jpg/529px-Plecotus_auritus_2013-2_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Grey long-eared Bat",
+        "polishName": "Gacek szary",
+        "latinName": "plecotus austriacus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "plecotus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Plecotus_austriacus2.jpg/662px-Plecotus_austriacus2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Parti-coloured bat",
+        "polishName": "Mroczak posrebrzany",
+        "latinName": "vespertilio murinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "vespertilionidae",
+            "genus": "vespertilio"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Parti-coloured_bat_%28Vespertilio_murinus%29_Slovakia.jpg/449px-Parti-coloured_bat_%28Vespertilio_murinus%29_Slovakia.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common bent-wing bat",
+        "polishName": "Podkasaniec zwyczajny",
+        "latinName": "miniopterus schreibersii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "chiroptera",
+            "family": "miniopteridae",
+            "genus": "miniopterus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Miniopterus_schreibersii_dasythrix.jpg/800px-Miniopterus_schreibersii_dasythrix.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red squirrel",
+        "polishName": "Wiewi\u00f3rka pospolita",
+        "latinName": "sciurus vulgaris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sciuridae",
+            "genus": "sciurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Squirrel_posing.jpg/717px-Squirrel_posing.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European ground squirrel",
+        "polishName": "Suse\u0142 mor\u0119gowany",
+        "latinName": "spermophilus citellus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sciuridae",
+            "genus": "spermophilus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/European_souslik_%28Spermophilus_citellus%29_Obrovisko.jpg/800px-European_souslik_%28Spermophilus_citellus%29_Obrovisko.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Speckled ground squirrel",
+        "polishName": "Suse\u0142 pere\u0142kowany",
+        "latinName": "spermophilus suslicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sciuridae",
+            "genus": "spermophilus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/49/Spermophilus_suslicus_%28G_Lesniewski%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern birch mouse",
+        "polishName": "Smu\u017cka le\u015bna",
+        "latinName": "sicista betulina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sminthidae",
+            "genus": "sicista"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sicista_betulina_03.JPG/800px-Sicista_betulina_03.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Southern birch mouse",
+        "polishName": "Smu\u017cka stepowa",
+        "latinName": "sicista subtilis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sminthidae",
+            "genus": "sicista"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sicista_subtilis%2C_southern_birch_mouse.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian beaver",
+        "polishName": "B\u00f3br europejski",
+        "latinName": "castor fiber",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "castoridae",
+            "genus": "castor"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Beaver_pho34.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "North American beaver",
+        "polishName": "B\u00f3br kanadyjski",
+        "latinName": "castor canadensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "castoridae",
+            "genus": "castor"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/599px-American_Beaver.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European hamster",
+        "polishName": "Chomik europejski",
+        "latinName": "cricetus cricetus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "cricetinae",
+            "genus": "cricetus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg/600px-European_hamster_%28Cricetus_cricetus%29_Meidling_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Nutria",
+        "polishName": "Nutria ameryka\u0144ska",
+        "latinName": "myocastor coypus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "echimyidae",
+            "subfamily": "echimyinae",
+            "tribe": "myocastorini",
+            "genus": "myocastor"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Myocastor_coypus_02.jpg/782px-Myocastor_coypus_02.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European water vole",
+        "polishName": "Karczownik ziemnowodny",
+        "latinName": "arvicola amphibius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "arvicola"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_Vole_on_Boot_Hill_%285592665124%29.jpg/800px-Water_Vole_on_Boot_Hill_%285592665124%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Montane water vole",
+        "polishName": "Karczownik g\u00f3rski",
+        "latinName": "arvicola scherman",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "arvicola"
+        },
+        "imageSrc": null,
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bank vole",
+        "polishName": "Nornica ruda",
+        "latinName": "clethrionomys glareolus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "clethrionomys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/9c/R%C3%B6telmaus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European snow vole",
+        "polishName": "\u015anie\u017cnik europejski",
+        "latinName": "chionomys nivalis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "chionomys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/31/Microtus_nivalis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Short-tailed field vole",
+        "polishName": "Nornik bury",
+        "latinName": "microtus agrestis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "microtus",
+            "subgenus": "euarvicola"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Field_Vole_by_Bruce_McAdam.jpg/600px-Field_Vole_by_Bruce_McAdam.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tundra vole",
+        "polishName": "Nornik p\u00f3\u0142nocny",
+        "latinName": "alexandromys oeconomus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "alexandromys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/VOLE%2C_TUNDRA_%28microtus_oeconomus%29_%289-4-08%29_gambell%2C_ak_-2_%282834490753%29.jpg/766px-VOLE%2C_TUNDRA_%28microtus_oeconomus%29_%289-4-08%29_gambell%2C_ak_-2_%282834490753%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common vole",
+        "polishName": "Nornik zwyczajny",
+        "latinName": "microtus arvalis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "microtus",
+            "subgenus": "microtus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Feldmaus_Microtus_arvalis.jpg/726px-Feldmaus_Microtus_arvalis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European pine vole",
+        "polishName": "Nornik darniowy",
+        "latinName": "microtus subterraneus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "microtus",
+            "subgenus": "terricola"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/5928-Microtus_subterraneus-%C4%8Certova_zahr%C3%A1dka-24.7.20.jpg/726px-5928-Microtus_subterraneus-%C4%8Certova_zahr%C3%A1dka-24.7.20.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tatra pine vole",
+        "polishName": "Nornik tatrza\u0144ski",
+        "latinName": "microtus tatricus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "genus": "microtus",
+            "subgenus": "terricola"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Microtus_tatricus.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Muskrat",
+        "polishName": "Pi\u017cmak ameryka\u0144ski",
+        "latinName": "ondatra zibethicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "cricetidae",
+            "subfamily": "arvicolinae",
+            "tribe": "ondatrini",
+            "genus": "ondatra"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Muskrat_swimming_Ottawa.jpg/800px-Muskrat_swimming_Ottawa.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Forest dormouse",
+        "polishName": "Koszatka le\u015bna",
+        "latinName": "dryomys nitedula",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "gliridae",
+            "genus": "dryomys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/45/Dryomys_nitedula.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Garden dormouse",
+        "polishName": "\u017bo\u0142\u0119dnica europejska",
+        "latinName": "eliomys quercinus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "gliridae",
+            "genus": "eliomys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eliomys_quercinus01.jpg/800px-Eliomys_quercinus01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Edible dormouse",
+        "polishName": "Popielica szara",
+        "latinName": "glis glis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "gliridae",
+            "subfamily": "glirinae",
+            "genus": "glis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Edible_dormouse_-_Relmuis_-_Glis_glis.jpg/400px-Edible_dormouse_-_Relmuis_-_Glis_glis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Hazel dormouse",
+        "polishName": "Orzesznica leszczynowa",
+        "latinName": "muscardinus avellanarius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "gliridae",
+            "subfamily": "leithiinae",
+            "genus": "muscardinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Haselmaus.jpg/800px-Haselmaus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Striped field mouse",
+        "polishName": "Myszarka polna",
+        "latinName": "apodemus agrarius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "apodemus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mysz_polna2.jpg/800px-Mysz_polna2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Yellow-necked mouse",
+        "polishName": "Myszarka le\u015bna",
+        "latinName": "apodemus flavicollis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "apodemus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/06/Apodemus.flavicollis.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Ural field mouse",
+        "polishName": "Myszarka zielna",
+        "latinName": "apodemus uralensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "apodemus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/62/Apodemus_uralensis_3.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Wood mouse",
+        "polishName": "Myszarka zaro\u015blowa",
+        "latinName": "apodemus sylvaticus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "apodemus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/ApodemusSylvaticus.jpg/800px-ApodemusSylvaticus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian harvest mouse",
+        "polishName": "Badylarka pospolita",
+        "latinName": "micromys minutus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "micromys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Micromysminutus1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "House mouse",
+        "polishName": "Mysz domowa",
+        "latinName": "mus musculus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "mus",
+            "subgenus": "mus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mouse_white_background.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Black rat",
+        "polishName": "Szczur \u015bniady",
+        "latinName": "rattus rattus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "rattus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Roofrat_Hagenbeck_02.jpg/800px-Roofrat_Hagenbeck_02.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Brown rat",
+        "polishName": "Szczur w\u0119drowny",
+        "latinName": "rattus norvegicus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "muridae",
+            "genus": "rattus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Rattus_norvegicus_-_Brown_rat_02.jpg/800px-Rattus_norvegicus_-_Brown_rat_02.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European rabbit",
+        "polishName": "Kr\u00f3lik europejski",
+        "latinName": "oryctolagus cuniculus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "lagomorpha",
+            "family": "leporidae",
+            "genus": "oryctolagus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oryctolagus_cuniculus_Tasmania_2_%28cropped%29.jpg/470px-Oryctolagus_cuniculus_Tasmania_2_%28cropped%29.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Laut%C3%A4u%C3%9Ferung_Kaninchen.flac/Laut%C3%A4u%C3%9Ferung_Kaninchen.flac.ogg"
+    },
+    {
+        "englishName": "Mountain hare",
+        "polishName": "Zaj\u0105c bielak",
+        "latinName": "lepus timidus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "lagomorpha",
+            "family": "leporidae",
+            "genus": "lepus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mountain_hare_%28Lepus_timidus%29_Oppdal.jpg/800px-Mountain_hare_%28Lepus_timidus%29_Oppdal.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European hare",
+        "polishName": "Zaj\u0105c szarak",
+        "latinName": "lepus europaeus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "lagomorpha",
+            "family": "leporidae",
+            "genus": "lepus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lepus_europaeus_%28Causse_M%C3%A9jean%2C_Loz%C3%A8re%29-cropped.jpg/450px-Lepus_europaeus_%28Causse_M%C3%A9jean%2C_Loz%C3%A8re%29-cropped.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Wolf",
+        "polishName": "Wilk szary",
+        "latinName": "canis lupus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "canidae",
+            "genus": "canis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/774px-Eurasian_wolf_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Golden jackal",
+        "polishName": "Szakal z\u0142ocisty",
+        "latinName": "canis aureus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "canidae",
+            "genus": "canis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Canis_aureus_syriacus_114837596.jpg/619px-Canis_aureus_syriacus_114837596.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1a/Jackal.ogg/Jackal.ogg.mp3"
+    },
+    {
+        "englishName": "Common raccoon dog",
+        "polishName": "Jenot azjatycki",
+        "latinName": "nyctereutes procyonoides",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "canidae",
+            "genus": "nyctereutes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%28Nyctereutes_procyonoides%29.jpg/800px-%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%28Nyctereutes_procyonoides%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red fox",
+        "polishName": "Lis rudy",
+        "latinName": "vulpes vulpes",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "canidae",
+            "genus": "vulpes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulpes_vulpes_ssp_fulvus.jpg/799px-Vulpes_vulpes_ssp_fulvus.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Brown bear",
+        "polishName": "Nied\u017awied\u017a brunatny",
+        "latinName": "ursus arctos",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "ursidae",
+            "genus": "ursus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/800px-2010-kodiak-bear-1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian otter",
+        "polishName": "Wydra europejska",
+        "latinName": "lutra lutra",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "subfamily": "lutrinae",
+            "genus": "lutra"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fischotter%2C_Lutra_Lutra.JPG/800px-Fischotter%2C_Lutra_Lutra.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Beech marten",
+        "polishName": "Kuna domowa",
+        "latinName": "martes foina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "martes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Steinmarder_%28cropped%29.jpg/379px-Steinmarder_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European pine marten",
+        "polishName": "Kuna le\u015bna",
+        "latinName": "martes martes",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "martes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pine_Marten_%2848173751702%29.jpg/800px-Pine_Marten_%2848173751702%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sable",
+        "polishName": "Sob\u00f3l tajgowy",
+        "latinName": "martes zibellina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "martes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sobol_bur.jpg/738px-Sobol_bur.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European badger",
+        "polishName": "Borsuk europejski",
+        "latinName": "meles meles",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "meles"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg/800px-M%C3%A4yr%C3%A4_%C3%84ht%C3%A4ri_4.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Least weasel",
+        "polishName": "\u0141asica pospolita",
+        "latinName": "mustela nivalis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "mustela"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustela_nivalis_-British_Wildlife_Centre-4.jpg/702px-Mustela_nivalis_-British_Wildlife_Centre-4.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Stoat",
+        "polishName": "Gronostaj europejski",
+        "latinName": "mustela erminea",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "mustela"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/R%C3%B8yskatt_%28Mustela_erminea_erminea%29%2C_Lista%2C_Norway.jpg/800px-R%C3%B8yskatt_%28Mustela_erminea_erminea%29%2C_Lista%2C_Norway.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European mink",
+        "polishName": "Norka europejska",
+        "latinName": "mustela lutreola",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "mustela"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Europ%C3%A4ischer_Nerz.jpg/618px-Europ%C3%A4ischer_Nerz.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European polecat",
+        "polishName": "Tch\u00f3rz zwyczajny",
+        "latinName": "mustela putorius",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "mustela",
+            "subgenus": "putorius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Storm_the_polecat.jpg/384px-Storm_the_polecat.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Steppe polecat",
+        "polishName": "Tch\u00f3rz stepowy",
+        "latinName": "mustela eversmanii",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "mustela",
+            "subgenus": "putorius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wild_steppe_polecat_%28cropped%29.jpg/800px-Wild_steppe_polecat_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "American mink",
+        "polishName": "Wizon ameryka\u0144ski",
+        "latinName": "neogale vison",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "neogale"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MinkforWiki.jpg/799px-MinkforWiki.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Raccoon",
+        "polishName": "Szop pracz",
+        "latinName": "procyon lotor",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "procyonidae",
+            "genus": "procyon"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg/766px-Raccoon_in_Central_Park_%2835264%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eurasian lynx",
+        "polishName": "Ry\u015b euroazjatycki",
+        "latinName": "lynx lynx",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "felinae",
+            "genus": "lynx"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/800px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European wildcat",
+        "polishName": "\u017bbik europejski",
+        "latinName": "felis silvestris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "felinae",
+            "genus": "felis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Felis_silvestris_silvestris_Luc_Viatour.jpg/399px-Felis_silvestris_silvestris_Luc_Viatour.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Grey seal",
+        "polishName": "Szarytka morska",
+        "latinName": "halichoerus grypus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "clade": "pinnipedia",
+            "family": "phocidae",
+            "genus": "halichoerus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Donna_Nook_NNR_-_Grey_Seal_pupping_and_breeding_season_-_38804871202.jpg/800px-Donna_Nook_NNR_-_Grey_Seal_pupping_and_breeding_season_-_38804871202.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Ringed seal",
+        "polishName": "Nerpa obr\u0105czkowana",
+        "latinName": "pusa hispida",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "clade": "pinnipedia",
+            "family": "phocidae",
+            "genus": "pusa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/33/Pusa_hispida_hispida_NOAA_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Harbor seal",
+        "polishName": "Foka pospolita",
+        "latinName": "phoca vitulina",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "clade": "pinnipedia",
+            "family": "phocidae",
+            "genus": "phoca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Common_seal_%28Phoca_vitulina%29_2.jpg/800px-Common_seal_%28Phoca_vitulina%29_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Walrus",
+        "polishName": "Mors arktyczny",
+        "latinName": "odobenus rosmarus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "clade": "pinnipedia",
+            "family": "odobenidae",
+            "genus": "odobenus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pacific_Walrus_-_Bull_%288247646168%29.jpg/800px-Pacific_Walrus_-_Bull_%288247646168%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European bison",
+        "polishName": "\u017bubr europejski",
+        "latinName": "bison bonasus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "bovidae",
+            "subfamily": "bovinae",
+            "genus": "bison"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/800px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Aurochs",
+        "polishName": "Tur le\u015bny",
+        "latinName": "\u2020",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "bovidae",
+            "subfamily": "bovinae",
+            "genus": "bos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Copenhagen_Aurochse.jpg/463px-Copenhagen_Aurochse.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Wild boar",
+        "polishName": "Dzik euroazjatycki",
+        "latinName": "sus scrofa",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "suidae",
+            "genus": "sus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/800px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Moose",
+        "polishName": "\u0141o\u015b euroazjatycki",
+        "latinName": "alces alces",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "subfamily": "capreolinae",
+            "tribe": "alceini",
+            "genus": "alces"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alaska_moose.jpg/800px-Alaska_moose.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Roe deer",
+        "polishName": "Sarna europejska",
+        "latinName": "capreolus capreolus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "subfamily": "capreolinae",
+            "genus": "capreolus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor.jpg/800px-Roe_deer_%28Capreolus_capreolus%29_young_male_Cumnor.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Siberian roe deer",
+        "polishName": "Sarna syberyjska",
+        "latinName": "capreolus pygargus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "subfamily": "capreolinae",
+            "genus": "capreolus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Siberian_roe_deer.jpg/539px-Siberian_roe_deer.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red deer",
+        "polishName": "Jele\u0144 szlachetny",
+        "latinName": "cervus elaphus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "genus": "cervus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cervus_elaphus_Luc_Viatour_6.jpg/800px-Cervus_elaphus_Luc_Viatour_6.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9b/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg/Red_Deer_%28Cervus_elaphus%29_%28W1CDR0001424_BD3%29.ogg.mp3"
+    },
+    {
+        "englishName": "Sika deer",
+        "polishName": "Jele\u0144 wschodni",
+        "latinName": "cervus nippon",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "genus": "cervus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cervus_nippon_002.jpg/800px-Cervus_nippon_002.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7b/Sika_Deer_%28Cervus_nippon%29_%28W1CDR0001426_BD2%29.ogg/Sika_Deer_%28Cervus_nippon%29_%28W1CDR0001426_BD2%29.ogg.mp3"
+    },
+    {
+        "englishName": "Elk",
+        "polishName": "Jele\u0144 kanadyjski",
+        "latinName": "cervus canadensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "genus": "cervus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg/641px-Jasper.Wapiti-Hirsch.P1033401.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "European fallow deer",
+        "polishName": "Daniel zwyczajny",
+        "latinName": "dama dama",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "tribe": "cervini",
+            "genus": "dama"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/800px-Fallow_deer_in_field.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Fallow_Deer_%28Dama_dama%29_%28W1CDR0001444_BD17%29.ogg/Fallow_Deer_%28Dama_dama%29_%28W1CDR0001444_BD17%29.ogg.mp3"
+    },
+    {
+        "englishName": "Sowerby's beaked whale",
+        "polishName": "Dziobowal dwuz\u0119bny",
+        "latinName": "mesoplodon bidens",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "ziphiidae",
+            "genus": "mesoplodon"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mesoplodon_bidens_2.jpg/800px-Mesoplodon_bidens_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern bottlenose whale",
+        "polishName": "Butlog\u0142\u00f3w p\u00f3\u0142nocny",
+        "latinName": "hyperoodon ampullatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "ziphiidae",
+            "genus": "hyperoodon"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hyperoodon_ampullatus_2.jpg/800px-Hyperoodon_ampullatus_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common dolphin",
+        "polishName": "Delfin zwyczajny",
+        "latinName": "delphinus delphis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "delphinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Common_dolphin_noaa.jpg/800px-Common_dolphin_noaa.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "White-beaked dolphin",
+        "polishName": "Delfinowiec bia\u0142onosy",
+        "latinName": "lagenorhynchus albirostris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "lagenorhynchus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Witsnuitdolfijn_-_Lagenorhynchus_albirostris.jpg/800px-Witsnuitdolfijn_-_Lagenorhynchus_albirostris.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common bottlenose dolphin",
+        "polishName": "Butlonos zwyczajny",
+        "latinName": "tursiops truncatus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "tursiops"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tursiops_truncatus_01-cropped.jpg/800px-Tursiops_truncatus_01-cropped.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Harbour porpoise",
+        "polishName": "Mor\u015bwin zwyczajny",
+        "latinName": "phocoena phocoena",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "phocoenidae",
+            "genus": "phocoena"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg/800px-Ecomare_-_bruinvis_Michael_in_2015_%28bruinvis-michael2015-9313-sw%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Beluga whale",
+        "polishName": "Bia\u0142ucha arktyczna",
+        "latinName": "delphinapterus leucas",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "monodontidae",
+            "genus": "delphinapterus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oceanogr%C3%A0fic_29102004.jpg/800px-Oceanogr%C3%A0fic_29102004.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Humpback whale",
+        "polishName": "D\u0142ugop\u0142etwiec oceaniczny",
+        "latinName": "megaptera novaeangliae",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "balaenopteridae",
+            "genus": "megaptera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Humpback_Whale_underwater_shot.jpg/800px-Humpback_Whale_underwater_shot.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Fin whale",
+        "polishName": "P\u0142etwal zwyczajny",
+        "latinName": "balaenoptera physalus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "balaenopteridae",
+            "genus": "balaenoptera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Finhval_%281%29.jpg/799px-Finhval_%281%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sei whale",
+        "polishName": "P\u0142etwal czerniakowy",
+        "latinName": "balaenoptera borealis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "balaenopteridae",
+            "genus": "balaenoptera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg/800px-Sei_whale_mother_and_calf_Christin_Khan_NOAA.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "North Atlantic right whale",
+        "polishName": "Wale\u0144 biskajski",
+        "latinName": "eubalaena glacialis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "balaenidae",
+            "genus": "eubalaena"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GRNMS_-_Right_Whales_%2831361234602%29.jpg/564px-GRNMS_-_Right_Whales_%2831361234602%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red-necked wallaby",
+        "polishName": "Kangur rdzawoszyi",
+        "latinName": "notamacropus rufogriseus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "infraclass": "marsupialia",
+            "order": "diprotodontia",
+            "family": "macropodidae",
+            "genus": "notamacropus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Macropus_rufogriseus_rufogriseus_Bruny.jpg/400px-Macropus_rufogriseus_rufogriseus_Bruny.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Eastern gray squirrel",
+        "polishName": "Wiewi\u00f3rka szara",
+        "latinName": "sciurus carolinensis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "sciuridae",
+            "genus": "sciurus",
+            "subgenus": "sciurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EasternGraySquirrel_GAm.jpg/600px-EasternGraySquirrel_GAm.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/Grey_Squirrel_%28Sciurus_carolinensis%29_%28W1CDR0001470_BD12%29.ogg/Grey_Squirrel_%28Sciurus_carolinensis%29_%28W1CDR0001470_BD12%29.ogg.mp3"
+    },
+    {
+        "englishName": "Water deer",
+        "polishName": "Jelonkowiec b\u0142otny",
+        "latinName": "hydropotes inermis",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "subfamily": "capreolinae",
+            "tribe": "capreolini",
+            "genus": "hydropotes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hydropotes_inermis_male.JPG/775px-Hydropotes_inermis_male.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Reeves's muntjac",
+        "polishName": "Mund\u017cak chi\u0144ski",
+        "latinName": "muntiacus reevesi",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "genus": "muntiacus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chinesischer_Muntjak_Muntiacus_reevesi_Zoo_Augsburg-04.jpg/800px-Chinesischer_Muntjak_Muntiacus_reevesi_Zoo_Augsburg-04.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common minke whale",
+        "polishName": "P\u0142etwal kar\u0142owaty",
+        "latinName": "balaenoptera acutorostrata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "balaenopteridae",
+            "genus": "balaenoptera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Dwarf_minke_whale_%2830694501214%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Blue whale",
+        "polishName": "P\u0142etwal b\u0142\u0119kitny",
+        "latinName": "balaenoptera musculus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "balaenopteridae",
+            "genus": "balaenoptera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/800px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sperm whale",
+        "polishName": "Kaszalot spermacetowy",
+        "latinName": "physeter macrocephalus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "physeteridae",
+            "genus": "physeter"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mother_and_baby_sperm_whale.jpg/800px-Mother_and_baby_sperm_whale.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Pygmy sperm whale",
+        "polishName": "Kogia kr\u00f3tkog\u0142owa",
+        "latinName": "kogia breviceps",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "kogiidae",
+            "genus": "kogia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pygmy_sperm_whale.jpg/800px-Pygmy_sperm_whale.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Cuvier's beaked whale",
+        "polishName": "Zyfia g\u0119siog\u0142owa",
+        "latinName": "ziphius cavirostris",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "ziphiidae",
+            "genus": "ziphius"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ziphius_carvirostris.jpg/800px-Ziphius_carvirostris.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Gervais's beaked whale",
+        "polishName": "Dziobowal europejski",
+        "latinName": "mesoplodon europaeus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "ziphiidae",
+            "genus": "mesoplodon"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mesoplodon_europaeus_2.jpg/799px-Mesoplodon_europaeus_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Atlantic white-sided dolphin",
+        "polishName": "Delfinowiec bia\u0142oboki",
+        "latinName": "lagenorhynchus acutus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "lagenorhynchus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Atlantic_white-sided_dolphin.jpg/800px-Atlantic_white-sided_dolphin.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "False killer whale",
+        "polishName": "Szablogrzbiet walenio\u017cerny",
+        "latinName": "pseudorca crassidens",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "pseudorca"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Adult_false_killer_whale_off_Guam_photographed_prior_to_deployment_of_satellite_tag_ID-_128887_%28anim252541873%29.jpg/800px-Adult_false_killer_whale_off_Guam_photographed_prior_to_deployment_of_satellite_tag_ID-_128887_%28anim252541873%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Striped dolphin",
+        "polishName": "Delfinek pr\u0119goboki",
+        "latinName": "stenella coeruleoalba",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "stenella"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Stenella_coeruleoalba_Ligurian_Sea_02_-_brighter.jpg/800px-Stenella_coeruleoalba_Ligurian_Sea_02_-_brighter.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Risso's dolphin",
+        "polishName": "Risso szary",
+        "latinName": "grampus griseus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "grampus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/93/Grampo.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Orca",
+        "polishName": "Orka oceaniczna",
+        "latinName": "orcinus orca",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "infraorder": "cetacea",
+            "family": "delphinidae",
+            "genus": "orcinus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Killerwhales_jumping.jpg/800px-Killerwhales_jumping.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Wolverine",
+        "polishName": "Rosomak tundrowy",
+        "latinName": "gulo gulo",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "mustelidae",
+            "genus": "gulo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gulo_gulo_2.jpg/800px-Gulo_gulo_2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Reindeer",
+        "polishName": "Renifer tundrowy",
+        "latinName": "rangifer tarandus",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "cervidae",
+            "subfamily": "capreolinae",
+            "tribe": "odocoileini",
+            "genus": "rangifer"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg/800px-Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Chimpanzee",
+        "polishName": "Szympans zwyczajny",
+        "latinName": "pan troglodytes",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "primates",
+            "suborder": "haplorhini",
+            "infraorder": "simiiformes",
+            "family": "hominidae",
+            "subfamily": "homininae",
+            "tribe": "hominini",
+            "genus": "pan"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/400px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "African bush elephant",
+        "polishName": "S\u0142o\u0144 afryka\u0144ski",
+        "latinName": "loxodonta africana",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "proboscidea",
+            "family": "elephantidae",
+            "genus": "loxodonta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/An_elephant_in_Kruger_National_Park.jpg/800px-An_elephant_in_Kruger_National_Park.jpg",
+        "audioSrc": null
+    }
 ]
