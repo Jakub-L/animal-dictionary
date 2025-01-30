@@ -14,6 +14,17 @@
 	import { animals } from '$lib/data/data.svelte';
 </script>
 
+{#snippet wikiLink(lang: string, text: string, latinName: string)}
+	<a
+		class="text-gray-700 underline hover:scale-105 active:scale-95"
+		href={`https://${lang}.wikipedia.org/wiki/${latinName}`}
+		target="_blank"
+		rel="noopener"
+	>
+		{text}
+	</a>
+{/snippet}
+
 <div class="flex flex-col gap-4 p-4">
 	{#each animals as animal}
 		<div class="flex flex-col gap-2 rounded-3xl bg-gray-50 p-4">
@@ -21,12 +32,12 @@
 			<h2 class="grid grid-cols-2 items-center text-sm">
 				<div class="relative flex h-full items-center pr-2 pl-7">
 					<IconGb class="absolute left-0 h-5 w-5" />
-					<span>{animal.englishName}</span>
+					{@render wikiLink('en', animal.englishName, animal.latinName)}
 				</div>
 				<div
 					class="relative flex h-full items-center justify-end border-l border-gray-700/50 pr-7 pl-2 text-right"
 				>
-					<span>{animal.polishName}</span>
+					{@render wikiLink('pl', animal.polishName, animal.latinName)}
 					<IconPl class="absolute right-0 h-5 w-5" />
 				</div>
 			</h2>

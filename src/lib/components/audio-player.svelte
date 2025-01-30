@@ -37,5 +37,5 @@
 			<IconPlay class="h-5 w-5" />
 		{/if}
 	</button>
-	<audio bind:this={audioPlayer} {src} {ontimeupdate}></audio>
+	<audio bind:this={audioPlayer} {src}></audio>
 </div>
