@@ -7,6 +7,7 @@
 	import IconCaretUp from '~icons/ion/caret-up';
 
 	import Taxonomy from '$lib/components/taxonomy.svelte';
+	import AudioPlayer from '$lib/components/audio-player.svelte';
 	import { Collapsible } from 'bits-ui';
 	import { slide } from 'svelte/transition';
 
@@ -31,6 +32,9 @@
 			</h2>
 			<Collapsible.Root>
 				<div class="relative flex h-12 items-start justify-center">
+					{#if animal.audioSrc}
+						<AudioPlayer src={animal.audioSrc} />
+					{/if}
 					<span class="mx-14 w-full text-center text-xs uppercase italic">{animal.latinName}</span>
 					<Collapsible.Trigger
 						class="group absolute right-0 flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-700/40 p-0.5 text-gray-700 hover:bg-gray-700/30 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-700/60 md:min-h-8 md:min-w-8 print:hidden"
