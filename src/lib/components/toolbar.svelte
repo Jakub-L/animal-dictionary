@@ -2,7 +2,6 @@
 	import IconSearch from '~icons/ion/search';
 
 	import { animals, filteredAnimals } from '$lib/data/data.svelte';
-	import { throttle } from '$lib/utils';
 
 	// State
 	let filterQuery = $state('');
