@@ -11,7 +11,7 @@
 	import { Collapsible } from 'bits-ui';
 	import { slide } from 'svelte/transition';
 
-	import { animals } from '$lib/data/data.svelte';
+	import { filteredAnimals } from '$lib/data/data.svelte';
 	import Toolbar from '$lib/components/toolbar.svelte';
 </script>
 
@@ -26,10 +26,10 @@
 	</a>
 {/snippet}
 
-<div class="h-full flex flex-col">
+<div class="flex h-full flex-col">
 	<Toolbar />
-	<div class="flex flex-col gap-4 p-4 h-full overflow-y-auto">
-		{#each animals as animal}
+	<div class="flex h-full flex-col gap-4 overflow-y-auto px-2 py-2">
+		{#each filteredAnimals.value as animal}
 			<div class="flex flex-col gap-2 rounded-3xl bg-gray-50 p-4">
 				<img src={animal.imageSrc} alt={animal.latinName} class="rounded-2xl" />
 				<h2 class="grid grid-cols-2 items-center text-sm">

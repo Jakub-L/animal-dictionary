@@ -33,3 +33,4 @@ export const taxonomicRanks: Record<string, string> = {
 };
 
 export const animals: Animal[] = $state([...birds, ...mammals, ...reptiles]);
+export const filteredAnimals: { value: Animal[] } = $state({ value: animals });
