@@ -1569,23 +1569,6 @@
         "audioSrc": null
     },
     {
-        "englishName": "Aurochs",
-        "polishName": "Tur le\u015bny",
-        "latinName": "\u2020",
-        "classification": {
-            "domain": "eukaryota",
-            "kingdom": "animalia",
-            "phylum": "chordata",
-            "class": "mammalia",
-            "order": "artiodactyla",
-            "family": "bovidae",
-            "subfamily": "bovinae",
-            "genus": "bos"
-        },
-        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Copenhagen_Aurochse.jpg/463px-Copenhagen_Aurochse.jpg",
-        "audioSrc": null
-    },
-    {
         "englishName": "Wild boar",
         "polishName": "Dzik euroazjatycki",
         "latinName": "sus scrofa",
