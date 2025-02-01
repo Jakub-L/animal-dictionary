@@ -48,7 +48,7 @@ const shuffleArray = <T>(arr: T[]): void => {
  * @returns {Animal[]} The sorted array
  */
 const sortAnimals = (arr: Animal[], ordering: string): Animal[] => {
-	const newArr = structuredClone(arr);
+	const newArr = [...arr];
 	if (ordering === 'en') {
 		newArr.sort((a, b) =>
 			getWordAt(a.englishName, -1).localeCompare(getWordAt(b.englishName, -1), 'en')
