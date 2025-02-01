@@ -11,45 +11,20 @@
 	import { animals, filteredAnimals } from '$lib/data/data.svelte';
 	import { slide } from 'svelte/transition';
 
+	import { sortAnimals } from '$lib/utils';
+
 	// State
 	let filterQuery = $state('');
 	let menuOpen = $state(false);
 	let ordering = $state('en');
 
 	// Utils
-	const stripString = (s: string) => s.toLowerCase().replace(/[^a-ząęóćńśźżł ]/g, '');
-
-	const getSubstringAt = (s: string, i: number) => {
-		return stripString(s).split(' ').at(i) ?? '';
-	};
-
-	function shuffleArray(arr: any[]) {
-		for (let i = arr.length - 1; i >= 1; i--) {
-			const j = Math.floor(Math.random() * (i + 1));
-			[arr[i], arr[j]] = [arr[j], arr[i]];
-		}
-	}
-
 	const filterAnimals = () => {
 		filteredAnimals.value = animals.filter((animal) =>
 			[animal.englishName, animal.latinName, animal.polishName]
 				.map((s) => s.toLowerCase())
 				.some((s) => s.includes(filterQuery))
 		);
-	};
-
-	const sortAnimals = () => {
-		if (ordering === 'en') {
-			filteredAnimals.value.sort((a, b) =>
-				getSubstringAt(a.englishName, -1).localeCompare(getSubstringAt(b.englishName, -1), 'en')
-			);
-		} else if (ordering === 'pl') {
-			filteredAnimals.value.sort((a, b) =>
-				getSubstringAt(a.polishName, 0).localeCompare(getSubstringAt(b.polishName, 0), 'pl')
-			);
-		} else {
-			shuffleArray(filteredAnimals.value);
-		}
 	};
 
 	// Handlers
@@ -61,13 +36,12 @@
 	const handleMenuClose = () => {
 		if (!menuOpen) menuOpen = true;
 		else {
-			sortAnimals();
+			filteredAnimals.value = sortAnimals(filteredAnimals.value, ordering);
 			menuOpen = false;
 		}
 	};
 
 	const handleSortChange = (value: string | undefined) => {
-		console.log(value);
 		if (!value) return;
 		ordering = value;
 		handleMenuClose();
@@ -101,14 +75,20 @@
 					class="col-span-2 grid h-12 grow grid-cols-2"
 				>
 					<DropdownMenu.RadioItem
-						class="flex items-center justify-center gap-2 rounded-l-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+						class={[
+							'flex items-center justify-center gap-2 rounded-l-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 saturate-0 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
+							ordering === 'en' && 'bg-gray-400 saturate-100'
+						]}
 						value="en"
 					>
 						<IconGb class="h-5 w-5" />
 						English
 					</DropdownMenu.RadioItem>
 					<DropdownMenu.RadioItem
-						class="flex items-center justify-center gap-2 border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+						class={[
+							'flex items-center justify-center gap-2 border border-gray-400 bg-gray-50 p-0.5 text-gray-700 saturate-0 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
+							ordering === 'pl' && 'bg-gray-400 saturate-100'
+						]}
 						value="pl"
 					>
 						<IconPl class="h-5 w-5" />
@@ -117,7 +97,7 @@
 				</DropdownMenu.RadioGroup>
 				<button
 					onclick={() => handleSortChange('rand')}
-					class="flex h-12 items-center justify-center gap-2 rounded-r-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+					class="flex items-center justify-center gap-2 rounded-r-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 				>
 					<IconShuffle class="h-5 w-5" />
 					Shuffle
