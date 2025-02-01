@@ -21,12 +21,13 @@
 	};
 </script>
 
-<div class="h-14 p-2">
+<div class="my-4 h-10 px-2">
 	<div class="relative flex h-full items-center">
 		<input
-			class="h-full w-full rounded-full bg-gray-50 py-1 pl-8 text-lg"
+			class="h-full w-full rounded-full bg-gray-50 py-1 pl-8 text-lg placeholder:text-sm"
 			value={filterQuery}
 			oninput={handleFilterQuery}
+			placeholder="Search by Polish, English or Latin name..."
 		/>
 		<IconSearch class="absolute left-2 h-5 w-5 opacity-60" />
 	</div>

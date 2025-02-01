@@ -29,7 +29,7 @@
 
 <div class="flex h-full flex-col">
 	<Toolbar />
-	<div class="flex h-full flex-col gap-4 overflow-y-auto px-2 py-2">
+	<div class="flex h-full flex-col gap-4 overflow-y-auto px-2">
 		{#if filteredAnimals.value.length === 0}
 			<div
 				class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-50 p-12 text-center"
