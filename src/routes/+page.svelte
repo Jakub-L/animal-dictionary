@@ -29,7 +29,7 @@
 
 <div class="flex h-full flex-col">
 	<Toolbar />
-	<div class="flex h-full flex-col gap-4 overflow-y-auto px-2">
+	<div class="flex h-full flex-col gap-4 overflow-y-auto px-2 items-center">
 		{#if filteredAnimals.value.length === 0}
 			<div
 				class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-50 p-12 text-center"
@@ -40,7 +40,7 @@
 			</div>
 		{/if}
 		{#each filteredAnimals.value as animal}
-			<div class="flex flex-col gap-2 rounded-3xl bg-gray-50 p-4">
+			<div class="flex max-w-lg w-full flex-col gap-2 rounded-3xl bg-gray-50 p-4">
 				<img src={animal.imageSrc} alt={animal.latinName} class="rounded-2xl" />
 				<h2 class="grid grid-cols-2 items-center text-sm">
 					<div class="relative flex h-full items-center pr-2 pl-7">
@@ -62,7 +62,7 @@
 						<span class="mx-14 w-full text-center text-xs uppercase italic">{animal.latinName}</span
 						>
 						<Collapsible.Trigger
-							class="group absolute right-0 flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 md:min-h-8 md:min-w-8 print:hidden"
+							class="group absolute right-0 flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 print:hidden"
 						>
 							<IconCaretDown class="h-5 w-5 group-data-[state=open]:hidden" />
 							<IconCaretUp class="h-5 w-5 group-data-[state=closed]:hidden" />
