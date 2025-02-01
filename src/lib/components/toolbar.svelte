@@ -93,30 +93,31 @@
 			<IconMenu class={['h-8 w-8', menuOpen && 'hidden']} />
 		</DropdownMenu.Trigger>
 		<DropdownMenu.Content class="mt-4 -ml-2 flex w-dvw bg-gray-50 p-4" transition={slide}>
-			<div class="grid h-12 w-full grid-cols-3">
+			<div class="grid w-full grid-cols-3">
+				<span class="col-span-3 text-xs">Order</span>
 				<DropdownMenu.RadioGroup
 					onValueChange={handleSortChange}
 					value={ordering}
-					class="col-span-2 grid grow grid-cols-2"
+					class="col-span-2 grid h-12 grow grid-cols-2"
 				>
 					<DropdownMenu.RadioItem
 						class="flex items-center justify-center gap-2 rounded-l-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 						value="en"
 					>
 						<IconGb class="h-5 w-5" />
-						EN
+						English
 					</DropdownMenu.RadioItem>
 					<DropdownMenu.RadioItem
 						class="flex items-center justify-center gap-2 border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 						value="pl"
 					>
 						<IconPl class="h-5 w-5" />
-						PL
+						Polish
 					</DropdownMenu.RadioItem>
 				</DropdownMenu.RadioGroup>
 				<button
 					onclick={() => handleSortChange('rand')}
-					class="flex items-center justify-center gap-2 rounded-r-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+					class="flex h-12 items-center justify-center gap-2 rounded-r-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 				>
 					<IconShuffle class="h-5 w-5" />
 					Shuffle
