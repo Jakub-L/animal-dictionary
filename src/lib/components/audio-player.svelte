@@ -27,7 +27,7 @@
 
 <div>
 	<button
-		class="absolute flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-700/40 p-0.5 text-gray-700 hover:bg-gray-700/30 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-700/60 md:min-h-8 md:min-w-8 print:hidden"
+		class="absolute flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 md:min-h-8 md:min-w-8 print:hidden"
 		aria-label={isPlaying ? 'Stop audio' : 'Play audio'}
 		onclick={toggleAudio}
 	>
