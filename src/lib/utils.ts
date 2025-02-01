@@ -30,13 +30,11 @@ const getWordAt = (str: string, idx: number): string => {
  * @param {T[]} arr - Array to be shuffled.
  * @returns {T[]} - Shuffled array.
  */
-const shuffleArray = <T>(arr: T[]): T[] => {
-	const newArr = [...arr];
-	for (let i = newArr.length - 1; i >= 1; i--) {
+const shuffleArray = <T>(arr: T[]): void => {
+	for (let i = arr.length - 1; i >= 1; i--) {
 		const j = Math.floor(Math.random() * (i + 1));
-		[newArr[i], newArr[j]] = [newArr[j], newArr[i]];
+		[arr[i], arr[j]] = [arr[j], arr[i]];
 	}
-	return newArr;
 };
 
 /**
@@ -50,16 +48,18 @@ const shuffleArray = <T>(arr: T[]): T[] => {
  * @returns {Animal[]} The sorted array
  */
 const sortAnimals = (arr: Animal[], ordering: string): Animal[] => {
+	const newArr = structuredClone(arr);
 	if (ordering === 'en') {
-		return arr.toSorted((a, b) =>
+		newArr.sort((a, b) =>
 			getWordAt(a.englishName, -1).localeCompare(getWordAt(b.englishName, -1), 'en')
 		);
 	} else if (ordering === 'pl') {
-		return arr.toSorted((a, b) =>
+		newArr.sort((a, b) =>
 			getWordAt(a.polishName, 0).localeCompare(getWordAt(b.polishName, 0), 'pl')
 		);
 	}
-	return shuffleArray(arr);
+	shuffleArray(newArr);
+	return newArr;
 };
 
 export { sortAnimals };
