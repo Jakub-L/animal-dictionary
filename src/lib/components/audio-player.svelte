@@ -27,7 +27,7 @@
 
 <div>
 	<button
-		class="absolute flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 md:min-h-8 md:min-w-8 print:hidden"
+		class="absolute flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 		aria-label={isPlaying ? 'Stop audio' : 'Play audio'}
 		onclick={toggleAudio}
 	>
@@ -37,5 +37,5 @@
 			<IconPlay class="h-5 w-5" />
 		{/if}
 	</button>
-	<audio bind:this={audioPlayer} {src}></audio>
+	<audio bind:this={audioPlayer} {src} onended={() => (isPlaying = false)}></audio>
 </div>
