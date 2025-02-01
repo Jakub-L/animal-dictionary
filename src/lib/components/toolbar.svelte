@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { DropdownMenu } from 'bits-ui';
+
 	import IconSearch from '~icons/ion/search';
 	import IconMenu from '~icons/ion/menu';
 
@@ -32,9 +34,12 @@
 		/>
 		<IconSearch class="absolute left-2 h-5 w-5 opacity-60" />
 	</div>
-	<button
-		class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 md:min-h-8 md:min-w-8 print:hidden"
-	>
-		<IconMenu class="z-10 h-8 w-8" />
-	</button>
+	<DropdownMenu.Root>
+		<DropdownMenu.Trigger
+			class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 md:min-h-8 md:min-w-8 print:hidden"
+		>
+			<IconMenu class="z-10 h-8 w-8" />
+		</DropdownMenu.Trigger>
+		<DropdownMenu.Content class="w-full bg-gray-50">Hello</DropdownMenu.Content>
+	</DropdownMenu.Root>
 </div>
