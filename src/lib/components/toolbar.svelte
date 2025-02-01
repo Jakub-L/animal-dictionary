@@ -25,7 +25,7 @@
 <div class="my-4 flex h-12 justify-between gap-2 px-2">
 	<div class="relative flex h-full grow items-center">
 		<input
-			class="h-full w-full rounded-full bg-gray-50 py-1 pl-8 text-lg placeholder:text-sm"
+			class="h-full w-full rounded-full bg-gray-50 py-1 pl-8 text-lg placeholder:text-sm focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400"
 			value={filterQuery}
 			oninput={handleFilterQuery}
 			placeholder="Search by Polish, English or Latin name..."

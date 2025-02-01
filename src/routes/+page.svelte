@@ -18,7 +18,7 @@
 
 {#snippet wikiLink(lang: string, text: string, latinName: string)}
 	<a
-		class="text-gray-700 underline hover:scale-105 active:scale-95"
+		class="text-gray-700 underline hover:scale-105 focus-visible:rounded-full focus-visible:outline-4 focus-visible:outline-offset-3 focus-visible:outline-gray-400 active:scale-95"
 		href={`https://${lang}.wikipedia.org/wiki/${latinName}`}
 		target="_blank"
 		rel="noopener"
