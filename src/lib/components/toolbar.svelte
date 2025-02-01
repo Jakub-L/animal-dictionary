@@ -4,6 +4,9 @@
 	import IconSearch from '~icons/ion/search';
 	import IconMenu from '~icons/ion/menu';
 	import IconClose from '~icons/ion/close';
+	import IconShuffle from '~icons/ion/shuffle';
+	import IconPl from '~icons/circle-flags/pl';
+	import IconGb from '~icons/circle-flags/gb';
 
 	import { animals, filteredAnimals } from '$lib/data/data.svelte';
 	import { slide } from 'svelte/transition';
@@ -83,31 +86,41 @@
 	</div>
 	<DropdownMenu.Root closeOnItemClick={false} open={menuOpen}>
 		<DropdownMenu.Trigger
-			class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 md:min-h-8 md:min-w-8 print:hidden"
+			class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 			onclick={handleMenuClose}
 		>
 			<IconClose class={['h-8 w-8', !menuOpen && 'hidden']} />
 			<IconMenu class={['h-8 w-8', menuOpen && 'hidden']} />
 		</DropdownMenu.Trigger>
 		<DropdownMenu.Content class="mt-4 -ml-2 flex w-dvw bg-gray-50 p-4" transition={slide}>
-			<div class="grid w-full grid-cols-3">
+			<div class="grid h-12 w-full grid-cols-3">
 				<DropdownMenu.RadioGroup
 					onValueChange={handleSortChange}
 					value={ordering}
 					class="col-span-2 grid grow grid-cols-2"
 				>
 					<DropdownMenu.RadioItem
-						class="flex justify-center rounded-l-full border border-gray-400"
-						value="en">EN</DropdownMenu.RadioItem
+						class="flex items-center justify-center gap-2 rounded-l-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+						value="en"
 					>
-					<DropdownMenu.RadioItem class="flex justify-center border border-gray-400" value="pl"
-						>PL</DropdownMenu.RadioItem
+						<IconGb class="h-5 w-5" />
+						EN
+					</DropdownMenu.RadioItem>
+					<DropdownMenu.RadioItem
+						class="flex items-center justify-center gap-2 border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+						value="pl"
 					>
+						<IconPl class="h-5 w-5" />
+						PL
+					</DropdownMenu.RadioItem>
 				</DropdownMenu.RadioGroup>
 				<button
 					onclick={() => handleSortChange('rand')}
-					class="rounded-r-full border border-gray-400">Rand</button
+					class="flex items-center justify-center gap-2 rounded-r-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 				>
+					<IconShuffle class="h-5 w-5" />
+					Shuffle
+				</button>
 			</div>
 		</DropdownMenu.Content>
 	</DropdownMenu.Root>
