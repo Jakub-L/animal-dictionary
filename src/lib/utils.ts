@@ -57,8 +57,7 @@ const sortAnimals = (arr: Animal[], ordering: string): Animal[] => {
 		newArr.sort((a, b) =>
 			getWordAt(a.polishName, 0).localeCompare(getWordAt(b.polishName, 0), 'pl')
 		);
-	}
-	shuffleArray(newArr);
+	} else shuffleArray(newArr);
 	return newArr;
 };
 
