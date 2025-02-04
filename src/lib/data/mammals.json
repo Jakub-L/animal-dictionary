@@ -3,6 +3,8 @@
         "englishName": "Northern white-breasted hedgehog",
         "polishName": "Je\u017c wschodni",
         "latinName": "erinaceus roumanicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_white-breasted_hedgehog",
+        "polishLink": "http://pl.wikipedia.org/wiki/Je%C5%BC_wschodni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -19,6 +21,8 @@
         "englishName": "European hedgehog",
         "polishName": "Je\u017c zachodni",
         "latinName": "erinaceus europaeus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_hedgehog",
+        "polishLink": "http://pl.wikipedia.org/wiki/Je%C5%BC_zachodni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -35,6 +39,8 @@
         "englishName": "European mole",
         "polishName": "Kret europejski",
         "latinName": "talpa europaea",
+        "englishLink": "https://en.wikipedia.org/wiki/European_mole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kret_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -51,6 +57,8 @@
         "englishName": "Bicolored shrew",
         "polishName": "Z\u0119bie\u0142ek bia\u0142awy",
         "latinName": "crocidura leucodon",
+        "englishLink": "https://en.wikipedia.org/wiki/Bicolored_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Z%C4%99bie%C5%82ek_bia%C5%82awy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -67,6 +75,8 @@
         "englishName": "Lesser white-toothed shrew",
         "polishName": "Z\u0119bie\u0142ek karliczek",
         "latinName": "crocidura suaveolens",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_white-toothed_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Z%C4%99bie%C5%82ek_karliczek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -83,6 +93,8 @@
         "englishName": "Iberian water shrew",
         "polishName": "Rz\u0119sorek mniejszy",
         "latinName": "neomys anomalus",
+        "englishLink": "https://en.wikipedia.org/wiki/Iberian_water_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rz%C4%99sorek_mniejszy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -99,6 +111,8 @@
         "englishName": "Eurasian water shrew",
         "polishName": "Rz\u0119sorek rzeczek",
         "latinName": "neomys fodiens",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_water_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rz%C4%99sorek_rzeczek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -115,6 +129,8 @@
         "englishName": "Common shrew",
         "polishName": "Ryj\u00f3wka aksamitna",
         "latinName": "sorex araneus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ryj%C3%B3wka_aksamitna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -131,6 +147,8 @@
         "englishName": "Alpine shrew",
         "polishName": "Ryj\u00f3wka g\u00f3rska",
         "latinName": "sorex alpinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Alpine_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ryj%C3%B3wka_g%C3%B3rska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -147,6 +165,8 @@
         "englishName": "Eurasian pygmy shrew",
         "polishName": "Ryj\u00f3wka malutka",
         "latinName": "sorex minutus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_pygmy_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ryj%C3%B3wka_malutka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -163,6 +183,8 @@
         "englishName": "Laxmann's shrew",
         "polishName": "Ryj\u00f3wka \u015brednia",
         "latinName": "sorex caecutiens",
+        "englishLink": "https://en.wikipedia.org/wiki/Laxmann%27s_shrew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ryj%C3%B3wka_%C5%9Brednia",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -179,6 +201,8 @@
         "englishName": "Lesser horseshoe bat",
         "polishName": "Podkowiec ma\u0142y",
         "latinName": "rhinolophus hipposideros",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_horseshoe_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Podkowiec_ma%C5%82y",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -195,6 +219,8 @@
         "englishName": "Greater horseshoe bat",
         "polishName": "Podkowiec du\u017cy",
         "latinName": "rhinolophus ferrumequinum",
+        "englishLink": "https://en.wikipedia.org/wiki/Greater_horseshoe_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Podkowiec_du%C5%BCy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -211,6 +237,8 @@
         "englishName": "Western barbastelle",
         "polishName": "Mopek zachodni",
         "latinName": "barbastella barbastellus",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_barbastelle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mopek_zachodni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -227,6 +255,8 @@
         "englishName": "Northern bat",
         "polishName": "Mroczek poz\u0142ocisty",
         "latinName": "eptesicus nilssonii",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mroczek_poz%C5%82ocisty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -243,6 +273,8 @@
         "englishName": "Serotine bat",
         "polishName": "Mroczek p\u00f3\u017any",
         "latinName": "eptesicus serotinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Serotine_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mroczek_p%C3%B3%C5%BAny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -259,6 +291,8 @@
         "englishName": "Savi's pipistrelle",
         "polishName": "Przymroczek Saviego",
         "latinName": "hypsugo savii",
+        "englishLink": "https://en.wikipedia.org/wiki/Savi%27s_pipistrelle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Przymroczek_Saviego",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -275,6 +309,8 @@
         "englishName": "Alcathoe bat",
         "polishName": "Nocek Alkatoe",
         "latinName": "myotis alcathoe",
+        "englishLink": "https://en.wikipedia.org/wiki/Alcathoe_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_Alkatoe",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -291,6 +327,8 @@
         "englishName": "Bechstein's bat",
         "polishName": "Nocek Bechsteina",
         "latinName": "myotis bechsteinii",
+        "englishLink": "https://en.wikipedia.org/wiki/Bechstein%27s_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_Bechsteina",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -307,6 +345,8 @@
         "englishName": "Brandt's bat",
         "polishName": "Nocek Brandta",
         "latinName": "myotis brandtii",
+        "englishLink": "https://en.wikipedia.org/wiki/Brandt%27s_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_Brandta",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -323,6 +363,8 @@
         "englishName": "Greater mouse-eared bat",
         "polishName": "Nocek du\u017cy",
         "latinName": "myotis myotis",
+        "englishLink": "https://en.wikipedia.org/wiki/Greater_mouse-eared_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_du%C5%BCy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -339,6 +381,8 @@
         "englishName": "Lesser mouse-eared bat",
         "polishName": "Nocek wschodni",
         "latinName": "myotis blythii",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_mouse-eared_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_wschodni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -355,6 +399,8 @@
         "englishName": "Pond bat",
         "polishName": "Nocek \u0142ydkow\u0142osy",
         "latinName": "myotis dasycneme",
+        "englishLink": "https://en.wikipedia.org/wiki/Pond_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_%C5%82ydkow%C5%82osy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -371,6 +417,8 @@
         "englishName": "Natterer's bat",
         "polishName": "Nocek Natterera",
         "latinName": "myotis nattereri",
+        "englishLink": "https://en.wikipedia.org/wiki/Natterer%27s_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_Natterera",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -387,6 +435,8 @@
         "englishName": "Geoffroy's bat",
         "polishName": "Nocek orz\u0119siony",
         "latinName": "myotis emarginatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Geoffroy%27s_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_orz%C4%99siony",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -403,6 +453,8 @@
         "englishName": "Daubenton's bat",
         "polishName": "Nocek rudy",
         "latinName": "myotis daubentonii",
+        "englishLink": "https://en.wikipedia.org/wiki/Daubenton%27s_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_rudy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -419,6 +471,8 @@
         "englishName": "Whiskered bat",
         "polishName": "Nocek w\u0105satek",
         "latinName": "myotis mystacinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Whiskered_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nocek_w%C4%85satek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -435,6 +489,8 @@
         "englishName": "Lesser noctule",
         "polishName": "Borowiec le\u015bny",
         "latinName": "nyctalus leisleri",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_noctule",
+        "polishLink": "http://pl.wikipedia.org/wiki/Borowiec_le%C5%9Bny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -451,6 +507,8 @@
         "englishName": "Greater noctule bat",
         "polishName": "Borowiec olbrzymi",
         "latinName": "nyctalus lasiopterus",
+        "englishLink": "https://en.wikipedia.org/wiki/Greater_noctule_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Borowiec_olbrzymi",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -467,6 +525,8 @@
         "englishName": "Common noctule",
         "polishName": "Borowiec wielki",
         "latinName": "nyctalus noctula",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_noctule",
+        "polishLink": "http://pl.wikipedia.org/wiki/Borowiec_wielki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -483,6 +543,8 @@
         "englishName": "Soprano pipistrelle",
         "polishName": "Karlik drobny",
         "latinName": "pipistrellus pygmaeus",
+        "englishLink": "https://en.wikipedia.org/wiki/Soprano_pipistrelle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Karlik_drobny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -499,6 +561,8 @@
         "englishName": "Common pipistrelle",
         "polishName": "Karlik malutki",
         "latinName": "pipistrellus pipistrellus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_pipistrelle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Karlik_malutki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -515,6 +579,8 @@
         "englishName": "Nathusius' pipistrelle",
         "polishName": "Karlik wi\u0119kszy",
         "latinName": "pipistrellus nathusii",
+        "englishLink": "https://en.wikipedia.org/wiki/Nathusius%27s_pipistrelle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Karlik_wi%C4%99kszy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -531,6 +597,8 @@
         "englishName": "Kuhl's pipistrelle",
         "polishName": "Karlik \u015bredni",
         "latinName": "pipistrellus kuhlii",
+        "englishLink": "https://en.wikipedia.org/wiki/Kuhl%27s_pipistrelle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Karlik_%C5%9Bredni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -547,6 +615,8 @@
         "englishName": "Brown long-eared bat",
         "polishName": "Gacek brunatny",
         "latinName": "plecotus auritus",
+        "englishLink": "https://en.wikipedia.org/wiki/Brown_long-eared_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Gacek_brunatny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -563,6 +633,8 @@
         "englishName": "Grey long-eared Bat",
         "polishName": "Gacek szary",
         "latinName": "plecotus austriacus",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey_long-eared_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Gacek_szary",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -579,6 +651,8 @@
         "englishName": "Parti-coloured bat",
         "polishName": "Mroczak posrebrzany",
         "latinName": "vespertilio murinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Parti-coloured_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mroczak_posrebrzany",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -595,6 +669,8 @@
         "englishName": "Common bent-wing bat",
         "polishName": "Podkasaniec zwyczajny",
         "latinName": "miniopterus schreibersii",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_bent-wing_bat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Podkasaniec_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -611,6 +687,8 @@
         "englishName": "Red squirrel",
         "polishName": "Wiewi\u00f3rka pospolita",
         "latinName": "sciurus vulgaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_squirrel",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wiewi%C3%B3rka_pospolita",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -627,6 +705,8 @@
         "englishName": "European ground squirrel",
         "polishName": "Suse\u0142 mor\u0119gowany",
         "latinName": "spermophilus citellus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_ground_squirrel",
+        "polishLink": "http://pl.wikipedia.org/wiki/Suse%C5%82_mor%C4%99gowany",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -643,6 +723,8 @@
         "englishName": "Speckled ground squirrel",
         "polishName": "Suse\u0142 pere\u0142kowany",
         "latinName": "spermophilus suslicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Speckled_ground_squirrel",
+        "polishLink": "http://pl.wikipedia.org/wiki/Suse%C5%82_pere%C5%82kowany",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -659,6 +741,8 @@
         "englishName": "Northern birch mouse",
         "polishName": "Smu\u017cka le\u015bna",
         "latinName": "sicista betulina",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_birch_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Smu%C5%BCka_le%C5%9Bna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -675,6 +759,8 @@
         "englishName": "Southern birch mouse",
         "polishName": "Smu\u017cka stepowa",
         "latinName": "sicista subtilis",
+        "englishLink": "https://en.wikipedia.org/wiki/Southern_birch_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Smu%C5%BCka_stepowa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -691,6 +777,8 @@
         "englishName": "Eurasian beaver",
         "polishName": "B\u00f3br europejski",
         "latinName": "castor fiber",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_beaver",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C3%B3br_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -707,6 +795,8 @@
         "englishName": "North American beaver",
         "polishName": "B\u00f3br kanadyjski",
         "latinName": "castor canadensis",
+        "englishLink": "https://en.wikipedia.org/wiki/North_American_beaver",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C3%B3br_kanadyjski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -723,6 +813,8 @@
         "englishName": "European hamster",
         "polishName": "Chomik europejski",
         "latinName": "cricetus cricetus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_hamster",
+        "polishLink": "http://pl.wikipedia.org/wiki/Chomik_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -740,6 +832,8 @@
         "englishName": "Nutria",
         "polishName": "Nutria ameryka\u0144ska",
         "latinName": "myocastor coypus",
+        "englishLink": "https://en.wikipedia.org/wiki/Nutria",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nutria_ameryka%C5%84ska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -758,6 +852,8 @@
         "englishName": "European water vole",
         "polishName": "Karczownik ziemnowodny",
         "latinName": "arvicola amphibius",
+        "englishLink": "https://en.wikipedia.org/wiki/European_water_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Karczownik_ziemnowodny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -775,6 +871,8 @@
         "englishName": "Montane water vole",
         "polishName": "Karczownik g\u00f3rski",
         "latinName": "arvicola scherman",
+        "englishLink": "https://en.wikipedia.org/wiki/Montane_water_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Karczownik_g%C3%B3rski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -792,6 +890,8 @@
         "englishName": "Bank vole",
         "polishName": "Nornica ruda",
         "latinName": "clethrionomys glareolus",
+        "englishLink": "https://en.wikipedia.org/wiki/Bank_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nornica_ruda",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -809,6 +909,8 @@
         "englishName": "European snow vole",
         "polishName": "\u015anie\u017cnik europejski",
         "latinName": "chionomys nivalis",
+        "englishLink": "https://en.wikipedia.org/wiki/European_snow_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Anie%C5%BCnik_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -826,6 +928,8 @@
         "englishName": "Short-tailed field vole",
         "polishName": "Nornik bury",
         "latinName": "microtus agrestis",
+        "englishLink": "https://en.wikipedia.org/wiki/Short-tailed_field_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nornik_bury",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -844,6 +948,8 @@
         "englishName": "Tundra vole",
         "polishName": "Nornik p\u00f3\u0142nocny",
         "latinName": "alexandromys oeconomus",
+        "englishLink": "https://en.wikipedia.org/wiki/Microtus_oeconomus",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nornik_p%C3%B3%C5%82nocny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -861,6 +967,8 @@
         "englishName": "Common vole",
         "polishName": "Nornik zwyczajny",
         "latinName": "microtus arvalis",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nornik_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -879,6 +987,8 @@
         "englishName": "European pine vole",
         "polishName": "Nornik darniowy",
         "latinName": "microtus subterraneus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_pine_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nornik_darniowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -897,6 +1007,8 @@
         "englishName": "Tatra pine vole",
         "polishName": "Nornik tatrza\u0144ski",
         "latinName": "microtus tatricus",
+        "englishLink": "https://en.wikipedia.org/wiki/Tatra_pine_vole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nornik_tatrza%C5%84ski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -915,6 +1027,8 @@
         "englishName": "Muskrat",
         "polishName": "Pi\u017cmak ameryka\u0144ski",
         "latinName": "ondatra zibethicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Muskrat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pi%C5%BCmak_ameryka%C5%84ski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -933,6 +1047,8 @@
         "englishName": "Forest dormouse",
         "polishName": "Koszatka le\u015bna",
         "latinName": "dryomys nitedula",
+        "englishLink": "https://en.wikipedia.org/wiki/Forest_dormouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Koszatka_le%C5%9Bna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -949,6 +1065,8 @@
         "englishName": "Garden dormouse",
         "polishName": "\u017bo\u0142\u0119dnica europejska",
         "latinName": "eliomys quercinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Garden_dormouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%BBo%C5%82%C4%99dnica_europejska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -965,6 +1083,8 @@
         "englishName": "Edible dormouse",
         "polishName": "Popielica szara",
         "latinName": "glis glis",
+        "englishLink": "https://en.wikipedia.org/wiki/European_edible_dormouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Popielica_szara",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -982,6 +1102,8 @@
         "englishName": "Hazel dormouse",
         "polishName": "Orzesznica leszczynowa",
         "latinName": "muscardinus avellanarius",
+        "englishLink": "https://en.wikipedia.org/wiki/Hazel_dormouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Orzesznica_leszczynowa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -999,6 +1121,8 @@
         "englishName": "Striped field mouse",
         "polishName": "Myszarka polna",
         "latinName": "apodemus agrarius",
+        "englishLink": "https://en.wikipedia.org/wiki/Striped_field_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Myszarka_polna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1015,6 +1139,8 @@
         "englishName": "Yellow-necked mouse",
         "polishName": "Myszarka le\u015bna",
         "latinName": "apodemus flavicollis",
+        "englishLink": "https://en.wikipedia.org/wiki/Yellow-necked_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Myszarka_le%C5%9Bna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1031,6 +1157,8 @@
         "englishName": "Ural field mouse",
         "polishName": "Myszarka zielna",
         "latinName": "apodemus uralensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Ural_field_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Myszarka_zielna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1047,6 +1175,8 @@
         "englishName": "Wood mouse",
         "polishName": "Myszarka zaro\u015blowa",
         "latinName": "apodemus sylvaticus",
+        "englishLink": "https://en.wikipedia.org/wiki/Wood_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Myszarka_zaro%C5%9Blowa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1063,6 +1193,8 @@
         "englishName": "Eurasian harvest mouse",
         "polishName": "Badylarka pospolita",
         "latinName": "micromys minutus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_harvest_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Badylarka_pospolita",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1079,6 +1211,8 @@
         "englishName": "House mouse",
         "polishName": "Mysz domowa",
         "latinName": "mus musculus",
+        "englishLink": "https://en.wikipedia.org/wiki/House_mouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mysz_domowa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1096,6 +1230,8 @@
         "englishName": "Black rat",
         "polishName": "Szczur \u015bniady",
         "latinName": "rattus rattus",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_rat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szczur_%C5%9Bniady",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1112,6 +1248,8 @@
         "englishName": "Brown rat",
         "polishName": "Szczur w\u0119drowny",
         "latinName": "rattus norvegicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Brown_rat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szczur_w%C4%99drowny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1128,6 +1266,8 @@
         "englishName": "European rabbit",
         "polishName": "Kr\u00f3lik europejski",
         "latinName": "oryctolagus cuniculus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_rabbit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kr%C3%B3lik_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1144,6 +1284,8 @@
         "englishName": "Mountain hare",
         "polishName": "Zaj\u0105c bielak",
         "latinName": "lepus timidus",
+        "englishLink": "https://en.wikipedia.org/wiki/Mountain_hare",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zaj%C4%85c_bielak",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1160,6 +1302,8 @@
         "englishName": "European hare",
         "polishName": "Zaj\u0105c szarak",
         "latinName": "lepus europaeus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_hare",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zaj%C4%85c_szarak",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1176,6 +1320,8 @@
         "englishName": "Wolf",
         "polishName": "Wilk szary",
         "latinName": "canis lupus",
+        "englishLink": "https://en.wikipedia.org/wiki/Wolf",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wilk_szary",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1192,6 +1338,8 @@
         "englishName": "Golden jackal",
         "polishName": "Szakal z\u0142ocisty",
         "latinName": "canis aureus",
+        "englishLink": "https://en.wikipedia.org/wiki/Golden_jackal",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szakal_z%C5%82ocisty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1208,6 +1356,8 @@
         "englishName": "Common raccoon dog",
         "polishName": "Jenot azjatycki",
         "latinName": "nyctereutes procyonoides",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_raccoon_dog",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jenot_azjatycki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1224,6 +1374,8 @@
         "englishName": "Red fox",
         "polishName": "Lis rudy",
         "latinName": "vulpes vulpes",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_fox",
+        "polishLink": "http://pl.wikipedia.org/wiki/Lis_rudy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1240,6 +1392,8 @@
         "englishName": "Brown bear",
         "polishName": "Nied\u017awied\u017a brunatny",
         "latinName": "ursus arctos",
+        "englishLink": "https://en.wikipedia.org/wiki/Brown_bear",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nied%C5%BAwied%C5%BA_brunatny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1256,6 +1410,8 @@
         "englishName": "Eurasian otter",
         "polishName": "Wydra europejska",
         "latinName": "lutra lutra",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_otter",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wydra_europejska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1273,6 +1429,8 @@
         "englishName": "Beech marten",
         "polishName": "Kuna domowa",
         "latinName": "martes foina",
+        "englishLink": "https://en.wikipedia.org/wiki/Beech_marten",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kuna_domowa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1289,6 +1447,8 @@
         "englishName": "European pine marten",
         "polishName": "Kuna le\u015bna",
         "latinName": "martes martes",
+        "englishLink": "https://en.wikipedia.org/wiki/European_pine_marten",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kuna_le%C5%9Bna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1305,6 +1465,8 @@
         "englishName": "Sable",
         "polishName": "Sob\u00f3l tajgowy",
         "latinName": "martes zibellina",
+        "englishLink": "https://en.wikipedia.org/wiki/Sable",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sob%C3%B3l_tajgowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1321,6 +1483,8 @@
         "englishName": "European badger",
         "polishName": "Borsuk europejski",
         "latinName": "meles meles",
+        "englishLink": "https://en.wikipedia.org/wiki/European_badger",
+        "polishLink": "http://pl.wikipedia.org/wiki/Borsuk_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1337,6 +1501,8 @@
         "englishName": "Least weasel",
         "polishName": "\u0141asica pospolita",
         "latinName": "mustela nivalis",
+        "englishLink": "https://en.wikipedia.org/wiki/Least_weasel",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81asica_pospolita",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1353,6 +1519,8 @@
         "englishName": "Stoat",
         "polishName": "Gronostaj europejski",
         "latinName": "mustela erminea",
+        "englishLink": "https://en.wikipedia.org/wiki/Stoat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Gronostaj_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1369,6 +1537,8 @@
         "englishName": "European mink",
         "polishName": "Norka europejska",
         "latinName": "mustela lutreola",
+        "englishLink": "https://en.wikipedia.org/wiki/European_mink",
+        "polishLink": "http://pl.wikipedia.org/wiki/Norka_europejska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1385,6 +1555,8 @@
         "englishName": "European polecat",
         "polishName": "Tch\u00f3rz zwyczajny",
         "latinName": "mustela putorius",
+        "englishLink": "https://en.wikipedia.org/wiki/European_polecat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Tch%C3%B3rz_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1402,6 +1574,8 @@
         "englishName": "Steppe polecat",
         "polishName": "Tch\u00f3rz stepowy",
         "latinName": "mustela eversmanii",
+        "englishLink": "https://en.wikipedia.org/wiki/Steppe_polecat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Tch%C3%B3rz_stepowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1419,6 +1593,8 @@
         "englishName": "American mink",
         "polishName": "Wizon ameryka\u0144ski",
         "latinName": "neogale vison",
+        "englishLink": "https://en.wikipedia.org/wiki/American_mink",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wizon_ameryka%C5%84ski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1435,6 +1611,8 @@
         "englishName": "Raccoon",
         "polishName": "Szop pracz",
         "latinName": "procyon lotor",
+        "englishLink": "https://en.wikipedia.org/wiki/Raccoon",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szop_pracz",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1451,6 +1629,8 @@
         "englishName": "Eurasian lynx",
         "polishName": "Ry\u015b euroazjatycki",
         "latinName": "lynx lynx",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_lynx",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ry%C5%9B_euroazjatycki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1469,6 +1649,8 @@
         "englishName": "European wildcat",
         "polishName": "\u017bbik europejski",
         "latinName": "felis silvestris",
+        "englishLink": "https://en.wikipedia.org/wiki/European_wildcat",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%BBbik_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1487,6 +1669,8 @@
         "englishName": "Grey seal",
         "polishName": "Szarytka morska",
         "latinName": "halichoerus grypus",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey_seal",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szarytka_morska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1504,6 +1688,8 @@
         "englishName": "Ringed seal",
         "polishName": "Nerpa obr\u0105czkowana",
         "latinName": "pusa hispida",
+        "englishLink": "https://en.wikipedia.org/wiki/Ringed_seal",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nerpa_obr%C4%85czkowana",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1521,6 +1707,8 @@
         "englishName": "Harbor seal",
         "polishName": "Foka pospolita",
         "latinName": "phoca vitulina",
+        "englishLink": "https://en.wikipedia.org/wiki/Harbor_seal",
+        "polishLink": "http://pl.wikipedia.org/wiki/Foka_pospolita",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1538,6 +1726,8 @@
         "englishName": "Walrus",
         "polishName": "Mors arktyczny",
         "latinName": "odobenus rosmarus",
+        "englishLink": "https://en.wikipedia.org/wiki/Walrus",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mors_arktyczny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1555,6 +1745,8 @@
         "englishName": "European bison",
         "polishName": "\u017bubr europejski",
         "latinName": "bison bonasus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_bison",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%BBubr_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1572,6 +1764,8 @@
         "englishName": "Wild boar",
         "polishName": "Dzik euroazjatycki",
         "latinName": "sus scrofa",
+        "englishLink": "https://en.wikipedia.org/wiki/Wild_boar",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzik_euroazjatycki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1588,6 +1782,8 @@
         "englishName": "Moose",
         "polishName": "\u0141o\u015b euroazjatycki",
         "latinName": "alces alces",
+        "englishLink": "https://en.wikipedia.org/wiki/Moose",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81o%C5%9B_euroazjatycki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1606,6 +1802,8 @@
         "englishName": "Roe deer",
         "polishName": "Sarna europejska",
         "latinName": "capreolus capreolus",
+        "englishLink": "https://en.wikipedia.org/wiki/Roe_deer",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sarna_europejska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1623,6 +1821,8 @@
         "englishName": "Siberian roe deer",
         "polishName": "Sarna syberyjska",
         "latinName": "capreolus pygargus",
+        "englishLink": "https://en.wikipedia.org/wiki/Siberian_roe_deer",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sarna_syberyjska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1640,6 +1840,8 @@
         "englishName": "Red deer",
         "polishName": "Jele\u0144 szlachetny",
         "latinName": "cervus elaphus",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_deer",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jele%C5%84_szlachetny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1656,6 +1858,8 @@
         "englishName": "Sika deer",
         "polishName": "Jele\u0144 wschodni",
         "latinName": "cervus nippon",
+        "englishLink": "https://en.wikipedia.org/wiki/Sika_deer",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jele%C5%84_wschodni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1672,6 +1876,8 @@
         "englishName": "Elk",
         "polishName": "Jele\u0144 kanadyjski",
         "latinName": "cervus canadensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Elk",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jele%C5%84_kanadyjski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1688,6 +1894,8 @@
         "englishName": "European fallow deer",
         "polishName": "Daniel zwyczajny",
         "latinName": "dama dama",
+        "englishLink": "https://en.wikipedia.org/wiki/European_fallow_deer",
+        "polishLink": "http://pl.wikipedia.org/wiki/Daniel_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1705,6 +1913,8 @@
         "englishName": "Sowerby's beaked whale",
         "polishName": "Dziobowal dwuz\u0119bny",
         "latinName": "mesoplodon bidens",
+        "englishLink": "https://en.wikipedia.org/wiki/Sowerby%27s_beaked_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dziobowal_dwuz%C4%99bny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1722,6 +1932,8 @@
         "englishName": "Northern bottlenose whale",
         "polishName": "Butlog\u0142\u00f3w p\u00f3\u0142nocny",
         "latinName": "hyperoodon ampullatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_bottlenose_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/Butlog%C5%82%C3%B3w_p%C3%B3%C5%82nocny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1739,6 +1951,8 @@
         "englishName": "Common dolphin",
         "polishName": "Delfin zwyczajny",
         "latinName": "delphinus delphis",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_dolphin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Delfin_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1756,6 +1970,8 @@
         "englishName": "White-beaked dolphin",
         "polishName": "Delfinowiec bia\u0142onosy",
         "latinName": "lagenorhynchus albirostris",
+        "englishLink": "https://en.wikipedia.org/wiki/White-beaked_dolphin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Delfinowiec_bia%C5%82onosy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1773,6 +1989,8 @@
         "englishName": "Common bottlenose dolphin",
         "polishName": "Butlonos zwyczajny",
         "latinName": "tursiops truncatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Butlonos_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1790,6 +2008,8 @@
         "englishName": "Harbour porpoise",
         "polishName": "Mor\u015bwin zwyczajny",
         "latinName": "phocoena phocoena",
+        "englishLink": "https://en.wikipedia.org/wiki/Harbour_porpoise",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mor%C5%9Bwin_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1807,6 +2027,8 @@
         "englishName": "Beluga whale",
         "polishName": "Bia\u0142ucha arktyczna",
         "latinName": "delphinapterus leucas",
+        "englishLink": "https://en.wikipedia.org/wiki/Beluga_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bia%C5%82ucha_arktyczna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1824,6 +2046,8 @@
         "englishName": "Humpback whale",
         "polishName": "D\u0142ugop\u0142etwiec oceaniczny",
         "latinName": "megaptera novaeangliae",
+        "englishLink": "https://en.wikipedia.org/wiki/Humpback_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/D%C5%82ugop%C5%82etwiec_oceaniczny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1841,6 +2065,8 @@
         "englishName": "Fin whale",
         "polishName": "P\u0142etwal zwyczajny",
         "latinName": "balaenoptera physalus",
+        "englishLink": "https://en.wikipedia.org/wiki/Fin_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82etwal_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1858,6 +2084,8 @@
         "englishName": "Sei whale",
         "polishName": "P\u0142etwal czerniakowy",
         "latinName": "balaenoptera borealis",
+        "englishLink": "https://en.wikipedia.org/wiki/Sei_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82etwal_czerniakowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1875,6 +2103,8 @@
         "englishName": "North Atlantic right whale",
         "polishName": "Wale\u0144 biskajski",
         "latinName": "eubalaena glacialis",
+        "englishLink": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wale%C5%84_biskajski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1892,6 +2122,8 @@
         "englishName": "Red-necked wallaby",
         "polishName": "Kangur rdzawoszyi",
         "latinName": "notamacropus rufogriseus",
+        "englishLink": "http://en.wikipedia.org/wiki/Red-necked_wallaby",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kangur_rdzawoszyi",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1909,6 +2141,8 @@
         "englishName": "Eastern gray squirrel",
         "polishName": "Wiewi\u00f3rka szara",
         "latinName": "sciurus carolinensis",
+        "englishLink": "http://en.wikipedia.org/wiki/Eastern_gray_squirrel",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wiewi%C3%B3rka_szara",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1926,6 +2160,8 @@
         "englishName": "Water deer",
         "polishName": "Jelonkowiec b\u0142otny",
         "latinName": "hydropotes inermis",
+        "englishLink": "http://en.wikipedia.org/wiki/Water_deer",
+        "polishLink": "https://pl.wikipedia.org/wiki/Jelonkowiec_b%C5%82otny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1944,6 +2180,8 @@
         "englishName": "Reeves's muntjac",
         "polishName": "Mund\u017cak chi\u0144ski",
         "latinName": "muntiacus reevesi",
+        "englishLink": "http://en.wikipedia.org/wiki/Reeves%27s_muntjac",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mund%C5%BCak_chi%C5%84ski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1960,6 +2198,8 @@
         "englishName": "Common minke whale",
         "polishName": "P\u0142etwal kar\u0142owaty",
         "latinName": "balaenoptera acutorostrata",
+        "englishLink": "http://en.wikipedia.org/wiki/Common_minke_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/P%C5%82etwal_kar%C5%82owaty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1977,6 +2217,8 @@
         "englishName": "Blue whale",
         "polishName": "P\u0142etwal b\u0142\u0119kitny",
         "latinName": "balaenoptera musculus",
+        "englishLink": "http://en.wikipedia.org/wiki/Blue_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/P%C5%82etwal_b%C5%82%C4%99kitny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1994,6 +2236,8 @@
         "englishName": "Sperm whale",
         "polishName": "Kaszalot spermacetowy",
         "latinName": "physeter macrocephalus",
+        "englishLink": "http://en.wikipedia.org/wiki/Sperm_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kaszalot_spermacetowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2011,6 +2255,8 @@
         "englishName": "Pygmy sperm whale",
         "polishName": "Kogia kr\u00f3tkog\u0142owa",
         "latinName": "kogia breviceps",
+        "englishLink": "http://en.wikipedia.org/wiki/Pygmy_sperm_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kogia_kr%C3%B3tkog%C5%82owa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2028,6 +2274,8 @@
         "englishName": "Cuvier's beaked whale",
         "polishName": "Zyfia g\u0119siog\u0142owa",
         "latinName": "ziphius cavirostris",
+        "englishLink": "http://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/Zyfia_g%C4%99siog%C5%82owa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2045,6 +2293,8 @@
         "englishName": "Gervais's beaked whale",
         "polishName": "Dziobowal europejski",
         "latinName": "mesoplodon europaeus",
+        "englishLink": "http://en.wikipedia.org/wiki/Gervais%27_beaked_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/Dziobowal_europejski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2062,6 +2312,8 @@
         "englishName": "Atlantic white-sided dolphin",
         "polishName": "Delfinowiec bia\u0142oboki",
         "latinName": "lagenorhynchus acutus",
+        "englishLink": "http://en.wikipedia.org/wiki/Atlantic_white-sided_dolphin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Delfinowiec_bia%C5%82oboki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2079,6 +2331,8 @@
         "englishName": "False killer whale",
         "polishName": "Szablogrzbiet walenio\u017cerny",
         "latinName": "pseudorca crassidens",
+        "englishLink": "http://en.wikipedia.org/wiki/False_killer_whale",
+        "polishLink": "https://pl.wikipedia.org/wiki/Szablogrzbiet_walenio%C5%BCerny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2096,6 +2350,8 @@
         "englishName": "Striped dolphin",
         "polishName": "Delfinek pr\u0119goboki",
         "latinName": "stenella coeruleoalba",
+        "englishLink": "http://en.wikipedia.org/wiki/Striped_dolphin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Delfinek_pr%C4%99goboki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2113,6 +2369,8 @@
         "englishName": "Risso's dolphin",
         "polishName": "Risso szary",
         "latinName": "grampus griseus",
+        "englishLink": "http://en.wikipedia.org/wiki/Risso%27s_dolphin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Risso_szary",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2130,6 +2388,8 @@
         "englishName": "Orca",
         "polishName": "Orka oceaniczna",
         "latinName": "orcinus orca",
+        "englishLink": "http://en.wikipedia.org/wiki/Orca",
+        "polishLink": "https://pl.wikipedia.org/wiki/Orka_oceaniczna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2147,6 +2407,8 @@
         "englishName": "Wolverine",
         "polishName": "Rosomak tundrowy",
         "latinName": "gulo gulo",
+        "englishLink": "http://en.wikipedia.org/wiki/Wolverine",
+        "polishLink": "https://pl.wikipedia.org/wiki/Rosomak_tundrowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2163,6 +2425,8 @@
         "englishName": "Reindeer",
         "polishName": "Renifer tundrowy",
         "latinName": "rangifer tarandus",
+        "englishLink": "http://en.wikipedia.org/wiki/Reindeer",
+        "polishLink": "https://pl.wikipedia.org/wiki/Renifer_tundrowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2181,6 +2445,8 @@
         "englishName": "Chimpanzee",
         "polishName": "Szympans zwyczajny",
         "latinName": "pan troglodytes",
+        "englishLink": "https://en.wikipedia.org/wiki/Chimpanzee",
+        "polishLink": "https://pl.wikipedia.org/wiki/Szympans_zwyczajny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2201,6 +2467,8 @@
         "englishName": "African bush elephant",
         "polishName": "S\u0142o\u0144 afryka\u0144ski",
         "latinName": "loxodonta africana",
+        "englishLink": "https://en.wikipedia.org/wiki/African_bush_elephant",
+        "polishLink": "https://pl.wikipedia.org/wiki/S%C5%82o%C5%84_afryka%C5%84ski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",

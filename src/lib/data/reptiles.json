@@ -3,6 +3,8 @@
         "englishName": "Boa constrictor",
         "polishName": "Boa dusiciel",
         "latinName": "boa constrictor",
+        "englishLink": "https://en.wikipedia.org/wiki/Boa_constrictor",
+        "polishLink": "https://pl.wikipedia.org/wiki/Boa_dusiciel",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",

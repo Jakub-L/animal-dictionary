@@ -3,6 +3,8 @@
         "englishName": "Mute swan",
         "polishName": "\u0141ab\u0119d\u017a niemy",
         "latinName": "cygnus olor",
+        "englishLink": "https://en.wikipedia.org/wiki/Mute_swan",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81ab%C4%99d%C5%BA_niemy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -19,6 +21,8 @@
         "englishName": "Tundra swan",
         "polishName": "\u0141ab\u0119d\u017a czarnodzioby",
         "latinName": "cygnus columbianus",
+        "englishLink": "https://en.wikipedia.org/wiki/Tundra_swan",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81ab%C4%99d%C5%BA_czarnodzioby",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -35,6 +39,8 @@
         "englishName": "Whooper swan",
         "polishName": "\u0141ab\u0119d\u017a krzykliwy",
         "latinName": "cygnus cygnus",
+        "englishLink": "https://en.wikipedia.org/wiki/Whooper_swan",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81ab%C4%99d%C5%BA_krzykliwy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -51,6 +57,8 @@
         "englishName": "Greylag goose",
         "polishName": "G\u0119gawa",
         "latinName": "anser anser",
+        "englishLink": "https://en.wikipedia.org/wiki/Greylag_goose",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C4%99gawa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -67,6 +75,8 @@
         "englishName": "Taiga bean goose",
         "polishName": "G\u0119\u015b zbo\u017cowa",
         "latinName": "anser fabalis",
+        "englishLink": "https://en.wikipedia.org/wiki/Taiga_bean_goose",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C4%99%C5%9B_zbo%C5%BCowa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -83,6 +93,8 @@
         "englishName": "Greater white-fronted goose",
         "polishName": "G\u0119\u015b bia\u0142oczelna",
         "latinName": "anser albifrons",
+        "englishLink": "https://en.wikipedia.org/wiki/Greater_white-fronted_goose",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C4%99%C5%9B_bia%C5%82oczelna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -99,6 +111,8 @@
         "englishName": "Long-tailed duck",
         "polishName": "Lod\u00f3wka",
         "latinName": "clangula hyemalis",
+        "englishLink": "https://en.wikipedia.org/wiki/Long-tailed_duck",
+        "polishLink": "http://pl.wikipedia.org/wiki/Lod%C3%B3wka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -115,6 +129,8 @@
         "englishName": "Common eider",
         "polishName": "Edredon zwyczajny",
         "latinName": "somateria mollissima",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_eider",
+        "polishLink": "http://pl.wikipedia.org/wiki/Edredon_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -131,6 +147,8 @@
         "englishName": "Velvet scoter",
         "polishName": "Uhla (zwyczajna)",
         "latinName": "melanitta fusca",
+        "englishLink": "https://en.wikipedia.org/wiki/Velvet_scoter",
+        "polishLink": "http://pl.wikipedia.org/wiki/Uhla_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -148,6 +166,8 @@
         "englishName": "Common scoter",
         "polishName": "Markaczka (zwyczajna)",
         "latinName": "melanitta nigra",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_scoter",
+        "polishLink": "http://pl.wikipedia.org/wiki/Markaczka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -165,6 +185,8 @@
         "englishName": "Common goldeneye",
         "polishName": "G\u0105go\u0142",
         "latinName": "bucephala clangula",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_goldeneye",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C4%85go%C5%82",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -181,6 +203,8 @@
         "englishName": "Smew",
         "polishName": "Bielaczek",
         "latinName": "mergellus albellus",
+        "englishLink": "https://en.wikipedia.org/wiki/Smew",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bielaczek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -197,6 +221,8 @@
         "englishName": "Common merganser",
         "polishName": "Nurog\u0119\u015b",
         "latinName": "mergus merganser",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_merganser",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nurog%C4%99%C5%9B",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -213,6 +239,8 @@
         "englishName": "Red-breasted merganser",
         "polishName": "Szlachar",
         "latinName": "mergus serrator",
+        "englishLink": "https://en.wikipedia.org/wiki/Red-breasted_merganser",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szlachar",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -229,6 +257,8 @@
         "englishName": "Common pochard",
         "polishName": "G\u0142owienka zwyczajna",
         "latinName": "aythya ferina",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_pochard",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C5%82owienka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -245,6 +275,8 @@
         "englishName": "Tufted duck",
         "polishName": "Czernica",
         "latinName": "aythya fuligula",
+        "englishLink": "https://en.wikipedia.org/wiki/Tufted_duck",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czernica_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -261,6 +293,8 @@
         "englishName": "Greater scaup",
         "polishName": "Ogorza\u0142ka zwyczajna",
         "latinName": "aythya marila",
+        "englishLink": "https://en.wikipedia.org/wiki/Greater_scaup",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ogorza%C5%82ka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -277,6 +311,8 @@
         "englishName": "Garganey",
         "polishName": "Cyranka zwyczajna",
         "latinName": "spatula querquedula",
+        "englishLink": "https://en.wikipedia.org/wiki/Garganey",
+        "polishLink": "http://pl.wikipedia.org/wiki/Cyranka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -293,6 +329,8 @@
         "englishName": "Northern shoveler",
         "polishName": "P\u0142askonos zwyczajny",
         "latinName": "spatula clypeata",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_shoveler",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82askonos_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -309,6 +347,8 @@
         "englishName": "Gadwall",
         "polishName": "Krakwa",
         "latinName": "mareca strepera",
+        "englishLink": "https://en.wikipedia.org/wiki/Gadwall",
+        "polishLink": "http://pl.wikipedia.org/wiki/Krakwa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -325,6 +365,8 @@
         "englishName": "Mallard",
         "polishName": "Krzy\u017c\u00f3wka zwyczajna",
         "latinName": "anas platyrhynchos",
+        "englishLink": "https://en.wikipedia.org/wiki/Mallard",
+        "polishLink": "http://pl.wikipedia.org/wiki/Krzy%C5%BC%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -341,6 +383,8 @@
         "englishName": "Eurasian teal",
         "polishName": "Cyraneczka zwyczajna",
         "latinName": "anas crecca",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_teal",
+        "polishLink": "http://pl.wikipedia.org/wiki/Cyraneczka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -357,6 +401,8 @@
         "englishName": "Common quail",
         "polishName": "Przepi\u00f3rka (zwyczajna)",
         "latinName": "coturnix coturnix",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_quail",
+        "polishLink": "http://pl.wikipedia.org/wiki/Przepi%C3%B3rka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -373,6 +419,8 @@
         "englishName": "Grey partridge",
         "polishName": "Kuropatwa (zwyczajna)",
         "latinName": "perdix perdix",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey_partridge",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kuropatwa_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -389,6 +437,8 @@
         "englishName": "Hazel grouse",
         "polishName": "Jarz\u0105bek (zwyczajny)",
         "latinName": "tetrastes bonasia",
+        "englishLink": "https://en.wikipedia.org/wiki/Hazel_grouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jarz%C4%85bek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -405,6 +455,8 @@
         "englishName": "Western capercaillie",
         "polishName": "G\u0142uszec  (zwyczajny)",
         "latinName": "tetrao urogallus",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_capercaillie",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C5%82uszec_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -421,6 +473,8 @@
         "englishName": "Black grouse",
         "polishName": "Cietrzew (zwyczajny)",
         "latinName": "lyrurus tetrix",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_grouse",
+        "polishLink": "http://pl.wikipedia.org/wiki/Cietrzew_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -437,6 +491,8 @@
         "englishName": "Little grebe",
         "polishName": "Perkozek (zwyczajny)",
         "latinName": "tachybaptus ruficollis",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_grebe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Perkozek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -453,6 +509,8 @@
         "englishName": "Red-necked grebe",
         "polishName": "Perkoz rdzawoszyi",
         "latinName": "podiceps grisegena",
+        "englishLink": "https://en.wikipedia.org/wiki/Red-necked_grebe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Perkoz_rdzawoszyi",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -469,6 +527,8 @@
         "englishName": "Great crested grebe",
         "polishName": "Perkoz dwuczuby",
         "latinName": "podiceps cristatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_crested_grebe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Perkoz_dwuczuby",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -485,6 +545,8 @@
         "englishName": "Horned grebe",
         "polishName": "Perkoz rogaty",
         "latinName": "podiceps auritus",
+        "englishLink": "https://en.wikipedia.org/wiki/Horned_grebe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Perkoz_rogaty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -501,6 +563,8 @@
         "englishName": "Black-necked grebe",
         "polishName": "Perkoz zausznik",
         "latinName": "podiceps nigricollis",
+        "englishLink": "https://en.wikipedia.org/wiki/Black-necked_grebe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Perkoz_zausznik",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -517,6 +581,8 @@
         "englishName": "Stock dove",
         "polishName": "Siniak",
         "latinName": "columba oenas",
+        "englishLink": "https://en.wikipedia.org/wiki/Stock_dove",
+        "polishLink": "http://pl.wikipedia.org/wiki/Siniak_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -533,6 +599,8 @@
         "englishName": "Common wood pigeon",
         "polishName": "Grzywacz",
         "latinName": "columba palumbus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_wood_pigeon",
+        "polishLink": "http://pl.wikipedia.org/wiki/Grzywacz_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -549,6 +617,8 @@
         "englishName": "European turtle dove",
         "polishName": "Turkawka (zwyczajna)",
         "latinName": "streptopelia turtur",
+        "englishLink": "https://en.wikipedia.org/wiki/European_turtle_dove",
+        "polishLink": "http://pl.wikipedia.org/wiki/Turkawka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -565,6 +635,8 @@
         "englishName": "Eurasian collared dove",
         "polishName": "Sierp\u00f3wka (zwyczajna)",
         "latinName": "streptopelia decaocto",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_collared_dove",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sierp%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -581,6 +653,8 @@
         "englishName": "European nightjar",
         "polishName": "Lelek zwyczajny",
         "latinName": "caprimulgus europaeus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_nightjar",
+        "polishLink": "http://pl.wikipedia.org/wiki/Lelek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -598,6 +672,8 @@
         "englishName": "Common swift",
         "polishName": "Jerzyk (zwyczajny)",
         "latinName": "apus apus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_swift",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jerzyk_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -615,6 +691,8 @@
         "englishName": "Common cuckoo",
         "polishName": "Kuku\u0142ka (zwyczajna)",
         "latinName": "cuculus canorus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_cuckoo",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kuku%C5%82ka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -631,6 +709,8 @@
         "englishName": "Water rail",
         "polishName": "Wodnik (zwyczajny)",
         "latinName": "rallus aquaticus",
+        "englishLink": "https://en.wikipedia.org/wiki/Water_rail",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wodnik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -647,6 +727,8 @@
         "englishName": "Corn crake",
         "polishName": "Derkacz",
         "latinName": "crex crex",
+        "englishLink": "https://en.wikipedia.org/wiki/Corn_crake",
+        "polishLink": "http://pl.wikipedia.org/wiki/Derkacz",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -663,6 +745,8 @@
         "englishName": "Spotted crake",
         "polishName": "Kropiatka",
         "latinName": "porzana porzana",
+        "englishLink": "https://en.wikipedia.org/wiki/Spotted_crake",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kropiatka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -679,6 +763,8 @@
         "englishName": "Little crake",
         "polishName": "Zielonka",
         "latinName": "zapornia parva",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_crake",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zielonka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -695,6 +781,8 @@
         "englishName": "Common moorhen",
         "polishName": "Kokoszka zwyczajna",
         "latinName": "gallinula chloropus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_moorhen",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kokoszka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -711,6 +799,8 @@
         "englishName": "Eurasian coot",
         "polishName": "\u0141yska (zwyczajna)",
         "latinName": "fulica atra",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_coot",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81yska_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -727,6 +817,8 @@
         "englishName": "Common crane",
         "polishName": "\u017buraw (zwyczajny)",
         "latinName": "grus grus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_crane",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%BBuraw_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -743,6 +835,8 @@
         "englishName": "Grey plover",
         "polishName": "Siewnica",
         "latinName": "pluvialis squatarola",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey_plover",
+        "polishLink": "http://pl.wikipedia.org/wiki/Siewnica",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -759,6 +853,8 @@
         "englishName": "European golden plover",
         "polishName": "Siewka z\u0142ota",
         "latinName": "pluvialis apricaria",
+        "englishLink": "https://en.wikipedia.org/wiki/European_golden_plover",
+        "polishLink": "http://pl.wikipedia.org/wiki/Siewka_z%C5%82ota",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -775,6 +871,8 @@
         "englishName": "Common ringed plover",
         "polishName": "Sieweczka obro\u017cna",
         "latinName": "charadrius hiaticula",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_ringed_plover",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sieweczka_obro%C5%BCna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -791,6 +889,8 @@
         "englishName": "Little ringed plover",
         "polishName": "Sieweczka rzeczna",
         "latinName": "charadrius dubius",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_ringed_plover",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sieweczka_rzeczna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -807,6 +907,8 @@
         "englishName": "Northern lapwing",
         "polishName": "Czajka (zwyczajna)",
         "latinName": "vanellus vanellus",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_lapwing",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czajka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -823,6 +925,8 @@
         "englishName": "Black-tailed godwit",
         "polishName": "Rycyk",
         "latinName": "limosa limosa",
+        "englishLink": "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rycyk",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -839,6 +943,8 @@
         "englishName": "Ruddy turnstone",
         "polishName": "Kamusznik (zwyczajny)",
         "latinName": "arenaria interpres",
+        "englishLink": "https://en.wikipedia.org/wiki/Ruddy_turnstone",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kamusznik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -855,6 +961,8 @@
         "englishName": "Curlew sandpiper",
         "polishName": "Biegus krzywodzioby",
         "latinName": "calidris ferruginea",
+        "englishLink": "https://en.wikipedia.org/wiki/Curlew_sandpiper",
+        "polishLink": "http://pl.wikipedia.org/wiki/Biegus_krzywodzioby",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -871,6 +979,8 @@
         "englishName": "Temminck's stint",
         "polishName": "Biegus ma\u0142y",
         "latinName": "calidris temminckii",
+        "englishLink": "https://en.wikipedia.org/wiki/Temminck%27s_stint",
+        "polishLink": "http://pl.wikipedia.org/wiki/Biegus_ma%C5%82y",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -887,6 +997,8 @@
         "englishName": "Sanderling",
         "polishName": "Piaskowiec",
         "latinName": "calidris alba",
+        "englishLink": "https://en.wikipedia.org/wiki/Sanderling",
+        "polishLink": "http://pl.wikipedia.org/wiki/Piaskowiec_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -903,6 +1015,8 @@
         "englishName": "Dunlin",
         "polishName": "Biegus zmienny",
         "latinName": "calidris alpina",
+        "englishLink": "https://en.wikipedia.org/wiki/Dunlin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Biegus_zmienny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -919,6 +1033,8 @@
         "englishName": "Little stint",
         "polishName": "Biegus malutki",
         "latinName": "calidris minuta",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_stint",
+        "polishLink": "http://pl.wikipedia.org/wiki/Biegus_malutki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -935,6 +1051,8 @@
         "englishName": "Eurasian woodcock",
         "polishName": "S\u0142onka (zwyczajna)",
         "latinName": "scolopax rusticola",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_woodcock",
+        "polishLink": "http://pl.wikipedia.org/wiki/S%C5%82onka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -951,6 +1069,8 @@
         "englishName": "Great snipe",
         "polishName": "(Bekas) dubelt",
         "latinName": "gallinago media",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_snipe",
+        "polishLink": "http://pl.wikipedia.org/wiki/(Bekas)_dubelt",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -967,6 +1087,8 @@
         "englishName": "Common snipe",
         "polishName": "(Bekas) kszyk",
         "latinName": "gallinago gallinago",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_snipe",
+        "polishLink": "http://pl.wikipedia.org/wiki/(Bekas)_kszyk",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -983,6 +1105,8 @@
         "englishName": "Jack snipe",
         "polishName": "Bekasik",
         "latinName": "lymnocryptes minimus",
+        "englishLink": "https://en.wikipedia.org/wiki/Jack_snipe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bekasik",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -999,6 +1123,8 @@
         "englishName": "Common sandpiper",
         "polishName": "Brodziec piskliwy",
         "latinName": "actitis hypoleucos",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_sandpiper",
+        "polishLink": "http://pl.wikipedia.org/wiki/Brodziec_piskliwy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1015,6 +1141,8 @@
         "englishName": "Green sandpiper",
         "polishName": "Samotnik",
         "latinName": "tringa ochropus",
+        "englishLink": "https://en.wikipedia.org/wiki/Green_sandpiper",
+        "polishLink": "http://pl.wikipedia.org/wiki/Samotnik_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1031,6 +1159,8 @@
         "englishName": "Spotted redshank",
         "polishName": "Brodziec \u015bniady",
         "latinName": "tringa erythropus",
+        "englishLink": "https://en.wikipedia.org/wiki/Spotted_redshank",
+        "polishLink": "http://pl.wikipedia.org/wiki/Brodziec_%C5%9Bniady",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1047,6 +1177,8 @@
         "englishName": "Common greenshank",
         "polishName": "Kwokacz",
         "latinName": "tringa nebularia",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_greenshank",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kwokacz",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1063,6 +1195,8 @@
         "englishName": "Common redshank",
         "polishName": "Krwawodzi\u00f3b",
         "latinName": "tringa totanus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_redshank",
+        "polishLink": "http://pl.wikipedia.org/wiki/Krwawodzi%C3%B3b",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1079,6 +1213,8 @@
         "englishName": "Red-necked phalarope",
         "polishName": "P\u0142atkon\u00f3g szyd\u0142odzioby",
         "latinName": "phalaropus lobatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Red-necked_phalarope",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82atkon%C3%B3g_szyd%C5%82odzioby",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1095,6 +1231,8 @@
         "englishName": "Black guillemot",
         "polishName": "Nurnik (zwyczajny)",
         "latinName": "cepphus grylle",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_guillemot",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nurnik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1111,6 +1249,8 @@
         "englishName": "Razorbill",
         "polishName": "Alka (zwyczajna)",
         "latinName": "alca torda",
+        "englishLink": "https://en.wikipedia.org/wiki/Razorbill",
+        "polishLink": "http://pl.wikipedia.org/wiki/Alka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1127,6 +1267,8 @@
         "englishName": "Common murre",
         "polishName": "Nurzyk (zwyczajny)",
         "latinName": "uria aalge",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_murre",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nurzyk_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1143,6 +1285,8 @@
         "englishName": "Black-headed gull",
         "polishName": "Mewa \u015bmieszka",
         "latinName": "chroicocephalus ridibundus",
+        "englishLink": "https://en.wikipedia.org/wiki/Black-headed_gull",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mewa_%C5%9Bmieszka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1159,6 +1303,8 @@
         "englishName": "Common gull",
         "polishName": "Mewa siwa",
         "latinName": "larus canus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_gull",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mewa_siwa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1175,6 +1321,8 @@
         "englishName": "Lesser black-backed gull",
         "polishName": "Mewa \u017c\u00f3\u0142tonoga",
         "latinName": "larus fuscus",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_black-backed_gull",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mewa_%C5%BC%C3%B3%C5%82tonoga",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1191,6 +1339,8 @@
         "englishName": "European herring gull",
         "polishName": "Mewa srebrzysta",
         "latinName": "larus argentatus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_herring_gull",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mewa_srebrzysta",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1207,6 +1357,8 @@
         "englishName": "Caspian gull",
         "polishName": "Mewa bia\u0142og\u0142owa",
         "latinName": "larus cachinnans",
+        "englishLink": "https://en.wikipedia.org/wiki/Caspian_gull",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mewa_bia%C5%82og%C5%82owa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1223,6 +1375,8 @@
         "englishName": "Great black-backed gull",
         "polishName": "Mewa siod\u0142ata",
         "latinName": "larus marinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_black-backed_gull",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mewa_siod%C5%82ata",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1239,6 +1393,8 @@
         "englishName": "Caspian tern",
         "polishName": "Rybitwa wielkodzioba",
         "latinName": "hydroprogne caspia",
+        "englishLink": "https://en.wikipedia.org/wiki/Caspian_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_wielkodzioba",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1255,6 +1411,8 @@
         "englishName": "Sandwich tern",
         "polishName": "Rybitwa czubata",
         "latinName": "thalasseus sandvicensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Sandwich_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_czubata",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1271,6 +1429,8 @@
         "englishName": "Common tern",
         "polishName": "Rybitwa rzeczna",
         "latinName": "sterna hirundo",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_rzeczna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1287,6 +1447,8 @@
         "englishName": "Little tern",
         "polishName": "Rybitwa bia\u0142oczelna",
         "latinName": "sternula albifrons",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_bia%C5%82oczelna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1303,6 +1465,8 @@
         "englishName": "Whiskered tern",
         "polishName": "Rybitwa bia\u0142ow\u0105sa",
         "latinName": "chlidonias hybrida",
+        "englishLink": "https://en.wikipedia.org/wiki/Whiskered_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_bia%C5%82ow%C4%85sa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1319,6 +1483,8 @@
         "englishName": "Black tern",
         "polishName": "Rybitwa czarna",
         "latinName": "chlidonias niger",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_czarna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1335,6 +1501,8 @@
         "englishName": "White-winged tern",
         "polishName": "Rybitwa bia\u0142oskrzyd\u0142a",
         "latinName": "chlidonias leucopterus",
+        "englishLink": "https://en.wikipedia.org/wiki/White-winged_tern",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rybitwa_bia%C5%82oskrzyd%C5%82a",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1351,6 +1519,8 @@
         "englishName": "Red-throated loon",
         "polishName": "Nur rdzawoszyi",
         "latinName": "gavia stellata",
+        "englishLink": "https://en.wikipedia.org/wiki/Red-throated_loon",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nur_rdzawoszyi",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1367,6 +1537,8 @@
         "englishName": "Black-throated loon",
         "polishName": "Nur czarnoszyi",
         "latinName": "gavia arctica",
+        "englishLink": "https://en.wikipedia.org/wiki/Black-throated_loon",
+        "polishLink": "http://pl.wikipedia.org/wiki/Nur_czarnoszyi",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1383,6 +1555,8 @@
         "englishName": "Black stork",
         "polishName": "Bocian czarny",
         "latinName": "ciconia nigra",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_stork",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bocian_czarny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1399,6 +1573,8 @@
         "englishName": "White stork",
         "polishName": "Bocian bia\u0142y",
         "latinName": "ciconia ciconia",
+        "englishLink": "https://en.wikipedia.org/wiki/White_stork",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bocian_bia%C5%82y",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1415,6 +1591,8 @@
         "englishName": "Eurasian bittern",
         "polishName": "B\u0105k (zwyczajny)",
         "latinName": "botaurus stellaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_bittern",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C4%85k_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1431,6 +1609,8 @@
         "englishName": "Little bittern",
         "polishName": "B\u0105czek (zwyczajny)",
         "latinName": "botaurus minutus",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_bittern",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C4%85czek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1447,6 +1627,8 @@
         "englishName": "Black-crowned night heron",
         "polishName": "\u015alepowron (zwyczajny)",
         "latinName": "nycticorax nycticorax",
+        "englishLink": "https://en.wikipedia.org/wiki/Black-crowned_night_heron",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Alepowron_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1463,6 +1645,8 @@
         "englishName": "Grey heron",
         "polishName": "Czapla siwa",
         "latinName": "ardea cinerea",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey_heron",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czapla_siwa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1479,6 +1663,8 @@
         "englishName": "Great cormorant",
         "polishName": "Kormoran (zwyczajny)",
         "latinName": "phalacrocorax carbo",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_cormorant",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kormoran_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1495,6 +1681,8 @@
         "englishName": "European honey buzzard",
         "polishName": "Trzmielojad (zwyczajny)",
         "latinName": "pernis apivorus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_honey_buzzard",
+        "polishLink": "http://pl.wikipedia.org/wiki/Trzmielojad_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1511,6 +1699,8 @@
         "englishName": "Lesser spotted eagle",
         "polishName": "Orlik krzykliwy",
         "latinName": "clanga pomarina",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_spotted_eagle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Orlik_krzykliwy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1527,6 +1717,8 @@
         "englishName": "Western marsh harrier",
         "polishName": "B\u0142otniak stawowy",
         "latinName": "circus aeruginosus",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_marsh_harrier",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C5%82otniak_stawowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1543,6 +1735,8 @@
         "englishName": "Hen harrier",
         "polishName": "B\u0142otniak zbo\u017cowy",
         "latinName": "circus cyaneus",
+        "englishLink": "https://en.wikipedia.org/wiki/Hen_harrier",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C5%82otniak_zbo%C5%BCowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1559,6 +1753,8 @@
         "englishName": "Montagu's harrier",
         "polishName": "B\u0142otniak \u0142\u0105kowy",
         "latinName": "circus pygargus",
+        "englishLink": "https://en.wikipedia.org/wiki/Montagu%27s_harrier",
+        "polishLink": "http://pl.wikipedia.org/wiki/B%C5%82otniak_%C5%82%C4%85kowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1575,6 +1771,8 @@
         "englishName": "Eurasian sparrowhawk",
         "polishName": "Krogulec zwyczajny",
         "latinName": "accipiter nisus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_sparrowhawk",
+        "polishLink": "http://pl.wikipedia.org/wiki/Krogulec_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1591,6 +1789,8 @@
         "englishName": "Eurasian goshawk",
         "polishName": "Jastrz\u0105b zwyczajny",
         "latinName": "astur gentilis",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_goshawk",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jastrz%C4%85b_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1607,6 +1807,8 @@
         "englishName": "White-tailed eagle",
         "polishName": "Bielik",
         "latinName": "haliaeetus albicilla",
+        "englishLink": "https://en.wikipedia.org/wiki/White-tailed_eagle",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bielik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1623,6 +1825,8 @@
         "englishName": "Red kite",
         "polishName": "Kania ruda",
         "latinName": "milvus milvus",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_kite",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kania_ruda",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1639,6 +1843,8 @@
         "englishName": "Black kite",
         "polishName": "Kania czarna",
         "latinName": "milvus migrans",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_kite",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kania_czarna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1655,6 +1861,8 @@
         "englishName": "Rough-legged buzzard",
         "polishName": "Myszo\u0142\u00f3w w\u0142ochaty",
         "latinName": "buteo lagopus",
+        "englishLink": "https://en.wikipedia.org/wiki/Rough-legged_buzzard",
+        "polishLink": "http://pl.wikipedia.org/wiki/Myszo%C5%82%C3%B3w_w%C5%82ochaty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1671,6 +1879,8 @@
         "englishName": "Common buzzard",
         "polishName": "Myszo\u0142\u00f3w (zwyczajny)",
         "latinName": "buteo buteo",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_buzzard",
+        "polishLink": "http://pl.wikipedia.org/wiki/Myszo%C5%82%C3%B3w_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1687,6 +1897,8 @@
         "englishName": "Western barn owl",
         "polishName": "P\u0142omyk\u00f3wka (zwyczajna)",
         "latinName": "tyto alba",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_barn_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82omyk%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1703,6 +1915,8 @@
         "englishName": "Eurasian pygmy owl",
         "polishName": "S\u00f3weczka (zwyczajna)",
         "latinName": "glaucidium passerinum",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_pygmy_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/S%C3%B3weczka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1719,6 +1933,8 @@
         "englishName": "Little owl",
         "polishName": "P\u00f3jd\u017aka (zwyczajna)",
         "latinName": "athene noctua",
+        "englishLink": "https://en.wikipedia.org/wiki/Little_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C3%B3jd%C5%BAka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1735,6 +1951,8 @@
         "englishName": "Boreal owl",
         "polishName": "W\u0142ochatka (zwyczajna)",
         "latinName": "aegolius funereus",
+        "englishLink": "https://en.wikipedia.org/wiki/Boreal_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/W%C5%82ochatka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1751,6 +1969,8 @@
         "englishName": "Long-eared owl",
         "polishName": "Uszatka (zwyczajna)",
         "latinName": "asio otus",
+        "englishLink": "https://en.wikipedia.org/wiki/Long-eared_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/Uszatka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1767,6 +1987,8 @@
         "englishName": "Tawny owl",
         "polishName": "Puszczyk",
         "latinName": "strix aluco",
+        "englishLink": "https://en.wikipedia.org/wiki/Tawny_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/Puszczyk_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1783,6 +2005,8 @@
         "englishName": "Ural owl",
         "polishName": "Puszczyk uralski",
         "latinName": "strix uralensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Ural_owl",
+        "polishLink": "http://pl.wikipedia.org/wiki/Puszczyk_uralski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1799,6 +2023,8 @@
         "englishName": "Eurasian hoopoe",
         "polishName": "Dudek",
         "latinName": "upupa epops",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_hoopoe",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dudek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1815,6 +2041,8 @@
         "englishName": "Eurasian wryneck",
         "polishName": "Kr\u0119tog\u0142\u00f3w (zwyczajny)",
         "latinName": "jynx torquilla",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_wryneck",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kr%C4%99tog%C5%82%C3%B3w_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1831,6 +2059,8 @@
         "englishName": "Grey-headed woodpecker",
         "polishName": "Dzi\u0119cio\u0142 zielonosiwy",
         "latinName": "picus canus",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey-headed_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_zielonosiwy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1847,6 +2077,8 @@
         "englishName": "European green woodpecker",
         "polishName": "Dzi\u0119cio\u0142 zielony",
         "latinName": "picus viridis",
+        "englishLink": "https://en.wikipedia.org/wiki/European_green_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_zielony",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1863,6 +2095,8 @@
         "englishName": "Black woodpecker",
         "polishName": "Dzi\u0119cio\u0142 czarny",
         "latinName": "dryocopus martius",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_czarny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1879,6 +2113,8 @@
         "englishName": "Middle spotted woodpecker",
         "polishName": "Dzi\u0119cio\u0142 \u015bredni",
         "latinName": "dendrocoptes medius",
+        "englishLink": "https://en.wikipedia.org/wiki/Middle_spotted_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_%C5%9Bredni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1895,6 +2131,8 @@
         "englishName": "Lesser spotted woodpecker",
         "polishName": "Dzi\u0119cio\u0142ek",
         "latinName": "dryobates minor",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_spotted_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82ek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1911,6 +2149,8 @@
         "englishName": "Great spotted woodpecker",
         "polishName": "Dzi\u0119cio\u0142 du\u017cy",
         "latinName": "dendrocopos major",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_spotted_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_du%C5%BCy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1927,6 +2167,8 @@
         "englishName": "Syrian woodpecker",
         "polishName": "Dzi\u0119cio\u0142 bia\u0142oszyi",
         "latinName": "dendrocopos syriacus",
+        "englishLink": "https://en.wikipedia.org/wiki/Syrian_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_bia%C5%82oszyi",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1943,6 +2185,8 @@
         "englishName": "White-backed woodpecker",
         "polishName": "Dzi\u0119cio\u0142 bia\u0142ogrzbiety",
         "latinName": "dendrocopos leucotos",
+        "englishLink": "https://en.wikipedia.org/wiki/White-backed_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_bia%C5%82ogrzbiety",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1959,6 +2203,8 @@
         "englishName": "Eurasian three-toed woodpecker",
         "polishName": "Dzi\u0119cio\u0142 tr\u00f3jpalczasty",
         "latinName": "picoides tridactylus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_three-toed_woodpecker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzi%C4%99cio%C5%82_tr%C3%B3jpalczasty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1975,6 +2221,8 @@
         "englishName": "European bee-eater",
         "polishName": "\u017bo\u0142na (zwyczajna)",
         "latinName": "merops apiaster",
+        "englishLink": "https://en.wikipedia.org/wiki/European_bee-eater",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%BBo%C5%82na_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -1991,6 +2239,8 @@
         "englishName": "Common kingfisher",
         "polishName": "Zimorodek zwyczajny",
         "latinName": "alcedo atthis",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_kingfisher",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zimorodek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2008,6 +2258,8 @@
         "englishName": "Common kestrel",
         "polishName": "Pustu\u0142ka (zwyczajna)",
         "latinName": "falco tinnunculus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_kestrel",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pustu%C5%82ka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2024,6 +2276,8 @@
         "englishName": "Eurasian hobby",
         "polishName": "Kobuz",
         "latinName": "falco subbuteo",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_hobby",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kobuz",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2040,6 +2294,8 @@
         "englishName": "Lanner falcon",
         "polishName": "Rar\u00f3g g\u00f3rski",
         "latinName": "falco biarmicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Lanner_falcon",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rar%C3%B3g_g%C3%B3rski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2057,6 +2313,8 @@
         "englishName": "Eurasian golden oriole",
         "polishName": "Wilga (zwyczajna)",
         "latinName": "oriolus oriolus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_golden_oriole",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wilga_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2073,6 +2331,8 @@
         "englishName": "Red-backed shrike",
         "polishName": "G\u0105siorek",
         "latinName": "lanius collurio",
+        "englishLink": "https://en.wikipedia.org/wiki/Red-backed_shrike",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C4%85siorek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2089,6 +2349,8 @@
         "englishName": "Great grey shrike",
         "polishName": "Srokosz",
         "latinName": "lanius excubitor",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_grey_shrike",
+        "polishLink": "http://pl.wikipedia.org/wiki/Srokosz",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2105,6 +2367,8 @@
         "englishName": "Eurasian jay",
         "polishName": "S\u00f3jka (zwyczajna)",
         "latinName": "garrulus glandarius",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_jay",
+        "polishLink": "http://pl.wikipedia.org/wiki/S%C3%B3jka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2121,6 +2385,8 @@
         "englishName": "Eurasian magpie",
         "polishName": "Sroka (zwyczajna)",
         "latinName": "pica pica",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_magpie",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sroka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2137,6 +2403,8 @@
         "englishName": "Northern nutcracker",
         "polishName": "Orzech\u00f3wka (zwyczajna)",
         "latinName": "nucifraga caryocatactes",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_nutcracker",
+        "polishLink": "http://pl.wikipedia.org/wiki/Orzech%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2153,6 +2421,8 @@
         "englishName": "Western jackdaw",
         "polishName": "Kawka (zwyczajna)",
         "latinName": "coloeus monedula",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_jackdaw",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kawka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2169,6 +2439,8 @@
         "englishName": "Rook",
         "polishName": "Gawron",
         "latinName": "corvus frugilegus",
+        "englishLink": "https://en.wikipedia.org/wiki/Rook_(bird)",
+        "polishLink": "http://pl.wikipedia.org/wiki/Gawron",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2185,6 +2457,8 @@
         "englishName": "Common raven",
         "polishName": "Kruk zwyczajny",
         "latinName": "corvus corax",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_raven",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kruk_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2201,6 +2475,8 @@
         "englishName": "Hooded crow",
         "polishName": "Wrona siwa",
         "latinName": "corvus cornix",
+        "englishLink": "https://en.wikipedia.org/wiki/Hooded_crow",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wrona_siwa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2217,6 +2493,8 @@
         "englishName": "Coal tit",
         "polishName": "Sosn\u00f3wka",
         "latinName": "periparus ater",
+        "englishLink": "https://en.wikipedia.org/wiki/Coal_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sosn%C3%B3wka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2233,6 +2511,8 @@
         "englishName": "Crested tit",
         "polishName": "Czubatka europejska",
         "latinName": "lophophanes cristatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Crested_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czubatka_europejska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2249,6 +2529,8 @@
         "englishName": "Marsh tit",
         "polishName": "Sikora uboga",
         "latinName": "poecile palustris",
+        "englishLink": "https://en.wikipedia.org/wiki/Marsh_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Sikora_uboga",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2265,6 +2547,8 @@
         "englishName": "Willow tit",
         "polishName": "Czarnog\u0142\u00f3wka",
         "latinName": "poecile montanus",
+        "englishLink": "https://en.wikipedia.org/wiki/Willow_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czarnog%C5%82%C3%B3wka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2281,6 +2565,8 @@
         "englishName": "Eurasian blue tit",
         "polishName": "Modraszka (zwyczajna)",
         "latinName": "cyanistes caeruleus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_blue_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Modraszka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2297,6 +2583,8 @@
         "englishName": "Great tit",
         "polishName": "Bogatka (zwyczajna)",
         "latinName": "parus major",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bogatka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2313,6 +2601,8 @@
         "englishName": "Eurasian penduline tit",
         "polishName": "Remiz (zwyczajny)",
         "latinName": "remiz pendulinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_penduline_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Remiz_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2329,6 +2619,8 @@
         "englishName": "Woodlark",
         "polishName": "Lerka",
         "latinName": "lullula arborea",
+        "englishLink": "https://en.wikipedia.org/wiki/Woodlark",
+        "polishLink": "http://pl.wikipedia.org/wiki/Lerka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2345,6 +2637,8 @@
         "englishName": "Eurasian skylark",
         "polishName": "Skowronek (zwyczajny)",
         "latinName": "alauda arvensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_skylark",
+        "polishLink": "http://pl.wikipedia.org/wiki/Skowronek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2361,6 +2655,8 @@
         "englishName": "Crested lark",
         "polishName": "Dzierlatka (zwyczajna)",
         "latinName": "galerida cristata",
+        "englishLink": "https://en.wikipedia.org/wiki/Crested_lark",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzierlatka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2377,6 +2673,8 @@
         "englishName": "Horned lark",
         "polishName": "G\u00f3rniczek (zwyczajny)",
         "latinName": "eremophila alpestris",
+        "englishLink": "https://en.wikipedia.org/wiki/Horned_lark",
+        "polishLink": "http://pl.wikipedia.org/wiki/G%C3%B3rniczek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2393,6 +2691,8 @@
         "englishName": "Bearded reedling",
         "polishName": "W\u0105satka",
         "latinName": "panurus biarmicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Bearded_reedling",
+        "polishLink": "http://pl.wikipedia.org/wiki/W%C4%85satka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2409,6 +2709,8 @@
         "englishName": "Savi's warbler",
         "polishName": "Brz\u0119czka",
         "latinName": "locustella luscinioides",
+        "englishLink": "https://en.wikipedia.org/wiki/Savi%27s_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Brz%C4%99czka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2425,6 +2727,8 @@
         "englishName": "River warbler",
         "polishName": "Strumieni\u00f3wka",
         "latinName": "locustella fluviatilis",
+        "englishLink": "https://en.wikipedia.org/wiki/River_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Strumieni%C3%B3wka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2441,6 +2745,8 @@
         "englishName": "Common grasshopper warbler",
         "polishName": "\u015awierszczak (zwyczajny)",
         "latinName": "locustella naevia",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_grasshopper_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Awierszczak_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2457,6 +2763,8 @@
         "englishName": "Icterine warbler",
         "polishName": "Zaganiacz (zwyczajny)",
         "latinName": "hippolais icterina",
+        "englishLink": "https://en.wikipedia.org/wiki/Icterine_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zaganiacz_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2473,6 +2781,8 @@
         "englishName": "Aquatic warbler",
         "polishName": "Wodniczka",
         "latinName": "acrocephalus paludicola",
+        "englishLink": "https://en.wikipedia.org/wiki/Aquatic_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wodniczka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2489,6 +2799,8 @@
         "englishName": "Sedge warbler",
         "polishName": "Rokitniczka",
         "latinName": "acrocephalus schoenobaenus",
+        "englishLink": "https://en.wikipedia.org/wiki/Sedge_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rokitniczka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2505,6 +2817,8 @@
         "englishName": "Marsh warbler",
         "polishName": "\u0141oz\u00f3wka",
         "latinName": "acrocephalus palustris",
+        "englishLink": "https://en.wikipedia.org/wiki/Marsh_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%81oz%C3%B3wka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2521,6 +2835,8 @@
         "englishName": "Common reed warbler",
         "polishName": "Trzcinniczek (zwyczajny)",
         "latinName": "acrocephalus scirpaceus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_reed_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Trzcinniczek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2537,6 +2853,8 @@
         "englishName": "Great reed warbler",
         "polishName": "Trzciniak (zwyczajny)",
         "latinName": "acrocephalus arundinaceus",
+        "englishLink": "https://en.wikipedia.org/wiki/Great_reed_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Trzciniak_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2553,6 +2871,8 @@
         "englishName": "Western house martin",
         "polishName": "Okn\u00f3wka zwyczajna",
         "latinName": "delichon urbicum",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_house_martin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Okn%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2569,6 +2889,8 @@
         "englishName": "Barn swallow",
         "polishName": "Dym\u00f3wka",
         "latinName": "hirundo rustica",
+        "englishLink": "https://en.wikipedia.org/wiki/Barn_swallow",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dym%C3%B3wka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2585,6 +2907,8 @@
         "englishName": "Sand martin / Bank swallow",
         "polishName": "Brzeg\u00f3wka (zwyczajna)",
         "latinName": "riparia riparia",
+        "englishLink": "https://en.wikipedia.org/wiki/Sand_martin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Brzeg%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2601,6 +2925,8 @@
         "englishName": "Wood warbler",
         "polishName": "\u015awistunka le\u015bna",
         "latinName": "phylloscopus sibilatrix",
+        "englishLink": "https://en.wikipedia.org/wiki/Wood_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Awistunka_le%C5%9Bna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2617,6 +2943,8 @@
         "englishName": "Willow warbler",
         "polishName": "Piecuszek",
         "latinName": "phylloscopus trochilus",
+        "englishLink": "https://en.wikipedia.org/wiki/Willow_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Piecuszek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2633,6 +2961,8 @@
         "englishName": "Common chiffchaff",
         "polishName": "Pierwiosnek",
         "latinName": "phylloscopus collybita",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_chiffchaff",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pierwiosnek_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2649,6 +2979,8 @@
         "englishName": "Long-tailed tit",
         "polishName": "Raniuszek (zwyczajny)",
         "latinName": "aegithalos caudatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Long-tailed_tit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Raniuszek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2665,6 +2997,8 @@
         "englishName": "Eurasian blackcap",
         "polishName": "Kapturka",
         "latinName": "sylvia atricapilla",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kapturka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2681,6 +3015,8 @@
         "englishName": "Garden warbler",
         "polishName": "Gaj\u00f3wka",
         "latinName": "sylvia borin",
+        "englishLink": "https://en.wikipedia.org/wiki/Garden_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Gaj%C3%B3wka_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2697,6 +3033,8 @@
         "englishName": "Barred warbler",
         "polishName": "Jarz\u0119batka",
         "latinName": "curruca nisoria",
+        "englishLink": "https://en.wikipedia.org/wiki/Barred_warbler",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jarz%C4%99batka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2713,6 +3051,8 @@
         "englishName": "Lesser whitethroat",
         "polishName": "Pieg\u017ca",
         "latinName": "curruca curruca",
+        "englishLink": "https://en.wikipedia.org/wiki/Lesser_whitethroat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pieg%C5%BCa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2729,6 +3069,8 @@
         "englishName": "Common whitethroat",
         "polishName": "Cierni\u00f3wka",
         "latinName": "curruca communis",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_whitethroat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Cierni%C3%B3wka",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2745,6 +3087,8 @@
         "englishName": "Goldcrest",
         "polishName": "Mysikr\u00f3lik (zwyczajny)",
         "latinName": "regulus regulus",
+        "englishLink": "https://en.wikipedia.org/wiki/Goldcrest",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mysikr%C3%B3lik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2761,6 +3105,8 @@
         "englishName": "Common firecrest",
         "polishName": "Zniczek (zwyczajny)",
         "latinName": "regulus ignicapilla",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_firecrest",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zniczek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2777,6 +3123,8 @@
         "englishName": "Bohemian waxwing",
         "polishName": "Jemio\u0142uszka (zwyczajna)",
         "latinName": "bombycilla garrulus",
+        "englishLink": "https://en.wikipedia.org/wiki/Bohemian_waxwing",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jemio%C5%82uszka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2786,13 +3134,15 @@
             "family": "bombycillidae",
             "genus": "bombycilla"
         },
-        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bombycilla_garrulusII.jpg/600px-Bombycilla_garrulusII.jpg",
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bombycilla_garrulus%2C_Novosibirsk_1.jpg/800px-Bombycilla_garrulus%2C_Novosibirsk_1.jpg",
         "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/Bombycilla_garrulus_-_Bohemian_Waxwing_XC132884.ogg/Bombycilla_garrulus_-_Bohemian_Waxwing_XC132884.ogg.mp3"
     },
     {
         "englishName": "Eurasian nuthatch",
         "polishName": "Kowalik (zwyczajny)",
         "latinName": "sitta europaea",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_nuthatch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kowalik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2809,6 +3159,8 @@
         "englishName": "Eurasian treecreeper",
         "polishName": "Pe\u0142zacz le\u015bny",
         "latinName": "certhia familiaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_treecreeper",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pe%C5%82zacz_le%C5%9Bny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2825,6 +3177,8 @@
         "englishName": "Short-toed treecreeper",
         "polishName": "Pe\u0142zacz ogrodowy",
         "latinName": "certhia brachydactyla",
+        "englishLink": "https://en.wikipedia.org/wiki/Short-toed_treecreeper",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pe%C5%82zacz_ogrodowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2841,6 +3195,8 @@
         "englishName": "Eurasian wren",
         "polishName": "Strzy\u017cyk zwyczajny",
         "latinName": "troglodytes troglodytes",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_wren",
+        "polishLink": "http://pl.wikipedia.org/wiki/Strzy%C5%BCyk",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2857,6 +3213,8 @@
         "englishName": "Common starling",
         "polishName": "Szpak zwyczajny",
         "latinName": "sturnus vulgaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_starling",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szpak_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2873,6 +3231,8 @@
         "englishName": "White-throated dipper",
         "polishName": "Pluszcz (zwyczajny)",
         "latinName": "cinclus cinclus",
+        "englishLink": "https://en.wikipedia.org/wiki/White-throated_dipper",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pluszcz_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2889,6 +3249,8 @@
         "englishName": "Spotted flycatcher",
         "polishName": "Mucho\u0142\u00f3wka szara",
         "latinName": "muscicapa striata",
+        "englishLink": "https://en.wikipedia.org/wiki/Spotted_flycatcher",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mucho%C5%82%C3%B3wka_szara",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2905,6 +3267,8 @@
         "englishName": "European robin",
         "polishName": "Rudzik",
         "latinName": "erithacus rubecula",
+        "englishLink": "https://en.wikipedia.org/wiki/European_robin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rudzik_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2921,6 +3285,8 @@
         "englishName": "Common nightingale",
         "polishName": "S\u0142owik rdzawy",
         "latinName": "luscinia megarhynchos",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_nightingale",
+        "polishLink": "http://pl.wikipedia.org/wiki/S%C5%82owik_rdzawy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2937,6 +3303,8 @@
         "englishName": "Thrush nightingale",
         "polishName": "S\u0142owik szary",
         "latinName": "luscinia luscinia",
+        "englishLink": "https://en.wikipedia.org/wiki/Thrush_nightingale",
+        "polishLink": "http://pl.wikipedia.org/wiki/S%C5%82owik_szary",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2953,6 +3321,8 @@
         "englishName": "Bluethroat",
         "polishName": "Podr\u00f3\u017cniczek",
         "latinName": "luscinia svecica",
+        "englishLink": "https://en.wikipedia.org/wiki/Bluethroat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Podr%C3%B3%C5%BCniczek",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2969,6 +3339,8 @@
         "englishName": "Red-breasted flycatcher",
         "polishName": "Mucho\u0142\u00f3wka ma\u0142a",
         "latinName": "ficedula parva",
+        "englishLink": "https://en.wikipedia.org/wiki/Red-breasted_flycatcher",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mucho%C5%82%C3%B3wka_ma%C5%82a",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -2985,6 +3357,8 @@
         "englishName": "European pied flycatcher",
         "polishName": "Mucho\u0142\u00f3wka \u017ca\u0142obna",
         "latinName": "ficedula hypoleuca",
+        "englishLink": "https://en.wikipedia.org/wiki/European_pied_flycatcher",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mucho%C5%82%C3%B3wka_%C5%BCa%C5%82obna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3001,6 +3375,8 @@
         "englishName": "Collared flycatcher",
         "polishName": "Mucho\u0142\u00f3wka bia\u0142oszyja",
         "latinName": "ficedula albicollis",
+        "englishLink": "https://en.wikipedia.org/wiki/Collared_flycatcher",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mucho%C5%82%C3%B3wka_bia%C5%82oszyja",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3017,6 +3393,8 @@
         "englishName": "Common redstart",
         "polishName": "Pleszka (zwyczajna)",
         "latinName": "phoenicurus phoenicurus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_redstart",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pleszka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3033,6 +3411,8 @@
         "englishName": "Black redstart",
         "polishName": "Kopciuszek (zwyczajny)",
         "latinName": "phoenicurus ochruros",
+        "englishLink": "https://en.wikipedia.org/wiki/Black_redstart",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kopciuszek_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3049,6 +3429,8 @@
         "englishName": "Whinchat",
         "polishName": "Pokl\u0105skwa",
         "latinName": "saxicola rubetra",
+        "englishLink": "https://en.wikipedia.org/wiki/Whinchat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pokl%C4%85skwa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3065,6 +3447,8 @@
         "englishName": "European stonechat",
         "polishName": "Kl\u0105skawka (zwyczajna)",
         "latinName": "saxicola rubicola",
+        "englishLink": "https://en.wikipedia.org/wiki/European_stonechat",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kl%C4%85skawka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3081,6 +3465,8 @@
         "englishName": "Northern wheatear",
         "polishName": "Bia\u0142orzytka zwyczajna",
         "latinName": "oenanthe oenanthe",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_wheatear",
+        "polishLink": "http://pl.wikipedia.org/wiki/Bia%C5%82orzytka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3097,6 +3483,8 @@
         "englishName": "Mistle thrush",
         "polishName": "Paszkot",
         "latinName": "turdus viscivorus",
+        "englishLink": "https://en.wikipedia.org/wiki/Mistle_thrush",
+        "polishLink": "http://pl.wikipedia.org/wiki/Paszkot",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3106,13 +3494,15 @@
             "family": "turdidae",
             "genus": "turdus"
         },
-        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turdus_viscivorus_in_Baikonur-town_001.jpg/800px-Turdus_viscivorus_in_Baikonur-town_001.jpg",
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Turdus_viscivorus.001_-_Cardiff.jpg/800px-Turdus_viscivorus.001_-_Cardiff.jpg",
         "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/17/Mistle_Thrush_%28Turdus_viscivorus%29_%28W1CDR0000636_BD11%29.ogg/Mistle_Thrush_%28Turdus_viscivorus%29_%28W1CDR0000636_BD11%29.ogg.mp3"
     },
     {
         "englishName": "Song thrush",
         "polishName": "Drozd \u015bpiewak",
         "latinName": "turdus philomelos",
+        "englishLink": "https://en.wikipedia.org/wiki/Song_thrush",
+        "polishLink": "http://pl.wikipedia.org/wiki/Drozd_%C5%9Bpiewak",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3129,6 +3519,8 @@
         "englishName": "Redwing",
         "polishName": "Dro\u017adzik",
         "latinName": "turdus iliacus",
+        "englishLink": "https://en.wikipedia.org/wiki/Redwing",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dro%C5%BAdzik",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3145,6 +3537,8 @@
         "englishName": "Common blackbird",
         "polishName": "Kos",
         "latinName": "turdus merula",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_blackbird",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kos_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3161,6 +3555,8 @@
         "englishName": "Fieldfare",
         "polishName": "Kwiczo\u0142",
         "latinName": "turdus pilaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Fieldfare",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kwiczo%C5%82",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3177,6 +3573,8 @@
         "englishName": "Ring ouzel",
         "polishName": "Drozd obro\u017cny",
         "latinName": "turdus torquatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Ring_ouzel",
+        "polishLink": "http://pl.wikipedia.org/wiki/Drozd_obro%C5%BCny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3193,6 +3591,8 @@
         "englishName": "Alpine accentor",
         "polishName": "P\u0142ochacz halny",
         "latinName": "prunella collaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Alpine_accentor",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82ochacz_halny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3209,6 +3609,8 @@
         "englishName": "Dunnock",
         "polishName": "P\u0142ochacz pokrzywnica",
         "latinName": "prunella modularis",
+        "englishLink": "https://en.wikipedia.org/wiki/Dunnock",
+        "polishLink": "http://pl.wikipedia.org/wiki/P%C5%82ochacz_pokrzywnica",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3225,6 +3627,8 @@
         "englishName": "House sparrow",
         "polishName": "Wr\u00f3bel (zwyczajny)",
         "latinName": "passer domesticus",
+        "englishLink": "https://en.wikipedia.org/wiki/House_sparrow",
+        "polishLink": "http://pl.wikipedia.org/wiki/Wr%C3%B3bel_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3241,6 +3645,8 @@
         "englishName": "Eurasian tree sparrow",
         "polishName": "Mazurek",
         "latinName": "passer montanus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_tree_sparrow",
+        "polishLink": "http://pl.wikipedia.org/wiki/Mazurek_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3257,6 +3663,8 @@
         "englishName": "Tree pipit",
         "polishName": "\u015awiergotek drzewny",
         "latinName": "anthus trivialis",
+        "englishLink": "https://en.wikipedia.org/wiki/Tree_pipit",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Awiergotek_drzewny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3273,6 +3681,8 @@
         "englishName": "Meadow pipit",
         "polishName": "\u015awiergotek \u0142\u0105kowy",
         "latinName": "anthus pratensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Meadow_pipit",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Awiergotek_%C5%82%C4%85kowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3289,6 +3699,8 @@
         "englishName": "Water pipit",
         "polishName": "Siwerniak",
         "latinName": "anthus spinoletta",
+        "englishLink": "https://en.wikipedia.org/wiki/Water_pipit",
+        "polishLink": "http://pl.wikipedia.org/wiki/Siwerniak",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3305,6 +3717,8 @@
         "englishName": "European rock pipit",
         "polishName": "\u015awiergotek nadmorski",
         "latinName": "anthus petrosus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_rock_pipit",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Awiergotek_nadmorski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3321,6 +3735,8 @@
         "englishName": "Tawny pipit",
         "polishName": "\u015awiergotek polny",
         "latinName": "anthus campestris",
+        "englishLink": "https://en.wikipedia.org/wiki/Tawny_pipit",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Awiergotek_polny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3337,6 +3753,8 @@
         "englishName": "Western yellow wagtail",
         "polishName": "Pliszka \u017c\u00f3\u0142ta",
         "latinName": "motacilla flava",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_yellow_wagtail",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pliszka_%C5%BC%C3%B3%C5%82ta",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3353,6 +3771,8 @@
         "englishName": "Grey wagtail",
         "polishName": "Pliszka g\u00f3rska",
         "latinName": "motacilla cinerea",
+        "englishLink": "https://en.wikipedia.org/wiki/Grey_wagtail",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pliszka_g%C3%B3rska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3369,6 +3789,8 @@
         "englishName": "White wagtail",
         "polishName": "Pliszka siwa",
         "latinName": "motacilla alba",
+        "englishLink": "https://en.wikipedia.org/wiki/White_wagtail",
+        "polishLink": "http://pl.wikipedia.org/wiki/Pliszka_siwa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3385,6 +3807,8 @@
         "englishName": "Common chaffinch",
         "polishName": "Zi\u0119ba (zwyczajna)",
         "latinName": "fringilla coelebs",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_chaffinch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Zi%C4%99ba_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3402,6 +3826,8 @@
         "englishName": "Brambling",
         "polishName": "Jer",
         "latinName": "fringilla montifringilla",
+        "englishLink": "https://en.wikipedia.org/wiki/Brambling",
+        "polishLink": "http://pl.wikipedia.org/wiki/Jer_(ptak)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3419,6 +3845,8 @@
         "englishName": "Hawfinch",
         "polishName": "Grubodzi\u00f3b (zwyczajny)",
         "latinName": "coccothraustes coccothraustes",
+        "englishLink": "https://en.wikipedia.org/wiki/Hawfinch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Grubodzi%C3%B3b_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3436,6 +3864,8 @@
         "englishName": "Common rosefinch",
         "polishName": "Dziwonia (zwyczajna)",
         "latinName": "carpodacus erythrinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_rosefinch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dziwonia_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3453,6 +3883,8 @@
         "englishName": "Eurasian bullfinch",
         "polishName": "Gil zwyczajny",
         "latinName": "pyrrhula pyrrhula",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_bullfinch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Gil_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3470,6 +3902,8 @@
         "englishName": "European greenfinch",
         "polishName": "Dzwoniec (zwyczajny)",
         "latinName": "chloris chloris",
+        "englishLink": "https://en.wikipedia.org/wiki/European_greenfinch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Dzwoniec_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3487,6 +3921,8 @@
         "englishName": "Common linnet",
         "polishName": "Makol\u0105gwa (zwyczajna)",
         "latinName": "linaria cannabina",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_linnet",
+        "polishLink": "http://pl.wikipedia.org/wiki/Makol%C4%85gwa_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3504,6 +3940,8 @@
         "englishName": "Twite",
         "polishName": "Rzepo\u0142uch",
         "latinName": "linaria flavirostris",
+        "englishLink": "https://en.wikipedia.org/wiki/Twite",
+        "polishLink": "http://pl.wikipedia.org/wiki/Rzepo%C5%82uch",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3521,6 +3959,8 @@
         "englishName": "Redpoll",
         "polishName": "Czeczotka (zwyczajna)",
         "latinName": "acanthis flammea",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_redpoll",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czeczotka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3538,6 +3978,8 @@
         "englishName": "Red crossbill",
         "polishName": "Krzy\u017codzi\u00f3b \u015bwierkowy",
         "latinName": "loxia curvirostra",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_crossbill",
+        "polishLink": "http://pl.wikipedia.org/wiki/Krzy%C5%BCodzi%C3%B3b_%C5%9Bwierkowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3555,6 +3997,8 @@
         "englishName": "European goldfinch",
         "polishName": "Szczygie\u0142",
         "latinName": "carduelis carduelis",
+        "englishLink": "https://en.wikipedia.org/wiki/European_goldfinch",
+        "polishLink": "http://pl.wikipedia.org/wiki/Szczygie%C5%82",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3572,6 +4016,8 @@
         "englishName": "European serin",
         "polishName": "Kulczyk (zwyczajny)",
         "latinName": "serinus serinus",
+        "englishLink": "https://en.wikipedia.org/wiki/European_serin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Kulczyk_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3589,6 +4035,8 @@
         "englishName": "Eurasian siskin",
         "polishName": "Czy\u017c (zwyczajny)",
         "latinName": "spinus spinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Eurasian_siskin",
+        "polishLink": "http://pl.wikipedia.org/wiki/Czy%C5%BC_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3606,6 +4054,8 @@
         "englishName": "Lapland longspur",
         "polishName": "Po\u015bwierka (zwyczajna)",
         "latinName": "calcarius lapponicus",
+        "englishLink": "https://en.wikipedia.org/wiki/Lapland_longspur",
+        "polishLink": "http://pl.wikipedia.org/wiki/Po%C5%9Bwierka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3622,6 +4072,8 @@
         "englishName": "Snow bunting",
         "polishName": "\u015aniegu\u0142a (zwyczajna)",
         "latinName": "plectrophenax nivalis",
+        "englishLink": "https://en.wikipedia.org/wiki/Snow_bunting",
+        "polishLink": "http://pl.wikipedia.org/wiki/%C5%9Aniegu%C5%82a_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3638,6 +4090,8 @@
         "englishName": "Corn bunting",
         "polishName": "Potrzeszcz",
         "latinName": "emberiza calandra",
+        "englishLink": "https://en.wikipedia.org/wiki/Corn_bunting",
+        "polishLink": "http://pl.wikipedia.org/wiki/Potrzeszcz",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3654,6 +4108,8 @@
         "englishName": "Yellowhammer",
         "polishName": "Trznadel zwyczajny",
         "latinName": "emberiza citrinella",
+        "englishLink": "https://en.wikipedia.org/wiki/Yellowhammer",
+        "polishLink": "http://pl.wikipedia.org/wiki/Trznadel_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3670,6 +4126,8 @@
         "englishName": "Ortolan bunting",
         "polishName": "Ortolan",
         "latinName": "emberiza hortulana",
+        "englishLink": "https://en.wikipedia.org/wiki/Ortolan_bunting",
+        "polishLink": "http://pl.wikipedia.org/wiki/Ortolan",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3686,6 +4144,8 @@
         "englishName": "Common reed bunting",
         "polishName": "Potrzos (zwyczajny)",
         "latinName": "emberiza schoeniclus",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_reed_bunting",
+        "polishLink": "http://pl.wikipedia.org/wiki/Potrzos_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3702,6 +4162,8 @@
         "englishName": "Brant",
         "polishName": "Bernikla obro\u017cna",
         "latinName": "branta bernicla",
+        "englishLink": "http://en.wikipedia.org/wiki/Brant_goose",
+        "polishLink": "https://pl.wikipedia.org/wiki/Bernikla_obro%C5%BCna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3718,6 +4180,8 @@
         "englishName": "Pink-footed goose",
         "polishName": "G\u0119\u015b kr\u00f3tkodzioba",
         "latinName": "anser brachyrhynchus",
+        "englishLink": "http://en.wikipedia.org/wiki/Pink-footed_goose",
+        "polishLink": "https://pl.wikipedia.org/wiki/G%C4%99%C5%9B_kr%C3%B3tkodzioba",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3734,6 +4198,8 @@
         "englishName": "Common shelduck",
         "polishName": "Ohar",
         "latinName": "tadorna tadorna",
+        "englishLink": "http://en.wikipedia.org/wiki/Common_shelduck",
+        "polishLink": "https://pl.wikipedia.org/wiki/Ohar",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3750,6 +4216,8 @@
         "englishName": "Eurasian wigeon",
         "polishName": "\u015awistun zwyczajny",
         "latinName": "mareca penelope",
+        "englishLink": "http://en.wikipedia.org/wiki/Eurasian_wigeon",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%9Awistun_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3766,6 +4234,8 @@
         "englishName": "Northern pintail",
         "polishName": "Ro\u017ceniec zwyczajny",
         "latinName": "anas acuta",
+        "englishLink": "http://en.wikipedia.org/wiki/Northern_pintail",
+        "polishLink": "https://pl.wikipedia.org/wiki/Ro%C5%BCeniec_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3782,6 +4252,8 @@
         "englishName": "Rock ptarmigan",
         "polishName": "Pardwa g\u00f3rska",
         "latinName": "lagopus muta",
+        "englishLink": "http://en.wikipedia.org/wiki/Rock_ptarmigan",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pardwa_g%C3%B3rska",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3798,6 +4270,8 @@
         "englishName": "Eurasian oystercatcher",
         "polishName": "Ostrygojad (zwyczajny)",
         "latinName": "haematopus ostralegus",
+        "englishLink": "http://en.wikipedia.org/wiki/Eurasian_oystercatcher",
+        "polishLink": "https://pl.wikipedia.org/wiki/Ostrygojad_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3814,6 +4288,8 @@
         "englishName": "Pied avocet",
         "polishName": "Szablodzi\u00f3b (zwyczajny)",
         "latinName": "recurvirostra avosetta",
+        "englishLink": "http://en.wikipedia.org/wiki/Pied_avocet",
+        "polishLink": "https://pl.wikipedia.org/wiki/Szablodzi%C3%B3b_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3830,6 +4306,8 @@
         "englishName": "Eurasian dotterel",
         "polishName": "Mornel",
         "latinName": "eudromias morinellus",
+        "englishLink": "http://en.wikipedia.org/wiki/Eurasian_dotterel",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mornel",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3846,6 +4324,8 @@
         "englishName": "Eurasian curlew",
         "polishName": "Kulik wielki",
         "latinName": "numenius arquata",
+        "englishLink": "http://en.wikipedia.org/wiki/Eurasian_curlew",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kulik_wielki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3862,6 +4342,8 @@
         "englishName": "Bar-tailed godwit",
         "polishName": "Szlamnik (zwyczajny)",
         "latinName": "limosa lapponica",
+        "englishLink": "http://en.wikipedia.org/wiki/Bar-tailed_godwit",
+        "polishLink": "https://pl.wikipedia.org/wiki/Szlamnik_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3878,6 +4360,8 @@
         "englishName": "Red knot",
         "polishName": "Biegus rdzawy",
         "latinName": "calidris canutus",
+        "englishLink": "http://en.wikipedia.org/wiki/Red_knot",
+        "polishLink": "https://pl.wikipedia.org/wiki/Biegus_rdzawy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3894,6 +4378,8 @@
         "englishName": "Purple sandpiper",
         "polishName": "Biegus morski",
         "latinName": "calidris maritima",
+        "englishLink": "http://en.wikipedia.org/wiki/Purple_sandpiper",
+        "polishLink": "https://pl.wikipedia.org/wiki/Biegus_morski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3910,6 +4396,8 @@
         "englishName": "Black-legged kittiwake",
         "polishName": "Mewa tr\u00f3jpalczasta",
         "latinName": "rissa tridactyla",
+        "englishLink": "http://en.wikipedia.org/wiki/Black-legged_kittiwake",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mewa_tr%C3%B3jpalczasta",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3926,6 +4414,8 @@
         "englishName": "Little gull",
         "polishName": "Mewa ma\u0142a",
         "latinName": "hydrocoloeus minutus",
+        "englishLink": "http://en.wikipedia.org/wiki/Little_gull",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mewa_ma%C5%82a",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3942,6 +4432,8 @@
         "englishName": "Mediterranean gull",
         "polishName": "Mewa czarnog\u0142owa",
         "latinName": "ichthyaetus melanocephalus",
+        "englishLink": "http://en.wikipedia.org/wiki/Mediterranean_gull",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mewa_czarnog%C5%82owa",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3958,6 +4450,8 @@
         "englishName": "Glaucous gull",
         "polishName": "Mewa blada",
         "latinName": "larus hyperboreus",
+        "englishLink": "http://en.wikipedia.org/wiki/Glaucous_gull",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mewa_blada",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3974,6 +4468,8 @@
         "englishName": "Arctic tern",
         "polishName": "Rybitwa popielata",
         "latinName": "sterna paradisaea",
+        "englishLink": "http://en.wikipedia.org/wiki/Arctic_tern",
+        "polishLink": "https://pl.wikipedia.org/wiki/Rybitwa_popielata",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -3990,6 +4486,8 @@
         "englishName": "Great skua",
         "polishName": "Wydrzyk wielki",
         "latinName": "stercorarius skua",
+        "englishLink": "http://en.wikipedia.org/wiki/Great_skua",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wydrzyk_wielki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4006,6 +4504,8 @@
         "englishName": "Pomarine jaeger",
         "polishName": "Wydrzyk t\u0119posterny",
         "latinName": "stercorarius pomarinus",
+        "englishLink": "http://en.wikipedia.org/wiki/Pomarine_jaeger",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wydrzyk_t%C4%99posterny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4022,6 +4522,8 @@
         "englishName": "Parasitic jaeger",
         "polishName": "Wydrzyk ostrosterny",
         "latinName": "stercorarius parasiticus",
+        "englishLink": "http://en.wikipedia.org/wiki/Parasitic_jaeger",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wydrzyk_ostrosterny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4038,6 +4540,8 @@
         "englishName": "Long-tailed jaeger",
         "polishName": "Wydrzyk d\u0142ugosterny",
         "latinName": "stercorarius longicaudus",
+        "englishLink": "http://en.wikipedia.org/wiki/Long-tailed_jaeger",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wydrzyk_d%C5%82ugosterny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4054,6 +4558,8 @@
         "englishName": "Atlantic puffin",
         "polishName": "Maskonur (zwyczajny)",
         "latinName": "fratercula arctica",
+        "englishLink": "http://en.wikipedia.org/wiki/Atlantic_puffin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Maskonur_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4070,6 +4576,8 @@
         "englishName": "Common loon",
         "polishName": "Nur lodowiec",
         "latinName": "gavia immer",
+        "englishLink": "http://en.wikipedia.org/wiki/Common_loon",
+        "polishLink": "https://pl.wikipedia.org/wiki/Nur_lodowiec",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4086,6 +4594,8 @@
         "englishName": "European storm petrel",
         "polishName": "Nawa\u0142nik burzowy",
         "latinName": "hydrobates pelagicus",
+        "englishLink": "http://en.wikipedia.org/wiki/European_storm_petrel",
+        "polishLink": "https://pl.wikipedia.org/wiki/Nawa%C5%82nik_burzowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4102,6 +4612,8 @@
         "englishName": "Leach's storm petrel",
         "polishName": "Nawa\u0142nik du\u017cy",
         "latinName": "hydrobates leucorhous",
+        "englishLink": "http://en.wikipedia.org/wiki/Leach%27s_storm_petrel",
+        "polishLink": "https://pl.wikipedia.org/wiki/Nawa%C5%82nik_du%C5%BCy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4118,6 +4630,8 @@
         "englishName": "Northern fulmar",
         "polishName": "Fulmar (zwyczajny)",
         "latinName": "fulmarus glacialis",
+        "englishLink": "http://en.wikipedia.org/wiki/Northern_fulmar",
+        "polishLink": "https://pl.wikipedia.org/wiki/Fulmar_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4134,6 +4648,8 @@
         "englishName": "Sooty shearwater",
         "polishName": "Burzyk szary",
         "latinName": "ardenna grisea",
+        "englishLink": "http://en.wikipedia.org/wiki/Sooty_shearwater",
+        "polishLink": "https://pl.wikipedia.org/wiki/Burzyk_szary",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4150,6 +4666,8 @@
         "englishName": "Great shearwater",
         "polishName": "Burzyk wielki",
         "latinName": "ardenna gravis",
+        "englishLink": "http://en.wikipedia.org/wiki/Great_shearwater",
+        "polishLink": "https://pl.wikipedia.org/wiki/Burzyk_wielki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4166,6 +4684,8 @@
         "englishName": "Manx shearwater",
         "polishName": "Burzyk p\u00f3\u0142nocny",
         "latinName": "puffinus puffinus",
+        "englishLink": "http://en.wikipedia.org/wiki/Manx_shearwater",
+        "polishLink": "https://pl.wikipedia.org/wiki/Burzyk_p%C3%B3%C5%82nocny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4182,6 +4702,8 @@
         "englishName": "Balearic shearwater",
         "polishName": "Burzyk balearski",
         "latinName": "puffinus mauretanicus",
+        "englishLink": "http://en.wikipedia.org/wiki/Balearic_shearwater",
+        "polishLink": "https://pl.wikipedia.org/wiki/Burzyk_balearski",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4198,6 +4720,8 @@
         "englishName": "Northern gannet",
         "polishName": "G\u0142uptak (zwyczajny)",
         "latinName": "morus bassanus",
+        "englishLink": "http://en.wikipedia.org/wiki/Northern_gannet",
+        "polishLink": "https://pl.wikipedia.org/wiki/G%C5%82uptak_(zwyczajny)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4214,6 +4738,8 @@
         "englishName": "European shag",
         "polishName": "Kormoran czubaty",
         "latinName": "gulosus aristotelis",
+        "englishLink": "http://en.wikipedia.org/wiki/European_shag",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kormoran_czubaty",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4230,6 +4756,8 @@
         "englishName": "Great egret",
         "polishName": "Czapla bia\u0142a",
         "latinName": "ardea alba",
+        "englishLink": "http://en.wikipedia.org/wiki/Great_egret",
+        "polishLink": "https://pl.wikipedia.org/wiki/Czapla_bia%C5%82a",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4246,6 +4774,8 @@
         "englishName": "Little egret",
         "polishName": "Czapla nadobna",
         "latinName": "egretta garzetta",
+        "englishLink": "http://en.wikipedia.org/wiki/Little_egret",
+        "polishLink": "https://pl.wikipedia.org/wiki/Czapla_nadobna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4262,6 +4792,8 @@
         "englishName": "Osprey",
         "polishName": "Rybo\u0142\u00f3w",
         "latinName": "pandion haliaetus",
+        "englishLink": "http://en.wikipedia.org/wiki/Osprey",
+        "polishLink": "https://pl.wikipedia.org/wiki/Rybo%C5%82%C3%B3w",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4278,6 +4810,8 @@
         "englishName": "Golden eagle",
         "polishName": "Orze\u0142",
         "latinName": "aquila chrysaetos",
+        "englishLink": "http://en.wikipedia.org/wiki/Golden_eagle",
+        "polishLink": "https://pl.wikipedia.org/wiki/Orze%C5%82_przedni",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4294,6 +4828,8 @@
         "englishName": "Short-eared owl",
         "polishName": "Uszatka b\u0142otna",
         "latinName": "asio flammeus",
+        "englishLink": "http://en.wikipedia.org/wiki/Short-eared_owl",
+        "polishLink": "https://pl.wikipedia.org/wiki/Uszatka_b%C5%82otna",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4310,6 +4846,8 @@
         "englishName": "Merlin",
         "polishName": "Drzemlik",
         "latinName": "falco columbarius",
+        "englishLink": "http://en.wikipedia.org/wiki/Merlin_(bird)",
+        "polishLink": "https://pl.wikipedia.org/wiki/Drzemlik",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4326,6 +4864,8 @@
         "englishName": "Peregrine falcon",
         "polishName": "Sok\u00f3\u0142 w\u0119drowny",
         "latinName": "falco peregrinus",
+        "englishLink": "http://en.wikipedia.org/wiki/Peregrine_falcon",
+        "polishLink": "https://pl.wikipedia.org/wiki/Sok%C3%B3%C5%82_w%C4%99drowny",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4342,6 +4882,8 @@
         "englishName": "Red-billed chough",
         "polishName": "Wro\u0144czyk",
         "latinName": "pyrrhocorax pyrrhocorax",
+        "englishLink": "http://en.wikipedia.org/wiki/Red-billed_chough",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wro%C5%84czyk",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4358,6 +4900,8 @@
         "englishName": "Carrion crow",
         "polishName": "Czarnowron",
         "latinName": "corvus corone",
+        "englishLink": "http://en.wikipedia.org/wiki/Carrion_crow",
+        "polishLink": "https://pl.wikipedia.org/wiki/Czarnowron",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4374,6 +4918,8 @@
         "englishName": "Cetti's warbler",
         "polishName": "Wierzb\u00f3wka (zwyczajna)",
         "latinName": "cettia cetti",
+        "englishLink": "http://en.wikipedia.org/wiki/Cetti%27s_warbler",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wierzb%C3%B3wka_(zwyczajna)",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4390,6 +4936,8 @@
         "englishName": "Dartford warbler",
         "polishName": "Pokrzewka kasztanowata",
         "latinName": "curruca undata",
+        "englishLink": "http://en.wikipedia.org/wiki/Dartford_warbler",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pokrzewka_kasztanowata",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4406,6 +4954,8 @@
         "englishName": "Parrot crossbill",
         "polishName": "Krzy\u017codzi\u00f3b sosnowy",
         "latinName": "loxia pytyopsittacus",
+        "englishLink": "http://en.wikipedia.org/wiki/Parrot_crossbill",
+        "polishLink": "https://pl.wikipedia.org/wiki/Krzy%C5%BCodzi%C3%B3b_sosnowy",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4423,6 +4973,8 @@
         "englishName": "Scottish crossbill",
         "polishName": "Krzy\u017codzi\u00f3b szkocki",
         "latinName": "loxia scotica",
+        "englishLink": "http://en.wikipedia.org/wiki/Scottish_crossbill",
+        "polishLink": "https://pl.wikipedia.org/wiki/Krzy%C5%BCodzi%C3%B3b_szkocki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4440,6 +4992,8 @@
         "englishName": "Cirl bunting",
         "polishName": "Cierlik",
         "latinName": "emberiza cirlus",
+        "englishLink": "http://en.wikipedia.org/wiki/Cirl_bunting",
+        "polishLink": "https://pl.wikipedia.org/wiki/Cierlik",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",
@@ -4456,6 +5010,8 @@
         "englishName": "Toco toucan",
         "polishName": "Tukan wielki",
         "latinName": "ramphastos toco",
+        "englishLink": "https://en.wikipedia.org/wiki/Toco_toucan",
+        "polishLink": "https://pl.wikipedia.org/wiki/Tukan_wielki",
         "classification": {
             "domain": "eukaryota",
             "kingdom": "animalia",

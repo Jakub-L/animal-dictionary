@@ -78,6 +78,7 @@ def get_classification(rows, start_index):
 def merge_animals(english, polish):
     english["polish_name"] = polish["polish_name"]
     english["img_file"] = english["img_file"] or polish["img_file"]
+    english["polish_link"] = polish["polish_link"]
     return english
 
 
@@ -88,6 +89,7 @@ def read_british_animal(url, ignore_other_language=False):
     animal = {
         "english_name": re.sub(r"\[.*\]|\n.*", r"", list(rows[0].stripped_strings)[0]),
         "img_file": get_image(f"{domain}{rows[1].find("a")["href"]}"),
+        "english_link": url,
     }
     for i, row in enumerate(rows):
         if row.get_text().strip() == "Binomial name":
@@ -128,6 +130,7 @@ def read_polish_animal(url, ignore_other_language=False):
         .strip(),
         "latin_name": re.sub(r"\[.*\]", r"", list(rows[0].stripped_strings)[0].lower()),
         "img_file": get_image(f"{domain}{rows[3].find("a")["href"]}"),
+        "polish_link": url,
     }
     english_link = soup.find("a", {"lang": "en"})["href"]
     english_animal = {}

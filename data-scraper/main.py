@@ -7,7 +7,7 @@ from infobox import read_animal
 
 def process_group(group, output_name):
     processed_animals = set()
-    with open(f"../static/data/{output_name}.json", "w") as file:
+    with open(f"../src/lib/data/{output_name}.json", "w") as file:
         file.write("[\n")
         for url in group:
             try:
@@ -19,6 +19,8 @@ def process_group(group, output_name):
                     "englishName": animal["english_name"],
                     "polishName": animal["polish_name"],
                     "latinName": animal["latin_name"],
+                    "englishLink": animal["english_link"],
+                    "polishLink": animal["polish_link"],
                     "classification": animal["classification"],
                     "imageSrc": animal["img_file"] if "img_file" in animal else None,
                     "audioSrc": animal["audio"] if "audio" in animal else None,
