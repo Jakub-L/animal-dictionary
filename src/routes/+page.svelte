@@ -16,10 +16,10 @@
 	import Toolbar from '$lib/components/toolbar.svelte';
 </script>
 
-{#snippet wikiLink(lang: string, text: string, latinName: string)}
+{#snippet wikiLink(text: string, href: string)}
 	<a
 		class="text-gray-700 underline hover:scale-105 focus-visible:rounded-full focus-visible:outline-4 focus-visible:outline-offset-3 focus-visible:outline-gray-400 active:scale-95"
-		href={`https://${lang}.wikipedia.org/wiki/${latinName}`}
+		{href}
 		target="_blank"
 		rel="noopener"
 	>
@@ -29,7 +29,7 @@
 
 <div class="flex h-full flex-col">
 	<Toolbar />
-	<div class="flex h-full flex-col gap-4 overflow-y-auto px-2 items-center">
+	<div class="flex h-full flex-col items-center gap-4 overflow-y-auto px-2">
 		{#if filteredAnimals.value.length === 0}
 			<div
 				class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-50 p-12 text-center"
@@ -40,17 +40,17 @@
 			</div>
 		{/if}
 		{#each filteredAnimals.value as animal}
-			<div class="flex max-w-lg w-full flex-col gap-2 rounded-3xl bg-gray-50 p-4">
+			<div class="flex w-full max-w-lg flex-col gap-2 rounded-3xl bg-gray-50 p-4">
 				<img src={animal.imageSrc} alt={animal.latinName} class="rounded-2xl" />
 				<h2 class="grid grid-cols-2 items-center text-sm">
 					<div class="relative flex h-full items-center pr-2 pl-7">
 						<IconGb class="absolute left-0 h-5 w-5" />
-						{@render wikiLink('en', animal.englishName, animal.latinName)}
+						{@render wikiLink(animal.englishName, animal.englishLink)}
 					</div>
 					<div
 						class="relative flex h-full items-center justify-end border-l border-gray-700/50 pr-7 pl-2 text-right"
 					>
-						{@render wikiLink('pl', animal.polishName, animal.latinName)}
+						{@render wikiLink(animal.polishName, animal.polishLink)}
 						<IconPl class="absolute right-0 h-5 w-5" />
 					</div>
 				</h2>
