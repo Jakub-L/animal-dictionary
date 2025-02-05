@@ -2,7 +2,7 @@
 	import IconFunnel from '~icons/ion/funnel-sharp';
 	import IconAdd from '~icons/ion/add-circle-sharp';
 
-	import { taxonomicRanks, taxons } from '$lib/data/data.svelte';
+	import { taxonomicRanks, taxons, taxonFilters } from '$lib/data/state.svelte';
 
 	// Props
 	interface Props {
@@ -10,6 +10,14 @@
 	}
 
 	const { classification }: Props = $props();
+
+	// Handlers
+	const addFilter = (taxon: string, value: string) => {
+		taxonFilters.value = {
+			...taxonFilters.value,
+			[taxon]: value
+		};
+	};
 </script>
 
 <div class="flex flex-wrap gap-2">
@@ -28,6 +36,7 @@
 			<button
 				class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 print:hidden"
 				title="Add as filter"
+				onclick={() => addFilter(taxon, value)}
 			>
 				<IconFunnel class="mt-2 -ml-1 h-5 w-5" />
 				<div class="absolute top-2.5 right-2 rounded-full bg-gray-50">

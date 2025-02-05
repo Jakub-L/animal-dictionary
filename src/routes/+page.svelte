@@ -12,7 +12,7 @@
 	import { Collapsible } from 'bits-ui';
 	import { slide } from 'svelte/transition';
 
-	import { filteredAnimals } from '$lib/data/data.svelte';
+	import { filteredAnimals } from '$lib/data/state.svelte';
 	import Toolbar from '$lib/components/toolbar.svelte';
 </script>
 

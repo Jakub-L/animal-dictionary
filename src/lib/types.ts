@@ -8,3 +8,5 @@ export type Animal = {
 	imageSrc: string | null;
 	audioSrc: string | null;
 };
+
+export type TaxonFilter = Record<string, string | undefined>;

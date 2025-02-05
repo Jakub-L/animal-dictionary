@@ -8,7 +8,7 @@
 	import IconPl from '~icons/circle-flags/pl';
 	import IconGb from '~icons/circle-flags/gb';
 
-	import { animals, filteredAnimals } from '$lib/data/data.svelte';
+	import { animals, filteredAnimals } from '$lib/data/state.svelte';
 	import { slide } from 'svelte/transition';
 
 	import { sortAnimals } from '$lib/utils';
