@@ -62,7 +62,7 @@
 						<span class="mx-14 w-full text-center text-xs uppercase italic">{animal.latinName}</span
 						>
 						<Collapsible.Trigger
-							class="group absolute right-0 flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 print:hidden"
+							class="group absolute right-0 flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
 						>
 							<IconCaretDown class="h-5 w-5 group-data-[state=open]:hidden" />
 							<IconCaretUp class="h-5 w-5 group-data-[state=closed]:hidden" />
