@@ -1,6 +1,6 @@
 <script lang="ts">
 	import IconFunnel from '~icons/ion/funnel-sharp';
-	import IconAdd from '~icons/ion/add-circle-sharp';
+	import IconRemove from '~icons/ion/remove-sharp';
 
 	import { taxonomicRanks, taxons, taxonFilters } from '$lib/data/state.svelte';
 
@@ -12,11 +12,9 @@
 	const { classification }: Props = $props();
 
 	// Handlers
-	const addFilter = (taxon: string, value: string) => {
-		taxonFilters.value = {
-			...taxonFilters.value,
-			[taxon]: value
-		};
+	const toggleFilter = (taxon: string, value: string) => {
+		if (taxonFilters.value[taxon] === value) taxonFilters.value[taxon] = undefined;
+		else taxonFilters.value[taxon] = value;
 	};
 </script>
 
@@ -36,12 +34,13 @@
 			<button
 				class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500 print:hidden"
 				title="Add as filter"
-				onclick={() => addFilter(taxon, value)}
+				onclick={() => toggleFilter(taxon, value)}
 			>
-				<IconFunnel class="mt-2 -ml-1 h-5 w-5" />
-				<div class="absolute top-2.5 right-2 rounded-full bg-gray-50">
-					<IconAdd class="h-4 w-4" />
-				</div>
+				{#if taxonFilters.value[taxon] === value}
+					<IconRemove class="h-6 w-6" />
+				{:else}
+					<IconFunnel class="mt-0.5 h-4 w-4" />
+				{/if}
 			</button>
 		</div>
 	{/each}
