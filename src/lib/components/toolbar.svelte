@@ -5,13 +5,12 @@
 	import IconMenu from '~icons/ion/menu';
 	import IconClose from '~icons/ion/close';
 	import IconShuffle from '~icons/ion/shuffle';
+	import IconRemove from '~icons/ion/trash-bin-outline';
 	import IconPl from '~icons/circle-flags/pl';
 	import IconGb from '~icons/circle-flags/gb';
 
-	import { nameQuery, ordering } from '$lib/data/state.svelte';
+	import { nameQuery, ordering, taxonFilters } from '$lib/data/state.svelte';
 	import { slide } from 'svelte/transition';
-
-	import { sortAnimals } from '$lib/utils';
 
 	// State
 	let menuOpen = $state(false);
@@ -50,7 +49,10 @@
 			<IconClose class={['h-8 w-8', !menuOpen && 'hidden']} />
 			<IconMenu class={['h-8 w-8', menuOpen && 'hidden']} />
 		</DropdownMenu.Trigger>
-		<DropdownMenu.Content class="mt-4 -ml-2 flex w-dvw bg-gray-50 p-4" transition={slide}>
+		<DropdownMenu.Content
+			class="mt-4 -ml-2 flex w-dvw flex-col gap-6 bg-gray-50 p-4"
+			transition={slide}
+		>
 			<div class="grid w-full grid-cols-3">
 				<span class="col-span-3 text-xs">Order</span>
 				<DropdownMenu.RadioGroup
@@ -87,6 +89,24 @@
 					Shuffle
 				</button>
 			</div>
+			<DropdownMenu.Item>
+				<span class="col-span-3 text-xs">Filters</span>
+				{#each Object.entries(taxonFilters.value) as [taxon, filters]}
+					{#if filters.length}
+						<div class="flex w-full gap-3 rounded-full bg-gray-950/20 py-1 pr-1 pl-3">
+							<span>{taxon}</span>
+							<span>{filters.join(', ')}</span>
+							<button
+								class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+								title="Remove from filters"
+								onclick={() => (taxonFilters.value[taxon] = [])}
+							>
+								<IconRemove class="h-6 w-6" />
+							</button>
+						</div>
+					{/if}
+				{/each}
+			</DropdownMenu.Item>
 		</DropdownMenu.Content>
 	</DropdownMenu.Root>
 </div>
