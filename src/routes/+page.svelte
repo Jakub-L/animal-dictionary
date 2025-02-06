@@ -7,13 +7,20 @@
 	import IconCaretUp from '~icons/ion/caret-up';
 	import IconSearch from '~icons/ion/search';
 
-	import Taxonomy from '$lib/components/taxonomy.svelte';
 	import AudioPlayer from '$lib/components/audio-player.svelte';
+	import Taxonomy from '$lib/components/taxonomy.svelte';
+	import Toolbar from '$lib/components/toolbar.svelte';
 	import { Collapsible } from 'bits-ui';
 	import { slide } from 'svelte/transition';
 
-	import { filteredAnimals } from '$lib/data/state.svelte';
-	import Toolbar from '$lib/components/toolbar.svelte';
+	import { animals, ordering, nameQuery, taxonFilters } from '$lib/data/state.svelte';
+	import { sortAnimals, filterAnimals } from '$lib/utils';
+
+	import type { Animal } from '$lib/types';
+
+	const filteredAnimals: Animal[] = $derived(
+		sortAnimals(filterAnimals(animals, nameQuery.value, taxonFilters.value), ordering.value)
+	);
 </script>
 
 {#snippet wikiLink(text: string, href: string)}
@@ -30,7 +37,7 @@
 <div class="flex h-full flex-col">
 	<Toolbar />
 	<div class="flex h-full flex-col items-center gap-4 overflow-y-auto px-2">
-		{#if filteredAnimals.value.length === 0}
+		{#if filteredAnimals.length === 0}
 			<div
 				class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-50 p-12 text-center"
 			>
@@ -39,7 +46,7 @@
 				<span class="text-sm opacity-85">Try changing the search query or filters</span>
 			</div>
 		{/if}
-		{#each filteredAnimals.value as animal}
+		{#each filteredAnimals as animal}
 			<div class="flex w-full max-w-lg flex-col gap-2 rounded-3xl bg-gray-50 p-4">
 				<img src={animal.imageSrc} alt={animal.latinName} class="rounded-2xl" />
 				<h2 class="grid grid-cols-2 items-center text-sm">

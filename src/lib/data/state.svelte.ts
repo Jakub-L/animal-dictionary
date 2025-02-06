@@ -5,7 +5,7 @@ import reptiles from './reptiles.json';
 import taxonTranslations from './taxons.json';
 
 import type { Animal, TaxonFilter } from '$lib/types';
-import { sortAnimals } from '$lib/utils';
+import { filterAnimals, sortAnimals } from '$lib/utils';
 
 export const taxons: Record<string, string> = taxonTranslations;
 export const taxonomicRanks: Record<string, string> = {
@@ -27,5 +27,8 @@ export const taxonomicRanks: Record<string, string> = {
 };
 
 export const animals: Animal[] = [...birds, ...mammals, ...reptiles];
-export const filteredAnimals: { value: Animal[] } = $state({ value: sortAnimals(animals, 'en') });
+
+export const nameQuery: { value: string } = $state({ value: '' });
 export const taxonFilters: { value: TaxonFilter } = $state({ value: {} });
+
+export const ordering: { value: string } = $state({ value: 'en' });

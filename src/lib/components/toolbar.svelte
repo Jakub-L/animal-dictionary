@@ -8,42 +8,26 @@
 	import IconPl from '~icons/circle-flags/pl';
 	import IconGb from '~icons/circle-flags/gb';
 
-	import { animals, filteredAnimals } from '$lib/data/state.svelte';
+	import { nameQuery, ordering } from '$lib/data/state.svelte';
 	import { slide } from 'svelte/transition';
 
 	import { sortAnimals } from '$lib/utils';
 
 	// State
-	let filterQuery = $state('');
 	let menuOpen = $state(false);
-	let ordering = $state('en');
-
-	// Utils
-	const filterAnimals = () => {
-		filteredAnimals.value = animals.filter((animal) =>
-			[animal.englishName, animal.latinName, animal.polishName]
-				.map((s) => s.toLowerCase())
-				.some((s) => s.includes(filterQuery))
-		);
-	};
 
 	// Handlers
 	const handleFilterQuery = (event: Event) => {
-		filterQuery = (event.target as HTMLInputElement).value.toLowerCase();
-		filterAnimals();
+		nameQuery.value = (event.target as HTMLInputElement).value.toLowerCase();
 	};
 
 	const handleMenuClose = () => {
-		if (!menuOpen) menuOpen = true;
-		else {
-			filteredAnimals.value = sortAnimals(filteredAnimals.value, ordering);
-			menuOpen = false;
-		}
+		menuOpen = !menuOpen;
 	};
 
 	const handleSortChange = (value: string | undefined) => {
 		if (!value) return;
-		ordering = value;
+		ordering.value = value;
 		handleMenuClose();
 	};
 </script>
@@ -52,7 +36,7 @@
 	<div class="relative flex h-full grow items-center">
 		<input
 			class="h-full w-full rounded-full bg-gray-50 py-1 pl-8 text-lg placeholder:text-sm focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400"
-			value={filterQuery}
+			value={nameQuery.value}
 			oninput={handleFilterQuery}
 			placeholder="Search by Polish, English or Latin name..."
 		/>
@@ -71,13 +55,13 @@
 				<span class="col-span-3 text-xs">Order</span>
 				<DropdownMenu.RadioGroup
 					onValueChange={handleSortChange}
-					value={ordering}
+					value={ordering.value}
 					class="col-span-2 grid h-12 grow grid-cols-2"
 				>
 					<DropdownMenu.RadioItem
 						class={[
 							'flex items-center justify-center gap-2 rounded-l-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 saturate-0 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
-							ordering === 'en' && 'bg-gray-400 saturate-100'
+							ordering.value === 'en' && 'bg-gray-400 saturate-100'
 						]}
 						value="en"
 					>
@@ -87,7 +71,7 @@
 					<DropdownMenu.RadioItem
 						class={[
 							'flex items-center justify-center gap-2 border border-gray-400 bg-gray-50 p-0.5 text-gray-700 saturate-0 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
-							ordering === 'pl' && 'bg-gray-400 saturate-100'
+							ordering.value === 'pl' && 'bg-gray-400 saturate-100'
 						]}
 						value="pl"
 					>

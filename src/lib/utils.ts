@@ -1,4 +1,4 @@
-import type { Animal } from '$lib/types';
+import type { Animal, TaxonFilter } from '$lib/types';
 
 /**
  * Strips string of all non-alphabetic (including Polish) characters and converts it to lowercase.
@@ -61,4 +61,32 @@ const sortAnimals = (arr: Animal[], ordering: string): Animal[] => {
 	return newArr;
 };
 
-export { sortAnimals };
+/**
+ * Filters an array of animals based on name search and taxonomic classification criteria.
+ *
+ * @param {Animal[]} arr - Array of Animal objects to filter
+ * @param {string} nameQuery - Search string to filter animals by name (English, Latin, or Polish)
+ * @param {TaxonFilter} taxonFilter - Object containing taxonomic filters to apply
+ * @returns {Animal[]} Filtered array of Animal objects matching both name and taxonomic criteria
+ */
+const filterAnimals = (arr: Animal[], nameQuery: string, taxonFilter: TaxonFilter): Animal[] => {
+	return arr
+		.filter((animal) =>
+			[animal.englishName, animal.latinName, animal.polishName]
+				.map((s) => s.toLowerCase())
+				.some((s) => s.includes(nameQuery))
+		)
+		.filter(({ classification }) => {
+			for (const [taxon, value] of Object.entries(classification)) {
+				if (
+					taxon in taxonFilter &&
+					taxonFilter[taxon].length > 0 &&
+					!taxonFilter[taxon].includes(value as string)
+				)
+					return false;
+			}
+			return true;
+		});
+};
+
+export { filterAnimals, sortAnimals };
