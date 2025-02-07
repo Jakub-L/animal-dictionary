@@ -9,7 +9,13 @@
 	import IconPl from '~icons/circle-flags/pl';
 	import IconGb from '~icons/circle-flags/gb';
 
-	import { nameQuery, ordering, taxonFilters } from '$lib/data/state.svelte';
+	import {
+		nameQuery,
+		ordering,
+		taxonFilters,
+		taxonomicRanks,
+		taxons
+	} from '$lib/data/state.svelte';
 	import { slide } from 'svelte/transition';
 
 	// State
@@ -21,14 +27,13 @@
 		nameQuery.value = (event.target as HTMLInputElement).value.toLowerCase();
 	};
 
-	const handleMenuClose = () => {
-		menuOpen = !menuOpen;
-	};
-
 	const handleSortChange = (value: string | undefined) => {
 		if (!value) return;
 		ordering.value = value;
-		handleMenuClose();
+	};
+
+	const toggleFilter = (taxon: string, value: string) => {
+		taxonFilters.value[taxon] = taxonFilters.value[taxon] === value ? '' : value;
 	};
 </script>
 
@@ -42,10 +47,9 @@
 		/>
 		<IconSearch class="absolute left-2 h-5 w-5 opacity-60" />
 	</div>
-	<DropdownMenu.Root closeOnItemClick={false} open={menuOpen}>
+	<DropdownMenu.Root closeOnItemClick={false} bind:open={menuOpen}>
 		<DropdownMenu.Trigger
 			class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 bg-gray-50 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
-			onclick={handleMenuClose}
 		>
 			<IconClose class={['h-8 w-8', !menuOpen && 'hidden']} />
 			<IconMenu class={['h-8 w-8', menuOpen && 'hidden']} />
@@ -93,21 +97,33 @@
 			<DropdownMenu.Item>
 				<span class="col-span-3 text-xs">Filters</span>
 				{#if hasFilters}
-					{#each Object.entries(taxonFilters.value) as [taxon, filters]}
-						{#if filters.length}
-							<div class="flex w-full gap-3 rounded-full bg-gray-950/20 py-1 pr-1 pl-3">
-								<span>{taxon}</span>
-								<span>{filters.join(', ')}</span>
-								<button
-									class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
-									title="Remove from filters"
-									onclick={() => (taxonFilters.value[taxon] = [])}
-								>
-									<IconRemove class="h-6 w-6" />
-								</button>
-							</div>
-						{/if}
-					{/each}
+					<div class="flex flex-col gap-2 md:flex-row md:flex-wrap">
+						{#each Object.entries(taxonFilters.value) as [taxon, filter]}
+							{#if filter.length}
+								<div class="flex gap-3 rounded-full bg-gray-950/20 py-1 pr-1 pl-3">
+									<div class="flex w-full justify-between items-center gap-4">
+										<div class="flex flex-col">
+											<span class="text-2xs font-semibold capitalize">{taxon}</span>
+											<span class="text-sm capitalize">{filter}</span>
+										</div>
+										<div class="flex flex-col items-end">
+											<span class="text-2xs font-semibold capitalize">{taxonomicRanks[taxon]}</span>
+											<span class="text-sm capitalize">{taxons[filter] ?? 'Error'}</span>
+										</div>
+									</div>
+									<button
+										class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+										title={taxonFilters.value[taxon] === filter
+											? 'Remove from filters'
+											: 'Add as filter'}
+										onclick={() => toggleFilter(taxon, filter)}
+									>
+										<IconRemove class="h-7 w-7" />
+									</button>
+								</div>
+							{/if}
+						{/each}
+					</div>
 				{:else}
 					<div
 						class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-300 p-4 text-center"

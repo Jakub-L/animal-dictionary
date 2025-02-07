@@ -9,17 +9,9 @@
 
 	const { classification }: Props = $props();
 
-	// Utils
-	const isFilterActive = (taxon: string, value: string): boolean => {
-		return taxonFilters.value[taxon]?.includes(value) ?? false;
-	};
-
 	// Handlers
 	const toggleFilter = (taxon: string, value: string) => {
-		let filterArr = taxonFilters.value[taxon] ?? [];
-		if (filterArr.includes(value)) filterArr = filterArr.filter((v) => v !== value);
-		else filterArr.push(value);
-		taxonFilters.value = { ...taxonFilters.value, [taxon]: filterArr };
+		taxonFilters.value[taxon] = taxonFilters.value[taxon] === value ? '' : value;
 	};
 </script>
 
@@ -39,15 +31,15 @@
 			<button
 				class={[
 					'relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
-					isFilterActive(taxon, value) &&
+					taxonFilters.value[taxon] === value &&
 						'foucs-visible:outline-red-400 border-red-400 text-red-700 opacity-80 hover:bg-red-400 active:bg-red-500'
 				]}
-				title={isFilterActive(taxon, value) ? 'Remove from filters' : 'Add as filter'}
+				title={taxonFilters.value[taxon] === value ? 'Remove from filters' : 'Add as filter'}
 				onclick={() => toggleFilter(taxon, value)}
 			>
 				<Icon
 					class="h-7 w-7"
-					id={isFilterActive(taxon, value) ? 'filter-remove' : 'filter-add'}
+					id={taxonFilters.value[taxon] === value ? 'filter-remove' : 'filter-add'}
 					alt=""
 				/>
 			</button>

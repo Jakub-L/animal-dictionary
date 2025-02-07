@@ -9,4 +9,4 @@ export type Animal = {
 	audioSrc: string | null;
 };
 
-export type TaxonFilter = Record<string, string[]>;
+export type TaxonFilter = Record<string, string>;

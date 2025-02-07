@@ -5,7 +5,6 @@ import reptiles from './reptiles.json';
 import taxonTranslations from './taxons.json';
 
 import type { Animal, TaxonFilter } from '$lib/types';
-import { filterAnimals, sortAnimals } from '$lib/utils';
 
 export const taxons: Record<string, string> = taxonTranslations;
 export const taxonomicRanks: Record<string, string> = {
