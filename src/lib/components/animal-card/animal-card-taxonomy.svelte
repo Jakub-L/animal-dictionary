@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { taxonomicRanks, taxons, taxonFilters } from '$lib/data/state.svelte';
-	import Icon from './icon.svelte';
+	import Icon from '../icon.svelte';
 
 	// Props
 	interface Props {
