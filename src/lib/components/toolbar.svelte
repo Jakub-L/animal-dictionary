@@ -14,6 +14,7 @@
 
 	// State
 	let menuOpen = $state(false);
+	const hasFilters = $derived(Object.values(taxonFilters.value).some((filters) => filters.length));
 
 	// Handlers
 	const handleFilterQuery = (event: Event) => {
@@ -91,21 +92,31 @@
 			</div>
 			<DropdownMenu.Item>
 				<span class="col-span-3 text-xs">Filters</span>
-				{#each Object.entries(taxonFilters.value) as [taxon, filters]}
-					{#if filters.length}
-						<div class="flex w-full gap-3 rounded-full bg-gray-950/20 py-1 pr-1 pl-3">
-							<span>{taxon}</span>
-							<span>{filters.join(', ')}</span>
-							<button
-								class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
-								title="Remove from filters"
-								onclick={() => (taxonFilters.value[taxon] = [])}
-							>
-								<IconRemove class="h-6 w-6" />
-							</button>
-						</div>
-					{/if}
-				{/each}
+				{#if hasFilters}
+					{#each Object.entries(taxonFilters.value) as [taxon, filters]}
+						{#if filters.length}
+							<div class="flex w-full gap-3 rounded-full bg-gray-950/20 py-1 pr-1 pl-3">
+								<span>{taxon}</span>
+								<span>{filters.join(', ')}</span>
+								<button
+									class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
+									title="Remove from filters"
+									onclick={() => (taxonFilters.value[taxon] = [])}
+								>
+									<IconRemove class="h-6 w-6" />
+								</button>
+							</div>
+						{/if}
+					{/each}
+				{:else}
+					<div
+						class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-300 p-4 text-center"
+					>
+						<IconSearch class="mx-auto h-10 w-10 opacity-50" />
+						<span class="font-semibold opacity-85">No taxonomy filters</span>
+						<span class="text-sm opacity-85">Try selecting a taxon from an animal's card</span>
+					</div>
+				{/if}
 			</DropdownMenu.Item>
 		</DropdownMenu.Content>
 	</DropdownMenu.Root>
