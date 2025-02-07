@@ -5,7 +5,7 @@
 
 	import AnimalCard from '$lib/components/animal-card/animal-card.svelte';
 	import Placeholder from '$lib/components/placeholder.svelte';
-	import Toolbar from '$lib/components/toolbar.svelte';
+	import Toolbar from '$lib/components/toolbar/toolbar.svelte';
 
 	import { animals, ordering, nameQuery, taxonFilters } from '$lib/data/state.svelte';
 	import { sortAnimals, filterAnimals } from '$lib/utils';
