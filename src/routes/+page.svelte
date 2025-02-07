@@ -8,6 +8,7 @@
 	import IconSearch from '~icons/ion/search';
 
 	import AudioPlayer from '$lib/components/audio-player.svelte';
+	import Placeholder from '$lib/components/placeholder.svelte';
 	import Taxonomy from '$lib/components/taxonomy.svelte';
 	import Toolbar from '$lib/components/toolbar.svelte';
 	import { Collapsible } from 'bits-ui';
@@ -38,13 +39,7 @@
 	<Toolbar />
 	<div class="flex h-full flex-col items-center gap-4 overflow-y-auto px-2">
 		{#if filteredAnimals.length === 0}
-			<div
-				class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-50 p-12 text-center"
-			>
-				<IconSearch class="mx-auto h-10 w-10 opacity-50" />
-				<span class="font-semibold opacity-85">No animals found</span>
-				<span class="text-sm opacity-85">Try changing the search query or filters</span>
-			</div>
+			<Placeholder header="No animals found" subheader="Try changing the search query or filters" />
 		{/if}
 		{#each filteredAnimals as animal}
 			<div class="flex w-full max-w-lg flex-col gap-2 rounded-3xl bg-gray-50 p-4">

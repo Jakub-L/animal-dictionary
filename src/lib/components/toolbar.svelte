@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { DropdownMenu } from 'bits-ui';
+	import Placeholder from './placeholder.svelte';
 
 	import IconSearch from '~icons/ion/search';
 	import IconMenu from '~icons/ion/menu';
@@ -101,7 +102,7 @@
 						{#each Object.entries(taxonFilters.value) as [taxon, filter]}
 							{#if filter.length}
 								<div class="flex gap-3 rounded-full bg-gray-950/20 py-1 pr-1 pl-3">
-									<div class="flex w-full justify-between items-center gap-4">
+									<div class="flex w-full items-center justify-between gap-4">
 										<div class="flex flex-col">
 											<span class="text-2xs font-semibold capitalize">{taxon}</span>
 											<span class="text-sm capitalize">{filter}</span>
@@ -113,9 +114,7 @@
 									</div>
 									<button
 										class="relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500"
-										title={taxonFilters.value[taxon] === filter
-											? 'Remove from filters'
-											: 'Add as filter'}
+										title="Remove from filters"
 										onclick={() => toggleFilter(taxon, filter)}
 									>
 										<IconRemove class="h-7 w-7" />
@@ -125,13 +124,11 @@
 						{/each}
 					</div>
 				{:else}
-					<div
-						class=" flex h-full flex-col items-center justify-center gap-2 rounded-3xl bg-gray-300 p-4 text-center"
-					>
-						<IconSearch class="mx-auto h-10 w-10 opacity-50" />
-						<span class="font-semibold opacity-85">No taxonomy filters</span>
-						<span class="text-sm opacity-85">Try selecting a taxon from an animal's card</span>
-					</div>
+					<Placeholder
+						header="No taxonomy filters"
+						subheader="Try selecting a taxon from an animal's card"
+						containerClass="bg-gray-300"
+					/>
 				{/if}
 			</DropdownMenu.Item>
 		</DropdownMenu.Content>
