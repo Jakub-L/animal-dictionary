@@ -5023,5 +5023,149 @@
         },
         "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg/800px-Toco_Toucan_%28Ramphastos_toco%29_-_48153967707.jpg",
         "audioSrc": null
+    },
+    {
+        "englishName": "Greater flamingo",
+        "polishName": "Flaming r\u00f3\u017cowy",
+        "latinName": "phoenicopterus roseus",
+        "englishLink": "https://en.wikipedia.org/wiki/Greater_flamingo",
+        "polishLink": "https://pl.wikipedia.org/wiki/Flaming_r%C3%B3%C5%BCowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "phoenicopteriformes",
+            "family": "phoenicopteridae",
+            "genus": "phoenicopterus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg/800px-010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Phoenicopterus_roseus_%28Rosaflamingo_-_Greater_Flamingo%29_%E2%80%94_Weltvogelpark_Walsrode_2013.ogg"
+    },
+    {
+        "englishName": "Snowy owl",
+        "polishName": "Puchacz \u015bnie\u017cny",
+        "latinName": "bubo scandiacus",
+        "englishLink": "https://en.wikipedia.org/wiki/Snowy_owl",
+        "polishLink": "https://pl.wikipedia.org/wiki/Puchacz_%C5%9Bnie%C5%BCny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "strigiformes",
+            "family": "strigidae",
+            "genus": "bubo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SnowyOwlAmericanBlackDuck.jpg/800px-SnowyOwlAmericanBlackDuck.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Emperor penguin",
+        "polishName": "Pingwin cesarski",
+        "latinName": "aptenodytes forsteri",
+        "englishLink": "https://en.wikipedia.org/wiki/Emperor_penguin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pingwin_cesarski",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "sphenisciformes",
+            "family": "spheniscidae",
+            "genus": "aptenodytes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/373px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Chinstrap penguin",
+        "polishName": "Pingwin maskowy",
+        "latinName": "pygoscelis antarcticus",
+        "englishLink": "https://en.wikipedia.org/wiki/Chinstrap_penguin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pingwin_maskowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "sphenisciformes",
+            "family": "spheniscidae",
+            "genus": "pygoscelis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/400px-South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Snares penguin",
+        "polishName": "Pingwin grzebieniasty",
+        "latinName": "eudyptes robustus",
+        "englishLink": "https://en.wikipedia.org/wiki/Snares_penguin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pingwin_grzebieniasty",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "sphenisciformes",
+            "family": "spheniscidae",
+            "genus": "eudyptes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SnaresPenguin_%28Mattern%29_large.jpg/398px-SnaresPenguin_%28Mattern%29_large.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "African penguin",
+        "polishName": "Pingwin przyl\u0105dkowy",
+        "latinName": "spheniscus demersus",
+        "englishLink": "https://en.wikipedia.org/wiki/African_penguin",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pingwin_przyl%C4%85dkowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "sphenisciformes",
+            "family": "spheniscidae",
+            "genus": "spheniscus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/African_penguin_side_profile.jpg/547px-African_penguin_side_profile.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Scarlet macaw",
+        "polishName": "Ara \u017c\u00f3\u0142toskrzyd\u0142a",
+        "latinName": "ara macao",
+        "englishLink": "https://en.wikipedia.org/wiki/Scarlet_macaw",
+        "polishLink": "https://pl.wikipedia.org/wiki/Ara_%C5%BC%C3%B3%C5%82toskrzyd%C5%82a",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "psittaciformes",
+            "family": "psittacidae",
+            "genus": "ara"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg/800px-Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Andean condor",
+        "polishName": "Kondor wielki",
+        "latinName": "vultur gryphus",
+        "englishLink": "https://en.wikipedia.org/wiki/Andean_condor",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kondor_wielki",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "aves",
+            "order": "accipitriformes",
+            "family": "cathartidae",
+            "genus": "vultur"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/479px-AndeanCondorMale.jpg",
+        "audioSrc": null
     }
 ]

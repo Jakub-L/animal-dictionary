@@ -17,5 +17,258 @@
         },
         "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boa_constrictor%2C_Va%C5%88kovka%2C_Brno_%282%29.jpg/800px-Boa_constrictor%2C_Va%C5%88kovka%2C_Brno_%282%29.jpg",
         "audioSrc": null
+    },
+    {
+        "englishName": "King cobra",
+        "polishName": "Kobra kr\u00f3lewska",
+        "latinName": "ophiophagus hannah",
+        "englishLink": "https://en.wikipedia.org/wiki/King_cobra",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kobra_kr%C3%B3lewska",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "suborder": "serpentes",
+            "family": "elapidae",
+            "genus": "ophiophagus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg/800px-12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Aldabra giant tortoise",
+        "polishName": "\u017b\u00f3\u0142w olbrzymi",
+        "latinName": "aldabrachelys gigantea",
+        "englishLink": "https://en.wikipedia.org/wiki/Aldabra_giant_tortoise",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82w_olbrzymi",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "testudines",
+            "suborder": "cryptodira",
+            "superfamily": "testudinoidea",
+            "family": "testudinidae",
+            "genus": "aldabrachelys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Giant_Tortoise.JPG/800px-Giant_Tortoise.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "American alligator",
+        "polishName": "Aligator missisipski",
+        "latinName": "alligator mississippiensis",
+        "englishLink": "https://en.wikipedia.org/wiki/American_alligator",
+        "polishLink": "https://pl.wikipedia.org/wiki/Aligator_missisipski",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "clade": "archosauriformes",
+            "order": "crocodilia",
+            "family": "alligatoridae",
+            "subfamily": "alligatorinae",
+            "genus": "alligator"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/American_Alligator.jpg/450px-American_Alligator.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Nile crocodile",
+        "polishName": "Krokodyl nilowy",
+        "latinName": "crocodylus niloticus",
+        "englishLink": "https://en.wikipedia.org/wiki/Nile_crocodile",
+        "polishLink": "https://pl.wikipedia.org/wiki/Krokodyl_nilowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "clade": "archosauriformes",
+            "order": "crocodilia",
+            "family": "crocodylidae",
+            "genus": "crocodylus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/NileCrocodile.jpg/764px-NileCrocodile.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Green anaconda",
+        "polishName": "Anakonda zielona",
+        "latinName": "eunectes murinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Green_anaconda",
+        "polishLink": "https://pl.wikipedia.org/wiki/Anakonda_zielona",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "suborder": "serpentes",
+            "family": "boidae",
+            "genus": "eunectes"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sucuri_verde.jpg/800px-Sucuri_verde.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Komodo dragon",
+        "polishName": "Waran z Komodo",
+        "latinName": "varanus komodoensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Komodo_dragon",
+        "polishLink": "https://pl.wikipedia.org/wiki/Waran_z_Komodo",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "family": "varanidae",
+            "genus": "varanus",
+            "subgenus": "varanus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Komodo_dragon_%28Varanus_komodoensis%29.jpg/760px-Komodo_dragon_%28Varanus_komodoensis%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Sand lizard",
+        "polishName": "Jaszczurka zwinka",
+        "latinName": "lacerta agilis",
+        "englishLink": "https://en.wikipedia.org/wiki/Sand_lizard",
+        "polishLink": "https://pl.wikipedia.org/wiki/Jaszczurka_zwinka",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "family": "lacertidae",
+            "genus": "lacerta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lacerta_agilis_male_2014_G1.jpg/800px-Lacerta_agilis_male_2014_G1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Grass snake",
+        "polishName": "Zaskroniec zwyczajny",
+        "latinName": "natrix natrix",
+        "englishLink": "https://en.wikipedia.org/wiki/Grass_snake",
+        "polishLink": "https://pl.wikipedia.org/wiki/Zaskroniec_zwyczajny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "suborder": "serpentes",
+            "family": "colubridae",
+            "genus": "natrix"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Grass_snake_%28Natrix_natrix%29_Pieniny.jpg/800px-Grass_snake_%28Natrix_natrix%29_Pieniny.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common European adder",
+        "polishName": "\u017bmija zygzakowata",
+        "latinName": "vipera berus",
+        "englishLink": "https://en.wikipedia.org/wiki/Adder",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BBmija_zygzakowata",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "suborder": "serpentes",
+            "family": "viperidae",
+            "genus": "vipera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Common_European_viper_%28Vipera_berus%29_female_Pieniny.jpg/800px-Common_European_viper_%28Vipera_berus%29_female_Pieniny.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common slow worm",
+        "polishName": "Padalec zwyczajny",
+        "latinName": "anguis fragilis",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_slow_worm",
+        "polishLink": "https://pl.wikipedia.org/wiki/Padalec_zwyczajny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "family": "anguidae",
+            "genus": "anguis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Anguidae.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Loggerhead sea turtle",
+        "polishName": "Karetta",
+        "latinName": "caretta caretta",
+        "englishLink": "https://en.wikipedia.org/wiki/Loggerhead_sea_turtle",
+        "polishLink": "https://pl.wikipedia.org/wiki/Karetta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "testudines",
+            "suborder": "cryptodira",
+            "superfamily": "chelonioidea",
+            "family": "cheloniidae",
+            "subfamily": "carettinae",
+            "genus": "caretta"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Loggerhead_sea_turtle.jpg/800px-Loggerhead_sea_turtle.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Leatherback sea turtle",
+        "polishName": "\u017b\u00f3\u0142w sk\u00f3rzasty",
+        "latinName": "dermochelys coriacea",
+        "englishLink": "https://en.wikipedia.org/wiki/Leatherback_sea_turtle",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82w_sk%C3%B3rzasty",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "testudines",
+            "suborder": "cryptodira",
+            "superfamily": "chelonioidea",
+            "family": "dermochelyidae",
+            "subfamily": "dermochelyinae",
+            "genus": "dermochelys"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg/800px-Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Green sea turtle",
+        "polishName": "\u017b\u00f3\u0142w jadalny",
+        "latinName": "chelonia mydas",
+        "englishLink": "https://en.wikipedia.org/wiki/Green_sea_turtle",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82w_jadalny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "testudines",
+            "suborder": "cryptodira",
+            "superfamily": "chelonioidea",
+            "family": "cheloniidae",
+            "subfamily": "cheloniinae",
+            "genus": "chelonia"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/800px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+        "audioSrc": null
     }
 ]

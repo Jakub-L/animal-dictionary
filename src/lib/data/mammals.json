@@ -2480,5 +2480,480 @@
         },
         "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/An_elephant_in_Kruger_National_Park.jpg/800px-An_elephant_in_Kruger_National_Park.jpg",
         "audioSrc": null
+    },
+    {
+        "englishName": "Lion",
+        "polishName": "Lew afryka\u0144ski",
+        "latinName": "panthera leo",
+        "englishLink": "https://en.wikipedia.org/wiki/Lion",
+        "polishLink": "https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "pantherinae",
+            "genus": "panthera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/800px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Tiger",
+        "polishName": "Tygrys azjatycki",
+        "latinName": "panthera tigris",
+        "englishLink": "https://en.wikipedia.org/wiki/Tiger",
+        "polishLink": "https://pl.wikipedia.org/wiki/Tygrys_azjatycki",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "pantherinae",
+            "genus": "panthera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/800px-Walking_tiger_female.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Western gorilla",
+        "polishName": "Goryl nizinny",
+        "latinName": "gorilla gorilla",
+        "englishLink": "https://en.wikipedia.org/wiki/Western_gorilla",
+        "polishLink": "https://pl.wikipedia.org/wiki/Goryl_nizinny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "primates",
+            "suborder": "haplorhini",
+            "infraorder": "simiiformes",
+            "family": "hominidae",
+            "subfamily": "homininae",
+            "genus": "gorilla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Male_gorilla_in_SF_zoo.jpg/537px-Male_gorilla_in_SF_zoo.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Hippopotamus",
+        "polishName": "Hipopotam nilowy",
+        "latinName": "hippopotamus amphibius",
+        "englishLink": "https://en.wikipedia.org/wiki/Hippopotamus",
+        "polishLink": "https://pl.wikipedia.org/wiki/Hipopotam_nilowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "hippopotamidae",
+            "genus": "hippopotamus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Portrait_Hippopotamus_in_the_water.jpg/800px-Portrait_Hippopotamus_in_the_water.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Pygmy hippopotamus",
+        "polishName": "Hipopotamek kar\u0142owaty",
+        "latinName": "choeropsis liberiensis",
+        "englishLink": "https://en.wikipedia.org/wiki/Pygmy_hippopotamus",
+        "polishLink": "https://pl.wikipedia.org/wiki/Hipopotamek_kar%C5%82owaty",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "hippopotamidae",
+            "subfamily": "hippopotaminae",
+            "genus": "choeropsis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hexaprotodon_liberiensis_in_Edinburgh_Zoo.JPG/800px-Hexaprotodon_liberiensis_in_Edinburgh_Zoo.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red panda",
+        "polishName": "Pandka ruda",
+        "latinName": "ailurus fulgens",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_panda",
+        "polishLink": "https://pl.wikipedia.org/wiki/Pandka_ruda",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "ailuridae",
+            "genus": "ailurus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_Panda_%2824986761703%29.jpg/800px-Red_Panda_%2824986761703%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Meerkat",
+        "polishName": "Surykatka szara",
+        "latinName": "suricata suricatta",
+        "englishLink": "https://en.wikipedia.org/wiki/Meerkat",
+        "polishLink": "https://pl.wikipedia.org/wiki/Surykatka_szara",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "herpestidae",
+            "genus": "suricata"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Meerkat_%28Suricata_suricatta%29_Tswalu.jpg/728px-Meerkat_%28Suricata_suricatta%29_Tswalu.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Asian elephant",
+        "polishName": "S\u0142o\u0144 indyjski",
+        "latinName": "elephas maximus",
+        "englishLink": "https://en.wikipedia.org/wiki/Asian_elephant",
+        "polishLink": "https://pl.wikipedia.org/wiki/S%C5%82o%C5%84_indyjski",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "proboscidea",
+            "family": "elephantidae",
+            "genus": "elephas"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/800px-Elephas_maximus_%28Bandipur%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Koala",
+        "polishName": "Koala australijski",
+        "latinName": "phascolarctos cinereus",
+        "englishLink": "https://en.wikipedia.org/wiki/Koala",
+        "polishLink": "https://pl.wikipedia.org/wiki/Koala_australijski",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "infraclass": "marsupialia",
+            "order": "diprotodontia",
+            "family": "phascolarctidae",
+            "genus": "phascolarctos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/610px-Koala_climbing_tree.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Giant panda",
+        "polishName": "Panda wielka",
+        "latinName": "ailuropoda melanoleuca",
+        "englishLink": "https://en.wikipedia.org/wiki/Giant_panda",
+        "polishLink": "https://pl.wikipedia.org/wiki/Panda_wielka",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "ursidae",
+            "genus": "ailuropoda"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/800px-Grosser_Panda.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Polar bear",
+        "polishName": "Nied\u017awied\u017a polarny",
+        "latinName": "ursus maritimus",
+        "englishLink": "https://en.wikipedia.org/wiki/Polar_bear",
+        "polishLink": "https://pl.wikipedia.org/wiki/Nied%C5%BAwied%C5%BA_polarny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "family": "ursidae",
+            "genus": "ursus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Leopard",
+        "polishName": "Lampart plamisty",
+        "latinName": "panthera pardus",
+        "englishLink": "https://en.wikipedia.org/wiki/Leopard",
+        "polishLink": "https://pl.wikipedia.org/wiki/Lampart_plamisty",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "pantherinae",
+            "genus": "panthera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/600px-African_leopard_male_%28cropped%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Cheetah",
+        "polishName": "Gepard grzywiasty",
+        "latinName": "acinonyx jubatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Cheetah",
+        "polishLink": "https://pl.wikipedia.org/wiki/Gepard_grzywiasty",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "felinae",
+            "genus": "acinonyx"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/800px-Male_cheetah_facing_left_in_South_Africa.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "White rhinoceros",
+        "polishName": "Nosoro\u017cec bia\u0142y",
+        "latinName": "ceratotherium simum",
+        "englishLink": "https://en.wikipedia.org/wiki/White_rhinoceros",
+        "polishLink": "https://pl.wikipedia.org/wiki/Nosoro%C5%BCec_bia%C5%82y",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "perissodactyla",
+            "family": "rhinocerotidae",
+            "genus": "ceratotherium"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/White_Rhino_at_Working_with_Wildlife.jpg/800px-White_Rhino_at_Working_with_Wildlife.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Red kangaroo",
+        "polishName": "Kangur rudy",
+        "latinName": "osphranter rufus",
+        "englishLink": "https://en.wikipedia.org/wiki/Red_kangaroo",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kangur_rudy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "infraclass": "marsupialia",
+            "order": "diprotodontia",
+            "family": "macropodidae",
+            "genus": "osphranter"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Red_kangaroo_-_melbourne_zoo.jpg/800px-Red_kangaroo_-_melbourne_zoo.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Capybara",
+        "polishName": "Kapibara wielka",
+        "latinName": "hydrochoerus hydrochaeris",
+        "englishLink": "https://en.wikipedia.org/wiki/Capybara",
+        "polishLink": "https://pl.wikipedia.org/wiki/Kapibara_wielka",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "rodentia",
+            "family": "caviidae",
+            "genus": "hydrochoerus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg/800px-Hydrochoeris_hydrochaeris_in_Brazil_in_Petr%C3%B3polis%2C_Rio_de_Janeiro%2C_Brazil_09.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Dromedary",
+        "polishName": "Wielb\u0142\u0105d jednogarbny",
+        "latinName": "camelus dromedarius",
+        "englishLink": "https://en.wikipedia.org/wiki/Dromedary",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wielb%C5%82%C4%85d_jednogarbny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "camelidae",
+            "genus": "camelus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Camelus_dromedarius_in_Nuweiba.jpg/800px-Camelus_dromedarius_in_Nuweiba.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bactrian camel",
+        "polishName": "Wielb\u0142\u0105d domowy",
+        "latinName": "camelus bactrianus",
+        "englishLink": "https://en.wikipedia.org/wiki/Bactrian_camel",
+        "polishLink": "https://pl.wikipedia.org/wiki/Wielb%C5%82%C4%85d_domowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "camelidae",
+            "genus": "camelus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Trampeltier_1528.JPG/756px-2011_Trampeltier_1528.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Ring-tailed lemur",
+        "polishName": "Lemur katta",
+        "latinName": "lemur catta",
+        "englishLink": "https://en.wikipedia.org/wiki/Ring-tailed_lemur",
+        "polishLink": "https://pl.wikipedia.org/wiki/Lemur_katta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "primates",
+            "suborder": "strepsirrhini",
+            "family": "lemuridae",
+            "genus": "lemur"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg/400px-Ring-tailed_lemur_%28Lemur_catta%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Giant anteater",
+        "polishName": "Mr\u00f3wkojad wielki",
+        "latinName": "myrmecophaga tridactyla",
+        "englishLink": "https://en.wikipedia.org/wiki/Giant_anteater",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mr%C3%B3wkojad_wielki",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "pilosa",
+            "family": "myrmecophagidae",
+            "genus": "myrmecophaga"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Myresluger2.jpg/800px-Myresluger2.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Cattle",
+        "polishName": "Byd\u0142o domowe",
+        "latinName": "bos taurus",
+        "englishLink": "https://en.wikipedia.org/wiki/Cattle",
+        "polishLink": "https://pl.wikipedia.org/wiki/Byd%C5%82o_domowe",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "bovidae",
+            "subfamily": "bovinae",
+            "genus": "bos"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/800px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Domestic sheep",
+        "polishName": "Owca domowa",
+        "latinName": "ovis aries",
+        "englishLink": "https://en.wikipedia.org/wiki/Sheep",
+        "polishLink": "https://pl.wikipedia.org/wiki/Owca_domowa",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "bovidae",
+            "subfamily": "caprinae",
+            "tribe": "caprini",
+            "genus": "ovis"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/394px-Flock_of_sheep.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Domestic goat",
+        "polishName": "Koza domowa",
+        "latinName": "capra hircus",
+        "englishLink": "https://en.wikipedia.org/wiki/Goat",
+        "polishLink": "https://pl.wikipedia.org/wiki/Koza_domowa",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "bovidae",
+            "subfamily": "caprinae",
+            "tribe": "caprini",
+            "genus": "capra"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/600px-Hausziege_04.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Mandrill",
+        "polishName": "Mandryl barwnolicy",
+        "latinName": "mandrillus sphinx",
+        "englishLink": "https://en.wikipedia.org/wiki/Mandrill",
+        "polishLink": "https://pl.wikipedia.org/wiki/Mandryl_barwnolicy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "primates",
+            "suborder": "haplorhini",
+            "infraorder": "simiiformes",
+            "family": "cercopithecidae",
+            "genus": "mandrillus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/459px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Snow leopard",
+        "polishName": "Irbis \u015bnie\u017cny",
+        "latinName": "panthera uncia",
+        "englishLink": "https://en.wikipedia.org/wiki/Snow_leopard",
+        "polishLink": "https://pl.wikipedia.org/wiki/Irbis_%C5%9Bnie%C5%BCny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "carnivora",
+            "suborder": "feliformia",
+            "family": "felidae",
+            "subfamily": "pantherinae",
+            "genus": "panthera"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/800px-Irbis4.JPG",
+        "audioSrc": null
     }
 ]

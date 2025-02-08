@@ -1,0 +1,128 @@
+[
+    {
+        "englishName": "Fire salamander",
+        "polishName": "Salamandra plamista",
+        "latinName": "salamandra salamandra",
+        "englishLink": "https://en.wikipedia.org/wiki/Fire_salamander",
+        "polishLink": "https://pl.wikipedia.org/wiki/Salamandra_plamista",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "urodela",
+            "family": "salamandridae",
+            "genus": "salamandra"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Salamandra_salamandra_MHNT_1.jpg/800px-Salamandra_salamandra_MHNT_1.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Smooth newt",
+        "polishName": "Traszka zwyczajna",
+        "latinName": "lissotriton vulgaris",
+        "englishLink": "https://en.wikipedia.org/wiki/Smooth_newt",
+        "polishLink": "https://pl.wikipedia.org/wiki/Traszka_zwyczajna",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "urodela",
+            "family": "salamandridae",
+            "genus": "lissotriton"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Triturus_vulgaris_maennchen_cropped.jpg/800px-Triturus_vulgaris_maennchen_cropped.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common toad",
+        "polishName": "Ropucha szara",
+        "latinName": "bufo bufo",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_toad",
+        "polishLink": "https://pl.wikipedia.org/wiki/Ropucha_szara",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "anura",
+            "family": "bufonidae",
+            "genus": "bufo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Common_Toad_Cornwall.jpeg/800px-Common_Toad_Cornwall.jpeg",
+        "audioSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Common_Toad_%28Bufo_bufo%29_%28W_BUFO_BUFO_R3_C2%29.ogg"
+    },
+    {
+        "englishName": "European tree frog",
+        "polishName": "Rzekotka drzewna",
+        "latinName": "hyla arborea",
+        "englishLink": "https://en.wikipedia.org/wiki/European_tree_frog",
+        "polishLink": "https://pl.wikipedia.org/wiki/Rzekotka_drzewna",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "anura",
+            "family": "hylidae",
+            "genus": "hyla"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/European_tree_frog_%28Hyla_arborea%29_on_hemp-agrimony_%28Eupatorium_cannabinum%29.jpg/800px-European_tree_frog_%28Hyla_arborea%29_on_hemp-agrimony_%28Eupatorium_cannabinum%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Edible frog",
+        "polishName": "\u017baba wodna",
+        "latinName": "pelophylax",
+        "englishLink": "https://en.wikipedia.org/wiki/Edible_frog",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BBaba_wodna",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "anura",
+            "family": "ranidae",
+            "genus": "pelophylax"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Rana_esculenta_on_Nymphaea_edit.JPG/800px-Rana_esculenta_on_Nymphaea_edit.JPG",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Northern crested newt",
+        "polishName": "Traszka grzebieniasta",
+        "latinName": "triturus cristatus",
+        "englishLink": "https://en.wikipedia.org/wiki/Northern_crested_newt",
+        "polishLink": "https://pl.wikipedia.org/wiki/Traszka_grzebieniasta",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "urodela",
+            "family": "salamandridae",
+            "genus": "triturus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kammmolchmaennchen.jpg/800px-Kammmolchmaennchen.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Common frog",
+        "polishName": "\u017baba trawna",
+        "latinName": "rana temporaria",
+        "englishLink": "https://en.wikipedia.org/wiki/Common_frog",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BBaba_trawna",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "amphibia",
+            "order": "anura",
+            "family": "ranidae",
+            "genus": "rana"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/European_Common_Frog_Rana_temporaria.jpg/800px-European_Common_Frog_Rana_temporaria.jpg",
+        "audioSrc": null
+    }
+]
