@@ -41,11 +41,12 @@ def get_classification(rows, start_index, domain):
     Args:
         rows (list): A list of BeautifulSoup Tag objects representing table rows.
         start_index (int): The index to start extracting classification information from.
+        domain (str): The domain of the webpage to scrape.
 
     Returns:
         dict: A dictionary containing classification information where keys are classification
               categories (e.g., 'kingdom', 'phylum', etc.) and values are the corresponding
-              classification names. The extraction stops when the 'species' key is encountered.
+              classification names and links. The extraction stops when the 'species' key is encountered.
     """
     classification = {}
     for i in range(start_index, len(rows)):
