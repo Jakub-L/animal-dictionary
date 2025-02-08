@@ -2,23 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-TAXONOMY_PAIRS = {
-    "domain": "domena",
-    "kingdom": "królestwo",
-    "phylum": "typ",
-    "class": "gromada",
-    "infraclass": "infragromada",
-    "clade": "klad",
-    "order": "rząd",
-    "infraorder": "infrarząd",
-    "suborder": "podrząd",
-    "tribe": "plemię",
-    "family": "rodzina",
-    "subfamily": "podrodzina",
-    "genus": "rodzaj",
-    "subgenus": "podrodzaj",
-}
-
 
 def get_image(url):
     """
@@ -70,6 +53,8 @@ def get_classification(rows, start_index, domain):
         key = cells[0].get_text().strip().lower().replace(":", "")
         name = list(cells[1].stripped_strings)[0].lower()
         link = cells[1].find("a")["href"] if cells[1].find("a") else None
+        if key == "species complex":
+            continue
         if key == "species" or key == "gatunek":
             return classification
         classification[key] = {"name": name, "link": f"{domain}{link}"}
