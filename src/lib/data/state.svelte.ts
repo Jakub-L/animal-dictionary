@@ -1,12 +1,16 @@
+import amphibians from './amphibians.json';
 import birds from './birds.json';
 import mammals from './mammals.json';
 import reptiles from './reptiles.json';
 
-import taxonTranslations from './taxons.json';
+import taxonomy from './taxonomy.json';
 
-import type { Animal, TaxonFilter } from '$lib/types';
+import type { Animal, Taxon, TaxonFilter } from '$lib/types';
 
-export const taxons: Record<string, string> = taxonTranslations;
+export const taxons: Record<string, Taxon> = taxonomy.reduce(
+	(acc, taxon) => ({ ...acc, [taxon.englishName]: taxon }),
+	{}
+);
 export const taxonomicRanks: Record<string, string> = {
 	domain: 'domena',
 	kingdom: 'królestwo',
@@ -21,11 +25,10 @@ export const taxonomicRanks: Record<string, string> = {
 	tribe: 'plemię',
 	suborder: 'podrząd',
 	infraorder: 'infrarząd',
-	infraclass: 'infragromada',
-	'species complex': 'kompleks gatunków'
+	infraclass: 'infragromada'
 };
 
-export const animals: Animal[] = [...birds, ...mammals, ...reptiles];
+export const animals: Animal[] = [...amphibians, ...birds, ...mammals, ...reptiles];
 
 export const nameQuery: { value: string } = $state({ value: '' });
 export const taxonFilters: { value: TaxonFilter } = $state({ value: {} });

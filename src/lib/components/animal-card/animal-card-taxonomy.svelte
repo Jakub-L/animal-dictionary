@@ -25,7 +25,7 @@
 				</div>
 				<div class="flex flex-col items-end">
 					<span class="text-2xs font-semibold capitalize">{taxonomicRanks[taxon]}</span>
-					<span class="text-sm capitalize">{taxons[value] ?? 'Error'}</span>
+					<span class="text-sm capitalize">{taxons[value]?.polishName ?? value}</span>
 				</div>
 			</div>
 			<button

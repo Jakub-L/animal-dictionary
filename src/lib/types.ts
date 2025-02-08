@@ -8,5 +8,13 @@ export type Animal = {
 	imageSrc: string | null;
 	audioSrc: string | null;
 };
+export type Taxon = {
+	englishName: string;
+	polishName: string;
+	englishLink: string;
+	polishLink: string;
+	englishDescription: string;
+	polishDescription: string;
+};
 
 export type TaxonFilter = Record<string, string>;
