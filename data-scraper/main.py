@@ -5,7 +5,7 @@ from mammals import get_british_mammal_links, get_polish_mammal_links
 from infobox import read_animal
 
 
-def process_group(group, output_name):
+def process_group(group, output_name, taxon_links):
     processed_animals = set()
     with open(f"../src/lib/data/{output_name}.json", "w") as file:
         file.write("[\n")
@@ -15,13 +15,21 @@ def process_group(group, output_name):
                 if animal["latin_name"] in processed_animals:
                     continue
                 processed_animals.add(animal["latin_name"])
+
+                classification = {}
+                for taxon, taxon_data in animal["classification"].items():
+                    name = taxon_data["name"]
+                    link = taxon_data["link"]
+                    taxon_links[name] = link
+                    classification[taxon] = name
+
                 raw_json = {
                     "englishName": animal["english_name"],
                     "polishName": animal["polish_name"],
                     "latinName": animal["latin_name"],
                     "englishLink": animal["english_link"],
                     "polishLink": animal["polish_link"],
-                    "classification": animal["classification"],
+                    "classification": classification,
                     "imageSrc": animal["img_file"] if "img_file" in animal else None,
                     "audioSrc": animal["audio"] if "audio" in animal else None,
                 }
@@ -49,11 +57,14 @@ def main():
         "birds": get_polish_bird_links()[0:] + get_british_bird_links(),
         "mammals": get_polish_mammal_links() + get_british_mammal_links(),
     }
+    taxon_links = {}
 
     for group_name, group in read_manual_imports().items():
         groups.setdefault(group_name, []).extend(group)
 
     for group_name, group in groups.items():
+        process_group(group, group_name, taxon_links)
+
         process_group(group, group_name)
 
 

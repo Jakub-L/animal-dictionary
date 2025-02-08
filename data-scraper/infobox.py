@@ -51,7 +51,7 @@ def get_audio(url):
     return f"https:{audio}"
 
 
-def get_classification(rows, start_index):
+def get_classification(rows, start_index, domain):
     """
     Extracts classification information from a list of HTML table rows.
 
@@ -68,10 +68,11 @@ def get_classification(rows, start_index):
     for i in range(start_index, len(rows)):
         cells = rows[i].find_all(["td", "th"])
         key = cells[0].get_text().strip().lower().replace(":", "")
-        value = list(cells[1].stripped_strings)[0].lower()
+        name = list(cells[1].stripped_strings)[0].lower()
+        link = cells[1].find("a")["href"] if cells[1].find("a") else None
         if key == "species" or key == "gatunek":
             return classification
-        classification[key] = value
+        classification[key] = {"name": name, "link": f"{domain}{link}"}
     return classification
 
 
@@ -97,7 +98,7 @@ def read_british_animal(url, ignore_other_language=False):
                 r"\(.*\)|,.*", r"", list(rows[i + 1].stripped_strings)[0].lower()
             )
         if row.get_text().strip() == "Scientific classification":
-            animal["classification"] = get_classification(rows, i + 1)
+            animal["classification"] = get_classification(rows, i + 1, domain)
 
         audio = row.find("audio")
         if audio is not None:
