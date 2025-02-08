@@ -53,12 +53,16 @@ def get_classification(rows, start_index, domain):
         cells = rows[i].find_all(["td", "th"])
         key = cells[0].get_text().strip().lower().replace(":", "")
         name = list(cells[1].stripped_strings)[0].lower()
-        link = cells[1].find("a")["href"] if cells[1].find("a") else None
+        a_tag = cells[1].find("a")
+        link = a_tag["href"] if a_tag and a_tag.has_attr("href") else None
         if key == "species complex":
             continue
         if key == "species" or key == "gatunek":
             return classification
-        classification[key] = {"name": name, "link": f"{domain}{link}"}
+        classification[key] = {
+            "name": name,
+            "link": f"{domain}{link}" if link else None,
+        }
     return classification
 
 
