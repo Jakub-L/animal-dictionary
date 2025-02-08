@@ -8,11 +8,263 @@
     "output": "mammals"
   },
   {
+    "url": "https://en.wikipedia.org/wiki/Lion",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Tiger",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Western_gorilla",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Giraffe",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Hippopotamus",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Pygmy_hippopotamus",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Three-toed_sloth",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Lac_Alaotra_bamboo_lemur",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Alpaca",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Red_panda",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Meerkat",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Asian_elephant",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Orangutan",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Koala",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Giant_panda",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Polar_bear",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Grizzly_bear",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Leopard",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Cheetah",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/White_rhinoceros",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Red_kangaroo",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Capybara",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Dromedary",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Bactrian_camel",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ring-tailed_lemur",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Giant_anteater",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Cattle",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Horse",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sheep",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Goat",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Donkey",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Zebra",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Mandrill",
+    "output": "mammals"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Snow_leopard",
+    "output": "mammals"
+  },
+  {
     "url": "https://en.wikipedia.org/wiki/Toco_toucan",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Greater_flamingo",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Snowy_owl",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Emperor_penguin",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Chinstrap_penguin",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Snares_penguin",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/African_penguin",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Scarlet_macaw",
+    "output": "birds"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Andean_condor",
     "output": "birds"
   },
   {
     "url": "https://en.wikipedia.org/wiki/Boa_constrictor",
     "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/King_cobra",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Aldabra_giant_tortoise",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/American_alligator",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Nile_crocodile",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Green_anaconda",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Komodo_dragon",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Iguana",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sand_lizard",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Grass_snake",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Adder",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Common_slow_worm",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Loggerhead_sea_turtle",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Leatherback_sea_turtle",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Green_sea_turtle",
+    "output": "reptiles"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Fire_salamander",
+    "output": "amphibians"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Smooth_newt",
+    "output": "amphibians"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Common_toad",
+    "output": "amphibians"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/European_tree_frog",
+    "output": "amphibians"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Edible_frog",
+    "output": "amphibians"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Northern_crested_newt",
+    "output": "amphibians"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Common_frog",
+    "output": "amphibians"
   }
 ]
