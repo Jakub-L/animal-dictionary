@@ -2955,5 +2955,117 @@
         },
         "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/800px-Irbis4.JPG",
         "audioSrc": null
+    },
+    {
+        "englishName": "Giraffe",
+        "polishName": "Żyrafa",
+        "latinName": "giraffa camelopardalis",
+        "englishLink": "https://en.wikipedia.org/wiki/Giraffe",
+        "polishLink": "https://pl.wikipedia.org/wiki/%C5%BByrafa",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "giraffidae",
+            "genus": "giraffa"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rothschild%27s_giraffe_%28Giraffa_camelopardalis_rothschildi%29_-_Murchison_Falls_National_Park.jpg/800px-Rothschild%27s_giraffe_%28Giraffa_camelopardalis_rothschildi%29_-_Murchison_Falls_National_Park.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Alpaca",
+        "polishName": "Alpaka",
+        "latinName": "lama pacos",
+        "englishLink": "https://en.wikipedia.org/wiki/Alpaca",
+        "polishLink": "https://pl.wikipedia.org/wiki/Alpaka_(zwierz%C4%99)",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "artiodactyla",
+            "family": "camelidae",
+            "genus": "lama"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alpaca_%2831562329701%29.jpg/540px-Alpaca_%2831562329701%29.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Bornean orangutan",
+        "polishName": "Orangutan borneański",
+        "latinName": "pongo pygmaeus",
+        "englishLink": "https://en.wikipedia.org/wiki/Bornean_orangutan",
+        "polishLink": "https://pl.wikipedia.org/wiki/Orangutan_bornea%C5%84ski",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "primates",
+            "suborder": "haplorhini",
+            "infraorder": "simiiformes",
+            "family": "hominidae",
+            "subfamily": "ponginae",
+            "genus": "pongo"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tanjung_Puting30477.jpg/512px-Tanjung_Puting30477.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Horse",
+        "polishName": "Koń domowy",
+        "latinName": "equus ferus caballus",
+        "englishLink": "https://en.wikipedia.org/wiki/Horse",
+        "polishLink": "https://pl.wikipedia.org/wiki/Ko%C5%84_domowy",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "perissodactyla",
+            "family": "equidae",
+            "genus": "equus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/de/Nokota_Horses_cropped.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Donkey",
+        "polishName": "Osioł zwyczajny",
+        "latinName": "equus africanus asinus",
+        "englishLink": "https://en.wikipedia.org/wiki/Donkey",
+        "polishLink": "https://pl.wikipedia.org/wiki/Osio%C5%82_zwyczajny",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "perissodactyla",
+            "family": "equidae",
+            "genus": "equus"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Donkey_in_Clovelly%2C_North_Devon%2C_England.jpg",
+        "audioSrc": null
+    },
+    {
+        "englishName": "Plains zebra",
+        "polishName": "Zebra stepowa",
+        "latinName": "equus quagga",
+        "englishLink": "https://en.wikipedia.org/wiki/Plains_zebra",
+        "polishLink": "https://pl.wikipedia.org/wiki/Zebra_stepowa",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "mammalia",
+            "order": "perissodactyla",
+            "family": "equidae",
+            "genus": "equus",
+            "subgenus": "hippotigris"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg/800px-Equus_quagga_burchellii_-_Etosha%2C_2014.jpg",
+        "audioSrc": null
     }
 ]

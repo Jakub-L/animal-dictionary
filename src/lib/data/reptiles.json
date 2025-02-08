@@ -270,5 +270,24 @@
         },
         "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/800px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
         "audioSrc": null
+    },
+    {
+        "englishName": "Green iguana",
+        "polishName": "Legwan zielony",
+        "latinName": "iguana iguana",
+        "englishLink": "https://en.wikipedia.org/wiki/Green_iguana",
+        "polishLink": "https://pl.wikipedia.org/wiki/Legwan_zielony",
+        "classification": {
+            "domain": "eukaryota",
+            "kingdom": "animalia",
+            "phylum": "chordata",
+            "class": "reptilia",
+            "order": "squamata",
+            "suborder": "iguania",
+            "family": "iguanidae",
+            "genus": "iguana"
+        },
+        "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Green_Iguana_In_Florida.jpg/480px-Green_Iguana_In_Florida.jpg",
+        "audioSrc": null
     }
 ]
