@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { taxonomicRanks, taxons, taxonFilters } from '$lib/data/state.svelte';
 	import Icon from '../icon.svelte';
+	import AnimalCardInfoBox from './animal-card-info-box.svelte';
 
 	// Props
 	interface Props {
@@ -28,6 +29,7 @@
 					<span class="text-sm capitalize">{taxons[value]?.polishName ?? value}</span>
 				</div>
 			</div>
+			<AnimalCardInfoBox />
 			<button
 				class={[
 					'relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
