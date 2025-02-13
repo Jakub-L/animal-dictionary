@@ -29,10 +29,11 @@
 					<span class="text-sm capitalize">{taxons[value]?.polishName ?? value}</span>
 				</div>
 			</div>
-			<AnimalCardInfoBox />
+			<div class="flex gap-1">
+			<AnimalCardInfoBox taxon={taxons[value]}/>
 			<button
 				class={[
-					'relative flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
+					'flex min-h-12 min-w-12 items-center justify-center rounded-full border border-gray-400 p-0.5 text-gray-700 hover:bg-gray-400 focus-visible:outline-4 focus-visible:-outline-offset-1 focus-visible:outline-gray-400 active:bg-gray-500',
 					taxonFilters.value[taxon] === value &&
 						'foucs-visible:outline-red-400 border-red-400 text-red-700 opacity-80 hover:bg-red-400 active:bg-red-500'
 				]}
@@ -45,6 +46,7 @@
 					alt=""
 				/>
 			</button>
+			</div>
 		</div>
 	{/each}
 </div>
